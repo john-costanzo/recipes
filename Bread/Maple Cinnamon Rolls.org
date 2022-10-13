@@ -1,0 +1,80 @@
+#+STARTUP: showeverything
+* Maple Cinnamon Rolls
+** Ingredients:
+*** Dough
+- 1 cup (240ml) whole milk*
+- ⅔ cup (135g) granulated sugar
+- 1 and ½ tablespoons (14g) Red Star Platinum yeast (2 standard size packets)*
+- ½ cup (115g) unsalted butter, softened to room temperature and cut into 4 pieces
+- 2 large eggs, at room temperature
+- ½ teaspoon salt
+- 4 and ½ cups (563g) all-purpose flour (spoon & leveled), plus more for dusting/rolling
+*** Filling
+- ½ cup (115g) unsalted butter, softened to room temperature
+- ¼ cup (60ml) pure maple syrup
+- ¼ cup (50g) granulated sugar
+- 1 Tablespoon ground cinnamon
+*** Maple Icing
+- 1 and ½ cups (180g) confectioners’ sugar
+- 2 Tablespoons (30ml) pure maple syrup
+- 2 Tablespoons (30ml) whole milk
+
+** Method:
+*** Make the dough
+1. Heat milk to about 95°F (35°C) – use microwave or stove top.
+2. Pour the warm milk into the bowl of a stand electric mixer fitted with the dough hook attachment (OR you can use a handheld mixer OR no mixer, but a stand mixer is ideal).
+3. With a whisk, manually whisk in the sugar and yeast.
+4. Cover with a towel and let sit until the yeast is foamy, about 5-10 minutes.
+   #+begin_tip
+   If the yeast does not dissolve and foam, start over with fresh active yeast.
+   #+end_tip
+5. On low speed, beat in the softened butter until it is slightly broken up.
+6. Next add the eggs, one at a time, and then the salt.
+   #+begin_tip
+   The butter won’t really be mixing into the mixture, so don’t be alarmed if it stays in pieces.
+   #+end_tip
+7. On low speed, gradually add the flour.
+8. Once it is all added, beat on medium speed until a soft dough forms.
+9. Increase speed to medium-high and beat until the dough is soft and supple, about 6 minutes longer.
+   #+begin_tip
+   If you do not have a stand-mixer with a hook attachment, knead the dough by hand in this step.
+   #+end_tip
+10. Transfer the dough to a lightly floured surface and knead it with your hands for 1 minute.
+11. Form the dough into a ball and transfer it to a lightly greased bowl.
+12. Cover the dough loosely with plastic wrap, a paper towel, or aluminum foil and let sit in a warm place until doubled in size, about 1 to 2 hours.
+13. Grease the bottom and sides of a 9×13 inch baking dish.
+14. Turn the risen dough out onto a lightly floured work surface, punch it down and, using a rolling pin, roll into a 12×18 inch rectangle.
+15. Make sure the dough is smooth and evenly thick.
+*** For the filling
+1. Using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the butter and maple syrup together on medium-high speed until combined and creamy.
+2. Add the sugar and cinnamon, beating until combined.
+3. Spread the maple mixture all over the dough.
+4. Tightly roll up the dough to form an 18-inch-long log.
+5. Cut into 12 even rolls.
+6. Arrange them in the prepared baking pan, cut sides up.
+7. Cover the rolls very tightly with aluminum foil (no rolls exposed – this dries out your dough!) and stick in the refrigerator for 8-12 hours.
+8. Remove rolls from the refrigerator and let rise in a warm place just as you did earlier until they are puffy, about 1-2 hours. Mine usually take 1 and ½ hours.
+9. After the rolls have risen, preheat the oven to 375°F (191°C).
+10. Bake for about 25 minutes, until they are golden brown.
+    #+begin_tip
+    About halfway through the bake time, I like to cover the rolls loosely with aluminum foil so the tops don’t brown too much.
+    #+end_tip
+11. Remove pan from the oven and allow to cool on a wire rack for about 10 minutes as you make the icing.
+*** Make the icing
+1. Whisk all of the icing ingredients together.
+    #+begin_tip
+    If it’s too thin, add a little more confectioners’ sugar.
+    #+end_tip
+2. Drizzle icing over warm rolls.
+3. Cover leftover frosted or unfrosted rolls tightly and store at room temperature for up to 3 days.
+   #+begin_tip
+   I prefer this over storing in the refrigerator. I find that dries them out, but do what you like best.
+   #+end_tip
+** Notes
+1. /Freezing Instructions/: Baked rolls can be frozen up to 2-3 months. Thaw overnight in the refrigerator and warm up before enjoying. You can also freeze the unbaked rolls and here’s how: bake the rolls in for only about 10 minutes at 375°F (191°C). Cool completely, then cover tightly and freeze. To serve, take the rolls out of the freezer and put into the refrigerator a few hours before serving. Then, finish baking them.
+2. /Milk/: Whole milk preferred for richest tasting dough. 2% or 1% would be fine, but not ideal. Nonfat is not recommended.
+3. /Yeast/: If not using an instant yeast, rise time may be up to 40% longer. Reference my Baking with Yeast Guide for answers to common yeast FAQs.
+4. /Faster Option/: If planning to bake the rolls right away, instead of sticking the rolls in the refrigerator, loosely cover them and let rise in a warm place just as you did earlier until they are puffy, about 2 hours. Then continue with the bake.
+** Credits:
+- From https://sallysbakingaddiction.com/melt-in-your-mouth-maple-cinnamon-rolls/ via Sarah Colwill
+- date created: [2022-04-20 Wed]

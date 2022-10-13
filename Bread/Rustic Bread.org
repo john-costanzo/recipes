@@ -1,0 +1,39 @@
+#+STARTUP: showeverything
+* Rustic Bread
+Makes 2 large loaves
+
+** Ingredients:
+*** Grains:
+- ½ cup wheat berries or cracked wheat (optional)
+
+*** Preferment:
+- >12.5 oz. water (1½ cups)
+- ⅛ teaspoon instant yeast
+- 1 lb. bread flour (3½ cups; 420 grams)
+- ½ tablespoon (5 grams) salt
+
+*** Final dough:
+- 12.5 oz. water (1½ cups)
+- ½ teaspoon instant yeast
+- 8 oz. bread flour (2  cups; 240 grams)
+- 8 oz. whole wheat or rye flour or a mixture of them (around 2 cups; 240 grams)
+- ¼ cup or so flax meal (optional) 
+- ½ tablespoon (5 grams) salt
+- all of the preferment 
+
+** Method:
+1. If using grains, soak in water, enough to cover, over night.
+2. Put the yeast in the water and stir. Mix the flour and salt together in a bowl and pour in the yeasted water. Mix until the flour is hydrated, adding more water if necessary. Cover the bowl with plastic wrap and leave the pre-ferment out at room temperature overnight (up to 16 hours... if you need more time before baking put it in the refrigerator).
+3. To make the final dough, combine all of the ingredients except the pre-ferment in a mixing bowl. Chop the pre-ferment up into small pieces and mix or knead it into the final dough until they are thoroughly combined. This is quite difficult to do by hand: Hamelman assumes the baker has a mixer and can mix it for 5 minutes by machine. I mix and knead my dough by hand for about 10 minutes.
+4. Place the dough back in a greased bowl and ferment for 2½ hours, punching down or folding the dough twice during that time.
+5. (Folding the dough consists of taking the dough out of the bowl, spreading it out a little on a clean surface, folding it in thirds like a letter, rotating it 90 degrees and folding it up again, and then returning the dough to the bowl and covering it again. Like punching down, folding degases the dough some, but it also encourages gluten development. More on this topic in a future post.)
+6. At the end of the fermentation, divide the dough into two pieces and preshape each into a ball. Cover with a clean towel and let each rest for 5 to 10 minutes before shaping into the final shape. Once shaped, cover the loaves with a clean towel and set aside for a final rise, approximately 1¼ to 1½ hours.
+7. Halfway though the final rise, begin preheating the oven to 450 degrees. If you are using a baking stone, preheat it as well.
+8. Right before placing it in the oven, score the loaves. Place them in the oven and use whatever technique you use to create stream in the oven (squirt bottle, skillet full of hot water, etc) to encourage proper crust development.
+9. After 20 minutes of baking, rotate the loaves 180 degrees so that they'll bake evenly. Bake until an instant read thermometer reads around 200 degrees, which took approximately 35 minutes for my batard ("football") shaped loaves.
+
+** Credits:
+- date created: [2011-03-04 Fri]
+- From http://www.thefreshloaf.com/recipes/rusticbread February 2011
+- (I've tried preheating to 500 degrees, then lowering to 450 degrees and baking for 20 minutes on speed bake. Crispy crust, moist and tender, but a bit gummy inside.)
+- [2020-03-23 Mon] Added ~2 cups cheddar cheese and a diced jalapeño. The dough may have risen too long in the second rise and when in the oven, the cheese exploded out of the loaf. Tasty, nevertheless. Gave one loaf for Nancy.

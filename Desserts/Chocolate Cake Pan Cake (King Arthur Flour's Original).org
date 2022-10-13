@@ -1,0 +1,75 @@
+#+STARTUP: showeverything
+* Chocolate Cake Pan Cake (King Arthur Flour's Original)
+** Ingredients:
+*** Cake (sourdough-based, single recipe)
+- ¾ cup (88.5g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
+- 1 cup (198g) sugar
+- ¼ cup (21g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
+- ½ teaspoon salt
+- ½ teaspoon espresso powder, optional
+- 1 teaspoon baking soda
+- 1 cup (~242g) sourdough starter
+- 1 teaspoon vanilla extract, gluten-free if necessary
+- 1 tablespoon (14g) vinegar, cider or white
+- ⅓ cup (67g) vegetable oil
+- ½ cup (113.5g) cold water
+*** Cake (sourdough-based, double recipe)
+- 1 ½ cup (177g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
+- 2 cup (396g) sugar
+- ½ cup (42g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
+- 1 teaspoon salt
+- 1 teaspoon espresso powder, optional
+- 2 teaspoons baking soda
+- 2 cup (~848g) sourdough starter
+- 2 teaspoon vanilla extract, gluten-free if necessary
+- 2 tablespoon (28g) vinegar, cider or white
+- ⅔ cup (134g) vegetable oil
+- 1 cup (227g) cold water
+*** Cake (sourdough-based, one-and-a-half recipe)
+- 1⅛ cup (133g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
+- 1½ cup (297g) sugar
+- ⅜ cup (31.5g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
+- ¾ teaspoon salt
+- ¾ teaspoon espresso powder, optional
+- 1½ teaspoon baking soda
+- 1½ cup (~363g) sourdough starter
+- 1½ teaspoon vanilla extract, gluten-free if necessary
+- 1½ tablespoon (21g) vinegar, cider or white
+- ½ cup (100g) vegetable oil
+- ¾ cup (170g) cold water
+*** Cake (normal)
+- 1½ cups (177g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
+- 1 cup (198g) sugar
+- ¼ cup (21g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
+- ½ teaspoon salt
+- ½ teaspoon espresso powder, optional
+- 1 teaspoon baking soda
+- 1 teaspoon vanilla extract, gluten-free if necessary
+- 1 tablespoon (14g) vinegar, cider or white
+- ⅓ cup (67g) vegetable oil
+- 1 cup (227g) cold water
+*** Icing
+- 1½ cups (255g) semisweet chocolate chips
+- ½ cup (113g) half-and-half  -/or-/  ⅓ cup cold brewed coffee
+** Method:
+1. Preheat your oven to 350°F.
+2. Lightly grease an 8" square or 9" round pan that's at least 2" deep.
+3. Whisk the dry ingredients together in a medium-sized bowl.
+4. Whisk the vanilla, vinegar, vegetable oil, and water in a separate bowl.
+5. Pour the wet ingredients into the bowl of dry ingredients, stirring until thoroughly combined.
+6. Pour the batter into the prepared pan.
+7. Bake the cake for 30 to 35 minutes, until a toothpick inserted into the center comes out clean, or with a few moist crumbs clinging to it.
+8. Serve the cake right from the pan; warm from the oven, it's wonderful with a big glass of milk.
+9. Or, once cool, frost the cake with this simple chocolate frosting:
+     a. Heat the chocolate chips with the half & half until the chips melt.
+     b. Stir until smooth, and pour/spread over the cake.
+     c. For a non-dairy icing, substitute ⅓ cup cold brewed coffee (or water) for the half-and-half.
+#+begin_tip
+Store cake, well covered, at room temperature for several days; freeze for longer storage.
+#+end_tip
+** Yield
+one 8" square or 9" round cake
+** Credits:
+- https://www.kingarthurflour.com/recipes/king-arthur-flours-original-cake-pan-cake-recipe
+- date created: [2019-09-23 Mon]
+- Made twice in autumn 2019. Yummy chocolately flavor in a light, moist cake.

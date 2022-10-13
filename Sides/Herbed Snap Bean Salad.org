@@ -1,0 +1,27 @@
+#+STARTUP: showeverything
+* Herbed Snap Bean Salad
+** Ingredients:
+*** Salad
+- 4 cups sliced cooked snap beans
+- 1 medium red onion, thinly sliced
+- ½ cup diced green pepper
+- ½ cup diced celery
+*** Dressing
+- ⅛ teaspoon dried oregano
+- ⅛ teaspoon dried dill weed
+- ½ teaspoon salt
+- ¼ teaspoon black pepper
+- 1 clove garlic, minced
+- ⅓ cup oil
+- ¼ cup vinegar
+- ¼ cup red wine
+- ¼ cup sugar
+** Method:
+1. Put salad ingredients in a large bowl.
+2. Add dressing ingredients to a jar and shake together; pour over salad.
+3. Cover and chill 2 to 24 hours
+#+begin_tip
+Bean salads are always better the next day!
+#+end_tip
+** Credits:
+- date created: [2022-05-31 Tue]

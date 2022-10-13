@@ -1,0 +1,18 @@
+#+STARTUP: showeverything
+* Pizza, New York-style, v2.0
+** Ingredients:
+- 600 ml (2½ cups) warm water
+- 15 ml (1 tbsp) sugar
+- 5 ml (1 tsp) dry yeast
+- 30 ml (2 tsp) olive iol
+- 15 ml (1 tbsp) salt
+- 600 grams (5 cups) bread flour
+** Method:
+- Mix ingredients.
+- Adding flour as necessary
+- Knead until window pane thin, perhaps for 10 minutes.
+- Refrigerate for at least 24 hours.
+- 
+** Credits:
+- From https://www.youtube.com/watch?v=SDpCzJw2xm4
+- date created: [2020-06-27 Sat]

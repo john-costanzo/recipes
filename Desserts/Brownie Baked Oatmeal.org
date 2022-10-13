@@ -1,0 +1,28 @@
+#+STARTUP: showeverything
+* Brownie Baked Oatmeal
+** Ingredients:
+- 2 cups coconut milk
+- ½ cup maple syrup
+- ⅓ cup peanut butter
+- 1 tsp vanilla
+- 2 cups rolled oats
+- ¼ cup cocoa
+- 1 tsp baking powder
+- 1 tbsp flax
+- pinch of salt
+- ⅓ cup chocolate chips
+** Method:
+1. Preheat oven to 350 F.
+2. Add all wet ingredients to a bowl.
+3. Then add dry ingredients and mix.
+4. Add chocolate chips and mix.
+5. Pour into 6” x 9” pan and bake for 40 minutes.
+6. Enjoy!
+#+begin_note
+Store in fridge and reheat when you want to eat.
+#+end_note
+** Tags
+IsVegan
+** Credits:
+- From 
+- date created: [2022-07-04 Mon]

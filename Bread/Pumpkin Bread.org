@@ -1,0 +1,59 @@
+#+STARTUP: showeverything
+* Pumpkin Bread
+Prep Time: 20 minutes
+\\
+Cook Time: 60-70 minutes
+
+** Ingredients:
+*** 2 Loaves
+- 3 cups (594 grams) sugar 
+- 1 cup vegetable oil
+- 4 eggs, lightly bean
+- 16 ounces canned unsweetened pumpkin
+- 1 cup raisins (optional)
+- 3½ cups (420 grams) flour
+- 2 teaspoons salt
+- 2 teaspoons baking soda
+- 1 teaspoon baking powder
+- 1 teaspoon nutmeg
+- 1 teaspoon allspice
+- 1 teaspoon cinnamon
+- ½ teaspoon cloves
+- ⅔ cup water
+
+*** 1 Loaf
+- 1½ cups (297 grams) sugar 
+- ½ cup vegetable oil
+- 2 eggs, lightly bean
+- 8 ounces canned unsweetened pumpkin
+- ½ cup raisins (optional)
+- 1¾ cups (240 grams) flour
+- 1 teaspoon salt
+- 1 teaspoon baking soda
+- ½ teaspoon baking powder
+- ½ teaspoon nutmeg
+- ½ teaspoon allspice
+- ½ teaspoon cinnamon
+- ¼ teaspoon cloves
+- ⅓ cup water
+** Method:
+1) Preheat oven to 350 degrees.
+2) Butter and flour two 9x5 loaf pans.
+3) Stir together sugar and oil. Stir in eggs, pumpkin and, optionally, the raisins.
+4) Combine dry ingredients in separate bowl.
+5) Blend dry ingredients and water into wet mixture, alternating.
+6) Divide batter between two loaf pans.
+7) Bake for 60 to 70 minutes or until cake tester comes out clean. Let stand 10 minutes. Remove from pans and cool.
+
+#+begin_tip
+Two Loaves will also make one loaf plus three mini-loaves.   
+#+end_tip
+** Credits:
+- [[http://www.foodnetwork.com/food/cda/recipe_print/0,1946,FOOD_9936_4067_RECIPE-PRINT-FULL-PAGE-FORMATTER,00.html][Recipe]]
+- Recipe Courtesy of Cathy Lowe
+- [2018-02-21 Wed] made for Women@DJ: yum
+- [2016-11-27 Sun] made for Sprint Reviews + TLC; good (although I used duck eggs and got some shell in them!)
+- [2016-06-26 Sun] made for TC, Doris and Joanne; still a hit!
+- [2009-12-13 Sun] Again on (for HLTA and DJ work colleagues). Another hit.
+- [2006-12-11 Mon] A hit! Made for Kate, Jan, Ian, Dan, TLC
+- date created: [2009-05-02 Sat]

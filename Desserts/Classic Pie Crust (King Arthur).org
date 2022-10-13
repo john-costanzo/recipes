@@ -1,0 +1,47 @@
+#+STARTUP: showeverything
+* Classic Pie Crust (King Arthur)
+** Ingredients:
+*** 2 Crusts [1]
+- 46g (¼ cup) vegetable shortening
+- 297g (2½ cups) King Arthur Unbleached All-Purpose Flour   or   283g King Arthur Perfect Pastry Blend
+- 1¼ teaspoons salt [2]
+- 142g (10 tablespoons) very cold unsalted butter
+- 85g to 142g (6 to 10 tablespoons) ice water [3]
+*** 1 Crust [1]
+- 23g (⅛ cup) vegetable shortening
+- 148.5g (1¼ cups) King Arthur Unbleached All-Purpose Flour or 141.5g King Arthur Perfect Pastry Blend
+- ⅝ teaspoons salt [2]
+- 71g (5 tablespoons) very cold unsalted butter
+- 42.5g to 71g (3 to 5 tablespoons) ice water [3]
+*** Notes
+[1] See [[https://www.kingarthurflour.com/blog/2016/10/16/make-pie-crust-in-your-stand-mixer][How to make pie crust in your stand mixer]] by PJ Hamel
+[2] Reduce the salt to 1 teaspoon (½ teaspoon for single crust) if you use salted butter.
+[3] Use the lesser amount of water if you use /Perfect Pastry Blend/.
+
+** Method:
+1. Whisk together the flour and salt.
+2. Add the shortening, working it in until the mixture is evenly crumbly.
+3. Cut the butter into small (about ½") cubes.
+4. Add the butter to the flour mixture, and work it in roughly with your fingers, a pastry cutter, or a mixer. Don't be too thorough; the mixture should be very uneven, with big chunks of butter in among the smaller ones.
+5. Add 4 (or 2 for single crust) tablespoons of water, and toss to combine.
+6. Toss with enough additional water to make a chunky, fairly cohesive mixture. It should hold together when you gather it up and squeeze it in your hand.
+7. Divide the dough in half, and gather each half into a rough disk. Smooth the disks; it's OK if they have a few cracks in the surface. Smooth the disks' edges by running them along a floured surface like a wheel.
+8. Wrap in plastic, and chill for 30 minutes, or up to overnight. Or wrap in aluminum foil over the plastic, and freeze for up to 2 months.
+9. When you're ready to make pie, remove the crust from the refrigerator or freezer, leaving it wrapped. Allow it to thaw (if it's frozen) or warm a bit (if it's been chilled longer than 30 minutes), until it's softened enough to roll, but still feels cold to the touch.
+10. Next, measure the bottom diameter, and up the sides of your pie pan. If your pan is 7" across the bottom, and 1 ½" up each side, that's a total of 10". This means you should roll your bottom crust to a diameter between 11" and 12", which gives you enough extra for crimping the edges.
+11. Place the crust on a floured work surface; our silicone rolling mat is a fine choice. Roll it to the desired width. See the big chunks of butter? That's a good thing.
+12. Place the crust in the pan by folding in quarters and placing in the pan. Or you can simply pick it up with a piecrust lifter, and move it that way.
+13. For a single-crust pie, fold the edges of the crust under, and gently squeeze them together. Crimp as desired. It's nice to make a tall crimp, as the filling for a single-crust pie is usually fairly liquid (think pumpkin or custard), and it's good to have that tall "dam."
+14. For a double-crust pie, leave the edges of the bottom crust as is (no folding or crimping). Once you've added the pie filling, roll out the top crust to the outside diameter of your pan, and place it atop the filling.
+15. Trim excess crust with a pair of scissors, then press the two edges together.
+16. Crimp as desired. A simple fork crimp is fast and easy. At this point, it helps to return the pie to the refrigerator for 20 to 30 minutes; this chills the fat, which ultimately increases the crust's flakiness.
+17. Cut a hole in the center of the crust for steam to escape. Or slash the pie's top surface several times.
+18. Brush with milk and sprinkle with coarse sparkling sugar, if desired.
+19. Bake... enjoy!
+
+** Yield
+2 pie crusts
+
+** Credits:
+http://www.kingarthurflour.com/recipes/classic-double-pie-crust-recipe
+

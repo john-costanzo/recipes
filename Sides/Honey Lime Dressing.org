@@ -1,0 +1,14 @@
+#+STARTUP: showeverything
+* Honey Lime Dressing
+** Ingredients:
+- 2 tablespoons lime juice
+- 2 tablespoons olive oil
+- 1 tablespoon honey
+- ½ teaspoon ground cumin
+- ½ teaspoon salt
+- ¼ teaspoon black pepper
+** Method:
+1. Whisk together lime juice, oil, honey, cumin, salt, and pepper.
+** Credits:
+- From https://www.twopeasandtheirpod.com/blueberry-corn-salad/
+- date created: [2021-07-01 Thu]

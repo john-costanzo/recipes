@@ -1,0 +1,23 @@
+#+STARTUP: showeverything
+* Kedgeree with Green Beans and Mushrooms
+** Ingredients:
+- ¾ cup basmati rice
+- 1¼ cups cold water
+- 3 eggs
+- 6 oz green beans, trimmed
+- ¼ cup butter
+- 1 onion, finely chopped
+- 8 oz crimini mushrooms, quartered
+- 2 tbsp light cream or half-and-half
+- 1 tbsp chopped fresh parsley
+- salt and freshly ground black pepper
+** Method:
+1. Wash the rice several times under cold running water. Drain thoroughly. Bring a pan of water to a boil. Add the rice and cook for 10-12 minutes until tender. Drain thoroughly..
+2. Half fill a second pan with water. Add the eggs and bring to a boil. Lower the heat and simmer for 8 minutes. Drain the eggs and cool them under cold water. Remove the shells.
+3. Bring another pan of water to a boil and cook the green beans for 5 minutes. Drain and refresh under cold running water. Then drain again.
+4. Melt the butter in a large frying pan. Add the onions and mushrooms. Cook for 2-3 minutes over a moderate heat.
+5. Add the green beans and rice to the onion mixture. Stir lightly to mix. Cook for 2 minutes. Cut the hard-boiled eggs in wedges and add  them tto the pan.
+6. Stir in the cream and parsley, taking care noot to break up the eggs. Reheat the kedgeree but do not allow it to boil. Serve at once.
+** Credits:
+- From [[https://www.amazon.com/Fast-Vegetarian-Matthew-Drennan-2001-07-31/dp/B01K93C14U/ref=sr_1_1?dchild=1&keywords=Fast+Vegetarian+Food+drennan&qid=1595522860&sr=8-1][Fast Vegetarian Food]], by Matthew Drennan, page 92
+- date created: [2020-07-23 Thu]

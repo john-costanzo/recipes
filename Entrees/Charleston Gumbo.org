@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Charleston Gumbo
+** Ingredients:
+- 1 quart okra, chopped
+- 1 pint canned tomatoes
+- ½ small onion, chopped
+- salt, pepper and Worcestershire sauce, to taste 
+** Method:
+1. Combine tomatoes, okra, onion, salt, pepper and Worcestershire.
+2. Let simmer for two hours.
+
+#+begin_note
+The original recipe calls for 2 slices of bacon, so it may need a bit of spicing up.
+#+end_note
+
+Becky says:
+#+begin_quote
+This is one of the most-often cited Southern foods that show strong African influence. Serve over rice. Canteloupe is an amazing go-with. I do not grind the ingredients!
+#+end_quote
+** Tags
+IsVegan
+** Credits:
+- From Mrs. John T. Jenkins (Hess Lebby) via Becky Westfall from /Charleston Receipts/, published in 1950(!).
+- date created: [2022-07-04 Mon]

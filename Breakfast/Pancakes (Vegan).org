@@ -1,0 +1,34 @@
+#+STARTUP: showeverything
+* Pancakes (Vegan)
+** Ingredients:
+- 300 grams sourdough starter (Make sure the sourdough starter is bubbly and active.)
+- 150 grams Flour (plain white or whole-meal)
+- 35 grams sugar (or sugar-free erythritol)
+- ½ tsp baking soda
+- 330 ml tinned coconut milk
+#+begin_note
+If needed, “feed” the sourdough starter as you usually do and leave it to rise and bubble until doubled in volume. This can take from 2 hours to 8 hours, depending on how warm is your kitchen and how lively is your sourdough.
+#+end_note
+
+#+begin_tip
+If you have a lot of extra sourdough, but no time to feed, use an extra pinch of baking soda.
+#+end_tip
+** Method:
+1. Prepare the pancake batter by mixing flour, sugar and baking soda in a bowl.
+   #+begin_tip
+   You can swap plain white flour with whole-meal flour and replace sugar with the same amount of erythritol, a natural sugar-free sweetener for healthier, sugar-free sourdough pancakes.
+   #+end_tip
+2. Then, tip in the sourdough starter and tinned coconut milk.
+3. Whisk all the ingredients into a smooth and pourable pancake batter.
+4. Put a large non-stick skillet on medium heat, and when hot, pour in half a ladle of pancake batter.
+5. Gently tilt the pan around to give the pancake a round shape.
+6. If they fit in the pan, you can cook more pancakes at once; but make sure you leave enough space between them as they spread out a little.
+7. Cook the pancakes until you notice little bubbles appearing on the surface and the bases are golden — about 2 minutes.
+8. Flip the pancakes over with the help of a spatula and cook them for 2 more minutes until golden on both sides.
+9. Keep the prepared pancakes warm under a bowl or in the oven at a low temperature while you finish cooking the others.
+** Tags
+IsVegan
+** Credits:
+- From https://foodaciously.com/recipe/vegan-sourdough-pancakes
+- date created: [2022-07-04 Mon]
+- <2022-07-01 Fri> These were good; nearly as good as buttermilk pancakes. They had a strong coconut flavor, so in future I may try substituting some oat milk for half or all the coconut milk.

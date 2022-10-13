@@ -1,0 +1,15 @@
+#+STARTUP: showeverything
+* Pickled Onions
+** Ingredients:
+- ½ cups apple cider vinegar
+- 1 tablespoon sugar
+- 1 ½ teaspoons kosher salt
+- 1 red onion, thinly sliced
+** Method:
+1. Whisk first 3 ingredients and 1 cup water in a small bowl until sugar and salt dissolve.
+2. Place onion in a jar; pour vinegar mixture over. Let sit at room temperature for 1 hour.
+3. Cover and chill.
+4. Drain onions before using.
+** Credits:
+- From https://www.bonappetit.com/recipe/quick-pickled-onions
+- date created: [2021-01-27 Wed]

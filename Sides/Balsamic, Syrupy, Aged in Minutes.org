@@ -1,0 +1,17 @@
+#+STARTUP: showeverything
+* Syrupy "Aged" Balsamic in Minutes
+
+** Ingredients:
+Combine:
+- ⅓ cup balsamic
+- 1 Tbl sugar
+- 1 Tbl port
+
+** Method:
+1. Simmer over extremely low heat; barely simmering. Shake periodically. 
+2. Serve over fresh fruits, cheese and/or ice cream.
+
+** Credits:
+- http://lifehacker.com/5924332/simmer-balsamic-vinegar-with-sugar-and-port-to-get-sweet-syrupy-aged-balsamic-in-minutes
+- 9 July 2012
+- date created: [2012-07-09 Mon]

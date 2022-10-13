@@ -1,0 +1,23 @@
+#+STARTUP: showeverything
+* Banana Bread
+
+** Ingredients:
+- 1 cup all-purpose flour
+- 1 cup whole wheat flour
+- 1 Tbsp baking powder
+- 1 tsp baking soda
+- 1 tsp salt
+- ½ cup (1 stick) butter
+- 2 eggs
+- ⅓ cup honey
+- 1¼ cups mashed ripe bananas (3-4)
+
+** Method:
+1.  Preheat oven to 350 degrees F. Grease and flour a 9 x 5 x 2¼-inch loaf pan.
+2.  In a medium bowl or on a piece of waxed paper, stir together both flours, the baking powder, baking soda and salt with a whisk.
+3.  In a large bowl, cream the butter and the sugar until light and fluffy. Beat in the eggs until thoroughly combined. Beat in the honey.
+4.  Beat in the banana alternately with the flour mixture. Spoon into prepared pan. Bake 50 minutes or until a wooden pick inserted in the center comes out clean. Remove from the oven an turn onto a wire rack to cool.
+5. Optional: Add 1 cup chopped nuts to the batter.
+
+** Credits:
+- date created: [2007-06-27 Wed]

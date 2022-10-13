@@ -1,0 +1,23 @@
+#+STARTUP: showeverything
+* German Pancakes
+
+** Ingredients:
+- 1 tablespoon butter
+- ½ cup milk
+- ½ cup flour
+- 2 eggs
+- dash salt
+- dash cinnamon
+
+** Method:
+1. Preheat oven to 425 degrees. While oven is preheating, melt 1 tablespoon butter in 9-inch square pan by putting it in the preheating oven.
+2. In large bowl, using a wire whisk, beat together: ½ cup milk, ½ cup flour, 2 eggs, dash salt and dash cinnamon.
+3. Pour batter into 9-inch square pan that has the melted butter. Put it back in the oven.
+4. Bake for 12-15 minutes.
+5. Serve with powdered sugar or syrup. (Some people like to put lemon juice on it as well as the powdered sugar.)
+
+** Credits:
+- http://www.cooks.com/rec/doc/0,165,130177-249195,00.html
+- date created: [2009-03-23 Mon]
+
+Three recipes fit into deep dish pan.

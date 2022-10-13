@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+* Blueberry Sauce
+** Ingredients:
+- ½ cups water
+- ½ cup sugar (/try a *¼ cup*?/)
+- 2 tablespoons fresh lemon juice
+- 2 teaspoons cornstarch
+- 4 pints fresh blueberries
+- ¼ cup red currant (or similar) jelly
+** Method:
+1. Bring first 4 ingredients to a boil in a large saucepan, stirring constantly to dissolve sugar and cornstarch.
+2. Add blueberries and jelly.
+3. Bring to boil.
+4. Reduce heat to medium-low; simmer until mixture is slightly thickened and reduced, stirring frequently, about 30 minutes.
+5. Serve warm or at room temperature.
+#+begin_tip
+May be made 4 days ahead. Cover and chill. Rewarm sauce before serving, if desired.
+#+end_tip
+
+#+begin_tip
+May also be frozen.
+#+end_tip
+** Credits:
+- From https://www.bonappetit.com/recipe/summer-s-best-blueberry-sauce
+- date created: [2020-07-05 Sun]

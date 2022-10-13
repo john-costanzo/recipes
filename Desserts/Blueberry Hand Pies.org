@@ -1,0 +1,67 @@
+#+STARTUP: showeverything
+* Blueberry Hand Pies
+
+** Ingredients:
+- 2 cups (240g; 8½ ounces) King Arthur Unbleached All-Purpose Flour
+- ¾ teaspoon salt
+- ½ teaspoon baking powder
+- 1 cup (16 tablespoons) cold unsalted butter
+- ½ cup cold sour cream
+
+- 2 cups blueberries, fresh or frozen
+- 2 tablespoons cornstarch or 1 tablespoon Instant ClearJel (/For frozen berries, use 2½ tablespoons cornstarch or 1½ tablespoons ClearJel/)
+- ⅓ cup sugar
+- ⅛ teaspoon salt (a large pinch)
+- 1 tablespoon lemon juice
+
+
+** Method:
+*** The Dough
+1. First, make the pastry. Gather the first group of ingredients.
+2. Cut the cold butter into small cubes or thin pats. A baker's bench knife is ideal for this task.
+3. Whisk together the flour, salt, and baking powder. Add the butter.
+4. Work the butter in, but leave most of it in large, pea-sized pieces. You'll have a coarse, crumbly mixture.
+5. Add the sour cream, and stir until the mixture starts to come together in chunks.
+6. Turn it out onto a floured work surface and bring it together with a few quick kneads.
+7. Pat the dough into a rough log. Roll it into an 8" x 10" rectangle. Dust both sides of the dough with flour, and starting with a shorter end, fold it in three like a business letter.
+8. Give the dough a 90 degrees turn on your work surface, and roll it again into an 8" x 10" rectangle. Fold it in three again.
+9. Wrap the dough in plastic wrap or waxed paper. Chill for at least 30 minutes before using.
+
+*** The Filling
+1. If you're using fresh berries, rinse and drain well. Place fresh or frozen berries in a saucepan. Whisk the cornstarch or ClearJel with the sugar, and pour over the berries. Add the salt and lemon juice, stirring to combine.
+2. Place the saucepan on a burner set to medium-high heat and cook, stirring, until the small amount of liquid in the bottom of the pan comes to a simmer. Reduce the heat to medium and continue to cook, stirring frequently, until the mixture starts to thicken, about 5 minutes.
+3. Transfer the cooked berries to a bowl and let cool to room temperature. It's fine to make the filling ahead of time, and refrigerate until you're ready to use it.
+
+*** Putting Everything Together
+1. Preheat the oven to 425 degrees F. place a rack on the middle shelf. Line a baking sheet with parchment paper.
+2. Roll the dough into a 14" x 14" square. With a straight edge and pastry wheel, or a 3½" square cutter, cut out sixteen 3½" squares.
+3. Divide the filling among eight of the squares, using about a heaping tablespoon for each; a slightly heaped tablespoon cookie scoop works well here.
+4. Whisk 1 large egg until frothy. Brush some of the beaten egg along the edges of each filled square.
+5. Use a knife to cut a vent into each of the remaining eight squares; or use a decorative cutter of your choice.
+6. Top each filled square with a vented square, and press along the edges with the tines of a fork to seal.
+   #+begin_tip
+   If at any time during assembly the pies become sticky and hard to work with, simply refrigerate them for about 20 minutes, until firm.   /Strongly recommended!/
+   #+end_tip
+   7. Brush the top of each pie with the remaining beaten egg and sprinkle with sparkling sugar. The sugar's a nice touch: it adds both flavor and crunch.
+8. Bake the pies for 18 to 20 minutes, until they're a light golden brown. Remove them from the oven.
+9. Let the pies cool for 20 minutes before serving.
+10. Store pies, lightly wrapped, at room temperature for a couple of days; freeze for longer storage (if they last that long!).
+
+** Credits:
+- courtesy of Nancy Burnett [2017-07-15 Sat]
+- From Blueberry Hand Pies Bakealong: challenge #12 
+- http://blog.kingarthurflour.com/2017/07/03/blueberry-hand-pies-bakealong/
+- Also see [[https://docs.google.com/document/d/1k7ZZ-iRT1OjR1yYY2pCiqD6T9xaX6Nr9UzoDJFvCysE/edit#heading=h.gjdgxs][email]].
+- [2017-08-05 Sat]
+    + Made them for T's breakfast.
+    + The pastry was light and flaky if a wee bit greasy.
+    + I used a heart-shaped cookie cutter for the vent and simply offset the cut-out onto the pastry.
+    + Half of the pies looked really good.
+    + The others: not so much.
+    + The problem was in the final (14x14) rolling: the middle was a bit thick (not much of a problem) but the extremities were very thin and not quite square. This made pulling up those square difficult.
+    + After rolling I did pop them in the refrigerator for ~20 minutes which helped a heck of a lot.
+- [2017-11-11 Sat]
+    + *DO NOT USE WAX PAPER UNDER THE PIES!* (They stick!)
+    + I used 4 cups of strawberries, which made me go wild with filling. I think I filled some way too much. Not a help!
+- [2020-05-16 Sat]
+    + The roll wound up being 14x12, which worked ok. Good pies.

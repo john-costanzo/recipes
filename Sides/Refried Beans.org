@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+* Refried Beans
+** Ingredients:
+- 3 cups simmered black beans or pinto beans, with liquid (see recipe)
+- 2 tablespoons grapeseed or sunflower oil
+- 2 teaspoons cumin seeds, ground
+- 1 chipotle in adobo, seeded and minced (optional)
+- Salt to taste
+- 1 teaspoon mild or hot chili powder (more to taste)
+** Method:
+1. Drain off about ½ cup of liquid from beans, retaining it in a separate bowl to use later for moistening beans, should they dry out.
+2. Heat oil over medium-high heat in a large, heavy nonstick frying pan and add ground cumin and chili.
+3. Cook, stirring over medium heat, for about a minute, until the spices begin to sizzle and cook.
+4. Add beans and optional chipotle.
+5. Fry beans, stirring and mashing with the back of a spoon, until they thicken and form a thin crust on the bottom of the pan.
+6. Stir up crust and mix into the beans.
+7. Cook until beans are thick but not dry, about 10 minutes.
+8. Add liquid you saved from the beans if they seem too dry.
+9. Taste refried beans and adjust salt (they probably won’t need any as the broth reduces when you refry them).
+#+begin_note
+If you use canned beans, do not drain. The frying process will go more quickly.
+#+end_note
+** Credits:
+- From https://cooking.nytimes.com/recipes/1016969-refried-bean-zucchini-and-corn-gratin
+- date created: [2022-03-26 Sat]

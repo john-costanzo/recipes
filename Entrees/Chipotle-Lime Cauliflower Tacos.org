@@ -1,0 +1,35 @@
+#+STARTUP: showeverything
+* Chipotle-Lime Cauliflower Tacos
+** Ingredients:
+- ¼ cup lime juice (from about 2 limes)
+- 1-2 tablespoons chopped chipotles in adobo sauce (see Tips)
+- 1 tablespoon honey
+- 2 cloves garlic
+- ½ teaspoon salt
+- 1 small head cauliflower (see Tips), cut into bite-size pieces
+- 1 small red onion, halved and thinly sliced
+- 1 (15 ounce) can refried black beans, warmed
+- 8 corn tortillas, warmed
+- ½ cup crumbled queso fresco or feta cheese
+- Sliced red cabbage, fresh cilantro, guacamole, jalapeño slices and/or lime wedges for serving
+** Method:
+1. Preheat oven to 450 degrees F. Line a large rimmed baking sheet with foil.
+2. Combine lime juice, chipotles to taste, honey, garlic and salt in a blender; process until mostly smooth.
+3. Place cauliflower in a large bowl, add the sauce and stir to coat.
+4. Transfer to the prepared baking sheet.
+5. Sprinkle onion on top.
+6. Roast, stirring once, until the cauliflower is tender and browned in spots, 18 to 20 minutes.
+7. Serve the vegetables and beans in tortillas, topped with cheese and garnished with cabbage, cilantro, guacamole, jalapeños and/or lime wedges.
+** Tips:
+#+begin_tip
+Look for small cans of smoked chipotle peppers in adobo sauce near other Mexican ingredients in well-stocked supermarkets. Once opened, refrigerate for up to 2 weeks or freeze for up to 6 months.
+#+end_tip
+
+#+begin_tip
+To prep cauliflower: Remove any outer leaves. Cut off the stem. Turn head upside down and, holding the knife at a 45-degree angle, slice around the stem to remove the core from center of head. Cut the head into large florets. Then, cut or slice florets to desired sizes.
+#+end_tip
+
+
+** Credits:
+- From https://www.eatingwell.com/recipe/257781/chipotle-lime-cauliflower-tacos/
+- date created: [2021-09-27 Mon]

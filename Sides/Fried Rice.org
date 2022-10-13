@@ -1,0 +1,35 @@
+#+STARTUP: showeverything
+* Fried Rice
+** Ingredients:
+- 3 tablespoons butter, divided
+- 2 eggs, whisked
+- 2 medium carrots, peeled and diced
+- 1 small white onion, diced
+- ½ cup frozen peas
+- 3 cloves garlic, minced
+- salt and black pepper
+- 4 cups cooked and chilled rice (I prefer short-grain white rice)
+- 3 green onions, thinly sliced
+- 3–4 tablespoons soy sauce, or more to taste
+- 2 teaspoons oyster sauce (optional)
+- ½ teaspoon toasted sesame oil
+** Method:
+1. Heat ½ tablespoon of butter in a large sauté pan over medium-high heat until melted.
+2. Add egg, and cook until scrambled, stirring occasionally.
+3. Remove egg, and transfer to a separate plate.
+4. Add an additional 1 tablespoon butter to the pan and heat until melted.
+5. Add carrots, onion, peas and garlic, and season with a generous pinch of salt and pepper.
+6. Sauté for about 5 minutes or until the onion and carrots are soft.
+7. Increase heat to high, add in the remaining 1½ tablespoons of butter, and stir until melted.
+8. Immediately add the rice, green onions, soy sauce and oyster sauce (if using), and stir until combined.
+9. Continue sautéing for an additional 3 minutes to fry the rice, stirring occasionally.
+    #+begin_tip
+    I like to let the rice rest for a bit between stirs so that it can crisp up on the bottom.
+    #+end_tip
+10. Add in the eggs and stir to combine.
+11. Remove from heat, and stir in the sesame oil until combined.
+12. Taste and season with extra soy sauce, if needed.
+13. Serve immediately, or refrigerate in a sealed container for up to 3 days.
+** Credits:
+- From https://www.gimmesomeoven.com/fried-rice-recipe/
+- date created: [2021-06-28 Mon]

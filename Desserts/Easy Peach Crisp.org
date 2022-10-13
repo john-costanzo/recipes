@@ -1,0 +1,26 @@
+#+STARTUP: showeverything
+* Easy Peach Crisp
+** Ingredients:
+- 7-8 ripe peaches, halved, pits removed and chopped (/optionally/: throw in a few cherries or blueberries)
+- 1 cup gluten-free rolled oats
+- ¼ cup almond meal
+- ¼ cup gluten-free flour (DIY blend or sub all-purpose flour or more almond meal)
+- ½ cup roughly chopped pecans
+- 2 Tbsp packed light brown sugar (or sub muscovado sugar)
+- 2 Tbsp coconut sugar (or sub more brown sugar)
+- 1 pinch sea salt
+- 4 Tbsp olive oil or coconut oil (coconut oil will impart a more intense coconut flavor // plus more for coating pan)
+** Method:
+1. Preheat oven to 350° F (176 ° C) and lightly coat an 8×8 (or similar size) baking dish with coconut or olive oil.
+2. Add fruit directly to the dish as you chop it and spread flat.
+3. To a mixing bowl add crumble ingredients (including oil) and, using your hands or a wooden spoon, mix until all everything is evenly distributed.
+4. Add to the top of the fruit in an even layer and bake for 40-45 minutes, or until the fruit is bubbling and the top is crisp and golden.
+5. Serve as is, or with dairy-free ice cream!
+#+begin_tip
+Best when fresh, though leftovers keep for 2-3 days covered in the refrigerator.
+#+end_tip
+** Tags
+IsVegan
+** Credits:
+- From https://minimalistbaker.com/easy-peach-crisp-vegan-gf/#wprm-recipe-container-35569
+- date created: [2022-07-04 Mon]

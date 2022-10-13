@@ -1,0 +1,47 @@
+#+STARTUP: showeverything
+* Double Chocolate Cupcakes
+** Ingredients:
+*** For the cupcakes
+- 1 cup all-purpose flour
+- 1 cup granulated sugar
+- ½ teaspoon baking powder
+- ½ teaspoon baking soda
+- ½ teaspoon salt
+- ½ cup unsweetened cocoa powder
+- ½ cup vegetable oil
+- 1 cup hot water
+- 1 large egg
+*** For the chocolate buttercream
+- 1 cup (2 sticks) unsalted butter
+- 4 ounces unsweetened chocolate, melted and cooled for 5 minutes
+- 1 pound powdered sugar
+- ¼ cup unsweetened cocoa powder
+- 2 teaspoons pure vanilla extract
+- 1-3 tablespoons milk
+** Method:
+*** For the cupcakes
+1. Preheat oven to 350°F.
+2. Line a 12-cup standard muffin tin with paper liners.
+3. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, salt and cocoa powder.
+4. Add in vegetable oil, hot water, egg and vanilla and whisk until well-combined and smooth. (Batter will be thin.)
+5. Use a large scoop (about 3 tablespoons) to divide the batter between lined muffin cups.
+6. Bake in preheated oven for 17-20 minutes, until the tops spring back when touched lightly.
+7. Place on a cooling rack until cupcakes are cool to the touch.
+*** For the chocolate buttercream
+1. In the bowl of a stand mixer fitted with the paddle attachment, beat butter on medium-high speed for about 6 minutes.
+   #+begin_note
+   This process will lighten the color of the butter and ensure your buttercream is extra fluffy.
+   #+end_note
+2. Add cooled, melted chocolate to the butter and mix until combined, scraping down the sides of the bowl as needed.
+3. Sift together the powdered sugar and cocoa powder.
+4. With the mixer on low speed, gradually add in the powdered sugar mixture and continue mixing on low speed until the powdered sugar is completely incorporated.
+5. Add in 1-2 tablespoons milk and vanilla extract. mixing to combine.
+6. Turn mixer back up to medium-high speed and beat the mixture for an additional 5 minutes.
+7. If needed, add a little more milk, 1 teaspoon at a time until you reach the consistency you desire.
+8. Pipe buttercream onto cooled cupcakes.
+   #+begin_tip
+   If desired, top with chocolate sprinkles or mini chocolate chips.
+   #+end_tip
+** Credits:
+- From http://chocolatechocolateandmore.com/double-chocolate-cupcakes via Louise
+- date created: [2020-02-21 Fri]

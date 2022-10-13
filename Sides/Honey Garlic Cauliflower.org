@@ -1,0 +1,33 @@
+#+STARTUP: showeverything
+* Honey Garlic Cauliflower
+** Ingredients:
++ 1 c. all-purpose flour
++ 2 c. panko breadcrumbs
++ 3 large eggs, beaten
++ 1 head cauliflower, chopped into bite-size florets
++ ⅓ c. honey
++ ⅓ c. soy sauce
++ 2 garlic cloves, minced
++ Juice of 1 lime
++ 1 tbsp. sriracha
++ ¼ c. water
++ 2 tsp. corn starch
++ ¼ c. Sliced scallions
+** Method:
+1. Preheat oven to 400° and line a large baking sheet with foil.
+2. In a large bowl, combine flour and cauliflower, toss until fully coated.
+3. Set up a dredging station: In one bowl, add panko breadcrumbs and in another bowl whisk eggs and add 2 tablespoons water.
+4. Dip cauliflower in beaten eggs, then panko until fully coated.
+5. Transfer to a prepared baking sheet and season generously with salt and pepper.
+6. Bake until golden and crispy, 20 to 25 minutes.
+7. Meanwhile, make sauce:
+     - In a small bowl, whisk together cornstarch and water, until the cornstarch dissolves completely. Set aside.
+     - Combine soy sauce, honey, garlic, lime juice and Sriracha in a small saucepan over medium heat.
+8. When the mixture reaches a boil, reduce heat and add the cornstarch mixture.
+9. Bring to simmer again and cook until sauce thickens, about 2 minutes.
+10. Toss cooked cauliflower in sauce until evenly coated.
+11. Return the cauliflower to baking sheet and broil for 2 minutes.
+12. Garnish with scallions and serve immediately.
+** Credits:
+- From https://www.delish.com/cooking/recipe-ideas/recipes/a47636/honey-garlic-cauliflower/ (via a tip from the HLT newsletter)
+- date created: [2021-06-23 Wed]

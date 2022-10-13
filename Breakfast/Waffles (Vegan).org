@@ -1,0 +1,28 @@
+#+STARTUP: showeverything
+* Waffles (Vegan)
+** Ingredients:
+- 1 cup (120 g) all-purpose flour
+- 1 teaspoon baking powder
+- 1 tablespoon coconut sugar or brown sugar
+- ½ pinch salt
+- 1 cup oat or almond milk
+- 1 tablespoon melted coconut oil or canola oil
+- 1 teaspoon natural vanilla extract
+- 1 tablespoon unsweetened apple sauce
+** Method:
+1. Combine all ingredients for the vegan waffles in a medium bowl.
+2. Using a hand whisk, stir well until all lumps are removed.
+   #+begin_tip
+   /The batter will be quite thin. Don't worry, that's normal!/
+   #+end_tip
+3. Heat your waffle maker and grease it with coconut oil or canola oil on both sides (top and bottom).
+4. Pour the batter with a ladle into the waffle iron. /It depends on your waffle maker how much batter you need, so check the manufacturer instructions./
+5. Close your waffle maker and bake the waffles for about 5 minutes until they're golden and crispy on the outside. Don't open the waffle maker too early.
+6. Serve the waffles immediately with maple syrup and berries or other fruits. Enjoy!
+** Tags:
+IsVegan
+** Credits:
+- From https://veganheaven.org/recipe/vegan-waffles/
+- date created: [2022-07-07 Thu]
+- <2022-07-07 Thu> Made for T, having substituted an extra tablespoon of coconut oil for the apple sauce I didn’t have. This recipe made 2 waffles. They were good, a bit less crispy than my go-to sourdough waffles and a bit sweeter. Next time, consider using just a tablespoon of brown sugar.
+- <2022-07-17 Sun> I let them cook a bit longer and they were much crispier. 1 tablespoon of sugar is about right.

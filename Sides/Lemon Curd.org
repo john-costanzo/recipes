@@ -1,0 +1,43 @@
+#+STARTUP: showeverything
+* Lemon Curd
+Yield: 2 cups\\
+Prep time: 15 minutes\\
+Cook time: 6 minutes\\
+Total time: 21 minutes\\
+
+This easy Lemon Curd recipe is a velvety soft, utterly delicious 4 ingredient lemony spread that is exceptionally easy to make at home, on the stovetop, in 10 minutes. A perfect blending of sweet and tangy goodness. It tastes like springtime in every bite.
+** Ingredients:
+- ⅓ cup fresh lemon juice (about 2 large lemons)
+- 1 tablespoon grated lemon zest
+- ⅔ cup granulated sugar (see note)
+- 4 large eggs
+- Pinch of salt
+- 6 tablespoons unsalted butter, cubed
+
+#+begin_note
+If you prefer your lemon curd a bit less tart and a little sweeter -- increase the sugar to 1 cup and the butter to 8 tablespoons.
+#+end_note
+
+** Method:
+1. Fill a saucepan with 1 to 2 inches of water. Place on high heat and once the water comes to a boil, reduce to low heat and keep the water simmering.
+2. Add eggs, granulated sugar, lemon zest, lemon juice, and salt into a heavy glass bowl that fits on top of the saucepan. Whisk until completely blended and set on the simmering water in the saucepan. Be sure that the water does not touch the bottom of the bowl.
+3. Whisk constantly as the curd cooks for about 10 minutes, or until the mixture thickens. It will resemble a thick sauce, like Hollandaise. Lemon curd thickens at about 170 degrees on an instant-read thermometer, which takes about 10 to 11 minutes. Once it begins to thicken, it does so quickly.
+4. Remove the bowl from the heat and toss in the pieced butter and whisk into the curd, it will melt as it is whisked.
+5. Pour the lemon curd into a jar or bowl and place plastic wrap onto the curd to prevent skin from forming as it cools. The curd will continue to thicken as it cools. Once cool, the plastic wrap can be removed. Refrigerate.
+
+#+begin_note
+*REFRIGERATING LEMON CURD*\\
+The lemon curd can be refrigerated for up to 10 days and makes approximately 2 cups.\\
+#+end_note
+#+begin_note
+*FREEZING LEMON CURD*\\
+For longer storage, you can freeze for up to 3 to 6 months. Thaw in the refrigerator overnight.
+#+end_note
+#+begin_note
+*Yield*\\
+Makes about two Mason jelly jars worth.
+#+end_note
+** Credits:
+- From https://www.31daily.com/easy-lemon-curd-recipe/
+- date created: [2022-03-25 Fri]
+- I like the lower butter and sugar version: it's assertively yet pleasingly tart.

@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+* Lemon-Garlic Kale Salad
+** Ingredients:
+- 2 cups sliced almonds (or other nuts)
+- ⅓ cup freshly squeezed lemon juice (from 2 to 4 lemons)
+- Kosher salt
+- 1½ cups extra-virgin olive oil
+- 4 cloves garlic, crushed with the flat side of a knife, peeled and left whole
+- 10 to 12 ounces washed and dried kale leaves, thick stems removed (weight after trimming)
+- 1½ cups freshly grated Parmesan (/optional/)
+** Method:
+1. In a toaster oven or skillet, toast almonds until golden brown and fragrant. Set aside to cool.
+2. In a bowl, combine lemon juice and 1 heaping teaspoon salt. Slowly whisk in olive oil. Add garlic cloves and set aside to steep.
+3. Working in batches, cut the kale into thin ribbons: gather a large handful of leaves, bunch together tightly, and use the other hand to slice into 1/4-inch-thick pieces.
+   #+begin_note
+   This need not be done very precisely or neatly; the idea is to end up with a kind of slaw.
+   #+end_note
+   #+begin_note
+   Recipe can be made up to this point 1 day ahead. Keep kale and dressing refrigerated separately.
+   #+end_note
+5. Place chopped kale in a very large bowl. Sprinkle surface with almonds and then with cheese, if using. Remove and discard garlic cloves from dressing. Pour half the dressing over the salad and toss. Taste for dressing and salt and add more as needed, tossing to coat thoroughly. Serve within 1 hour.
+
+** Credits:
+- From https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad
+- date created: [2022-05-31 Tue]

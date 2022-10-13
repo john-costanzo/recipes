@@ -1,0 +1,42 @@
+#+STARTUP: showeverything
+* Oven-Fried Patatas Bravas
+YIELD: 4 appetizer servings
+
+TIME: 30 minutes
+
+** Ingredients:
+*** ...for the Potatoes:
+- 2 pounds yellow-fleshed or russet potatoes, peeled and cut in 1 1/2-inch chunks
+- Kosher salt
+- ½ cup extra-virgin olive oil
+- 1 head garlic, separated into cloves but not peeled
+*** ...for the Salsa Brava
+- 2 tablespoons extra-virgin olive oil
+- 2 garlic cloves, minced
+- 2 tablespoons all-purpose flour
+- 1 tablespoon tomato paste
+- 1 tablespoon pimentón dulce, or use sweet paprika
+- 1 teaspoon pimentón picante, 1/2 teaspoon chipotle chile powder or 1/4 teaspoon cayenne
+- 1 cup chicken broth or water
+- 1 tablespoon sherry vinegar
+ Kosher salt
+*** ...for the Allioli
+- 2 egg yolks
+- 4 garlic cloves, pounded, finely minced or grated
+- 1½ cups extra-virgin olive oil
+- Kosher salt and black pepper
+** Method:
+1. Heat oven to 450 degrees. Put potato chunks in a large bowl, season generously with salt and toss to coat. Leave for a few minutes to let potatoes absorb salt. Add olive oil and unpeeled garlic cloves and toss to coat well. (Don’t skimp on the oil; it can be strained and saved after cooking for future use.)
+2. Transfer potatoes (and garlic cloves) and oil to a large cast-iron skillet or heavy roasting pan. Make sure to have potatoes in a single layer without crowding. (If necessary, use two pans.) There should be a good ½-inch oil in the bottom of the pan. Add more if required.
+3. Place pan in oven and roast for 15 to 20 minutes, until potato chunks are well browned on the bottom. With a metal spatula, carefully turn chunks over. Reduce heat to 400 degrees, and continue roasting until potatoes are well browned and crisp, about another 15 to 20 minutes.
+4. While potatoes are roasting, make the two sauces:
+     a. For the *salsa brava*, put 2 tablespoons olive oil in a small saucepan over medium heat. Add garlic and let sizzle without browning, then stir in flour and let mixture sizzle. Stir in tomato paste, pimentón dulce and pimentón picante, then add broth gradually, stirring well as the sauce thickens. Bring to a gentle simmer, add vinegar and cook for 5 minutes until the sauce has a gravylike consistency, but isn't too thick. Thin with a little more broth or water, if necessary. Season with salt to taste.
+     b. For the *allioli*, put egg yolks and garlic in a mortar or small bowl and whisk together. (Alternatively, use a mini food processor or stick blender, see note.) Add oil a few drops at a time, whisking vigorously with each addition. As the sauce thickens, add olive oil a teaspoon at a time. If the aioli gets too thick, whisk in 1 tablespoon water, then continue to whisk in remaining oil. The finished sauce should have the consistency of softly whipped cream. Season to taste with salt and pepper.
+5. When potatoes are ready, use spatula to transfer to a pan lined with paper towels to blot, then to a warm serving dish. Sprinkle lightly with salt. Serve warm with the two sauces.
+#+begin_tip
+To make in a blender or food processor, use 1 whole egg and 1 egg yolk instead of only yolks. Drizzle oil in a thin stream with motor running until the sauce thickens, which takes only a minute or so. Transfer to a small bowl, then thin with a little water and season with salt and pepper.
+#+end_tip
+
+** Credits:
+- From [[https://cooking.nytimes.com/recipes/1021018-oven-fried-patatas-bravas-crispy-potatoes-with-two-sauces][Oven-Fried Patatas Bravas (Crispy Potatoes With Two Sauces)]], by David Tanis
+- date created: [2020-07-25 Sat]

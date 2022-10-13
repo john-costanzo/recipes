@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Garlic White Pizza Sauce
+** Ingredients:
+- 2 tablespoons olive oil
+- 4 cloves garlic, minced
+- 1/4 teaspoon dried oregano
+- 1/4 teaspoon ground black pepper
+- 1/4 teaspoon salt
+- 2-3 tablespoons flour
+- 1 1/2 cups half & half milk works fine, too
+** Method:
+1. In a skillet on medium-high heat, heat oil.
+2. Add the garlic and heat for about 3 minutes, until fragrant.
+3. Add the flour (start with 2 tablespoons), oregano, pepper, and salt; whisk well.
+4. Add the half & half all at once, whisking constantly; cook and stir until bubbly and until thickened (usually about 3 minutes).
+#+begin_tip
+If you want the sauce a bit thicker, mix your remaining 1 tablespoon of flour with a bit of milk until you have a mashed potato consistency. Pour that mixture into the bubbling sauce and whisk constantly. Cook about 1 minute more. It should thicken the sauce. Repeat until you have it the thickness you want.
+#+end_tip
+** Tags:
+Favorite
+** Credits:
+- From https://www.nelliebellie.com/wprm_print/42899
+- date created: [2022-05-23 Mon]
+- [2022-05-21 Sat] Made for T, G&MA and Peggy and Doug. Very flavorful pizza base. Reminded us of a ricotta sauce.

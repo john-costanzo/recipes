@@ -1,0 +1,30 @@
+#+STARTUP: showeverything
+* Raspberry Almond Baked Oatmeal
+** Ingredients:
+- 1 ½ cups rolled oats
+- 1 tsp. ground ginger
+- ½ tsp. salt
+- ¼ cup dry-roasted almonds, coarsely chopped
+- 2 cups of unsweetened almond milk (or milk of choice)
+- ¼ cup honey (or maple syrup)
+- 2 Tbsp olive oil
+- 1 tsp. vanilla
+- 1 cup fresh raspberries + more for topping
+** Method:
+1. Preheat oven to 350 degrees F.
+2. In a large bowl, combine oats, ginger, salt, and chopped almonds.
+3. In a separate bowl, whisk together milk, honey (or maple syrup), oil and vanilla then add to oat mixture, stirring until just combined.
+4. Fold in fresh raspberries or berries of choice.
+5. Spread oat mixture into a prepared 8×8 (or 9×9) baking dish and bake for 30 to 35 minutes until oats have set.
+6. Remove oatmeal from oven and let stand for 10 minutes.
+7. Top with additional fruit and drizzle with a little honey or maple syrup if desired.
+8. Enjoy!
+
+#+begin_tip
+To prep this recipe ahead of time, simply mix all of your ingredients together and place in a 8×8 (or 9×9) baking dish, cover and refrigerate overnight.  Then just pop it in the oven and let it bake for 30 to 40 minutes while you get ready for work!
+#+end_tip
+** Credits:
+- From https://www.eatyourselfskinny.com/raspberry-almond-baked-oatmeal/
+- (Also see https://www.keepingthepeas.com/vegan-baked-oatmeal/ for a variation with apples and walnuts; I also added raisins, making it for Vera.)
+- date created: [2021-02-02 Tue]
+- [2021-01-31 Sun] Made for T who really liked it. I mixed it up the night before (but, honestly, it's not much of a time saver).

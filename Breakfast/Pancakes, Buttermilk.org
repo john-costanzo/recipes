@@ -1,0 +1,23 @@
+# -*- mode: org; coding: utf-8 -*-
+#+STARTUP: showeverything
+* Pancakes, Buttermilk
+
+** Ingredients:
+- 1 egg
+- 1 cup buttermilk
+- 2 Tblsp shortening (melted) -or- vegetable oil
+- 1 cup (120g) flour
+- 1 Tblsp sugar
+- 1 teasp baking powder
+- ½ teasp baking soda
+- ½ teasp salt
+
+** Method:
+1. Beat egg with hand beater until fluffy; beat in remaining ingredients just until smooth. For thinner pancakes, stir in additional ¼ cup milk.
+2. Grease heated griddle if necessary. (To test griddle, sprinkle with few drops water. If bubbles skitter around, heat is just right.)
+3. Pour about 3 tablespoons batter from tip of large spoon or from pitcher onto hot griddle. Cook pancakes until puffed and dry around edges. Turn and cook other sides until golden brown. (To keep pancakes hot, stack on hot plate with paper towel in between.)
+4. About six 4-inch pancakes.
+
+** Credits:
+- Betty Crocker's Cookbook
+- date created: [2007-06-27 Wed]

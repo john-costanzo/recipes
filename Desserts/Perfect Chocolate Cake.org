@@ -1,0 +1,74 @@
+#+STARTUP: showeverything
+* Perfect Chocolate Cake
+** Ingredients:
+*** Cake
+- 1 cup cocoa (unsweetened)
+- 2 cup boiling water
+- 2¾ cup all purpose flour
+- 2 t baking soda
+- ½ t salt
+- ½ t baking powder
+- 1 cup butter
+- 2½ cup sugar
+- 4 eggs
+- 1½ t pure vanilla extract
+*** Buttercream Frosting
+- 6 ounces unsweetened baking chocolate
+- 1 cup butter
+- ½ cup heavy cream
+- 2½ cups powered sugar, sifted
+*** Filling
+- 1 cup heavy cream
+- ¼ cup powered sugar
+- 1 tablespoon pure vanilla extract
+** Method:
+- Preheat the oven to 350 degrees.
+- Butter and flour three 9" round cake pans (line bottoms with parchment or waxed paper).
+- Combine cocoa with 2 cups boiling water, stirring until smooth.
+- Cool completely.
+- Sift together dry ingredients.
+- In a large bowl beat together butter, sugar, eggs and vanilla.
+- Alternate adding the dry ingredients and the cocoa mixture to the creamed mixture. Do not over mix. Blend just enough to moisten the dry ingredients.
+- Divide the batter evenly into cake pans.
+- Bake 25-30 minutes.
+- Cool in the pans for 10 minutes then remove the cakes from the pans to cool completely before frosting.
+- While the cake is cooling, prepare the frosting.
+- In a medium saucepan, melt the chocolate and butter.
+- Stir in the cream until smooth.
+- Remove the pan from the stove and place it in a large bowl filled with ice.
+- Using a whisk or electric mixer, beat in the powdered sugar until the frosting holds a stiff shape. Chill.
+- Whip all the filling ingredients together until stiff. Chill.
+- Construct the cake when all parts are cool.
+- Spread the filling between the layers and the frosting on the top and sides.
+- Plan to serve the cake soon after completion or provide a large space in the refrigerator to keep it cool until it is served.
+#+begin_note
+Note
+Note
+Note
+Note
+#+end_note
+
+#+begin_warning
+Warning: moo
+Warning: moo
+Warning: moo
+Warning: moo
+#+end_warning
+
+#+begin_tip
+Tip
+Tip
+Tip
+Tip
+#+end_tip
+
+#+begin_info
+Some info
+Some info
+Some info
+Some info
+#+end_info
+** Credits:
+- From the /New Recipes from Moosewood Restaurant/ cookbook, pg 266, via https://recipes.sparkpeople.com/recipe-detail.asp?recipe=592947
+- date created: [2020-08-02 Sun]
+- Yields a 3 layer 9 inch cake (serving size 1/8 of cake)

@@ -1,0 +1,26 @@
+#+STARTUP: showeverything
+* Dhall
+** Ingredients:
+- 1½ cups dried lentils
+- 4½ cups vegetable stock (or water)
+- 1 teaspoon turmeric
+- 1 teaspoon salt
+- 2 tablespoon vegetable oil
+- 2 cups diced onions
+- 1 garlic clove, minced or pressed
+- ½ teaspoon ground cumin
+- 1 teaspoon turmeric
+- ½ teaspoon black pepper, coarsely ground
+- ¼ teaspoon hot chili pepper flakes or 1 small fresh hot chili pepper, minced
+- 1 cup coconut milk
+** Method:
+1. In a large pot, cook the lentils in the stock or water along with the salt and turmeric.
+2. Drain but reserve the liquid.
+3. Saute the onions, garlic and rest of the spices in the oil until the onions are golden brown, stirring continuously.
+4. Mix the drained lentils with the rest of the spices and reheat gently.
+5. When hot, stir in the coconut milk.
+6. If the dhall is too dry or thick, add some of the reserved liquid.
+7. For a lighter, less sweet version of this dish, substitute 1 cup chopped tomatoes for the coconut milk.
+** Credits:
+- From the /New Recipes from Moosewood Restaurant/ cookbook, pg 216.
+- date created: [2020-08-02 Sun]

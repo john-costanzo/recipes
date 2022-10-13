@@ -1,0 +1,36 @@
+#+STARTUP: showeverything
+* Pizza Crust, Sourdough (Alexandra)
+** Ingredients:
+- 100g sourdough starter, active and bubbly
+- 375g water
+- 10g salt
+- 500g all-purpose or bread flour
+** Method:
+1. Combine 15g of starter with 15g of flour and 15g of water in a bowl. Stir, cover and set aside at room temperature for ~12 hours.
+2. Add to the 45g from step 45g of flour and 45g of water. Stir, cover and set aside at room temperature for ~12 hours.
+3. Combine 375g water, 100g sourdough starter and 10g salt in a large bowl. Stir with a spatula to combine — it doesn’t have to be uniformly mixed. Add the 500g flour. Mix again until the flour is completely incorporated. Transfer to a straight-sided vessel (if you have one.) Cover vessel with tea towel or cloth bowl cover and let stand 30 minutes.
+4. After 30 minutes have passed, reach into the vessel and pull the dough up and into the center.
+     + Turn the vessel quarter turns and continue this pulling 8 to 10 times.
+     + Let the dough rest for another 30 minutes; then repeat the stretching and folding.
+     + If possible, repeat this cycle twice more for a total of 4 stretch and folds.
+     + By the 4th cycle, you will notice a huge difference in the texture of the dough: it will be smoother, stronger, and more elastic.
+5. Cover vessel with a tea towel or bowl cover and set aside to rise at room temperature (70°F/21°C) for 4 to 18 hours (the time will vary depending on the time of year, the strength of your starter, and the temperature of your kitchen) or until the dough has roughly doubled in volume.
+   #+begin_note
+   The  Tupperware "What-a-bowl" weighs 359 grams.
+   #+end_note
+6. Turn the dough out onto a work surface and shape into a rough ball, using as much flour as needed — the dough will be sticky. Using a bench scraper, divide the dough into 2 equal portions. Sprinkle portions with flour. With floured hands, roll each portion into a ball, using the pinkie-edges of your hands to pinch the dough underneath each ball. Transfer each round of dough to a plastic quart container, cover, and store in fridge for at least 6 hours or up to 3 days or transfer to the freezer.
+7. Pull out a round (or more) of dough from the fridge one hour before you plan on baking. Dust dough with flour and place on a floured work surface. Let sit untouched for about an hour (a little longer or shorter is fine).
+8. Place a Baking Steel or pizza stone in the top third of your oven. Set oven to 550ºF. Heat oven for at least 45 minutes but ideally 1 hour prior to baking.
+9. Gently shape dough into a roughly 10-inch round handling it as minimally as possible. Lay a sheet of parchment paper on top of a pizza peel. Transfer the dough round to the parchment-lined peel.
+10. To make a classic Margherita-style pizza: Spread 4 tablespoons of tomato sauce over the surface of the dough. Top with mozzarella to taste. Sprinkle with parmesan to taste. Drizzle with olive oil. Sprinkle lightly with sea salt.
+11. Shimmy the pizza, parchment paper and all into the oven. Bake pizza until top is blistered, about 5-6 minutes.
+12. Transfer to cutting board.
+13. Sprinkle with basil, if you have it.
+14. Cut and serve. Discard parchment paper.
+** Tags
+Favorite
+** Credits:
+- From https://alexandracooks.com/2020/05/01/simple-sourdough-pizza-a-step-by-step-guide/
+- date created: [2021-03-13 Sat]
+- 75% hydration crust
+- [2021-02-27 Sat] Made several times. Step 4 is very forgiving. I used a dough scraper to stretch the dough, several times throughout the day and irregular intervals. Cook time on an oven that would only go to 500° using a pizza stone is 10-12 minutes.

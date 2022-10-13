@@ -1,0 +1,17 @@
+#+STARTUP: showeverything
+* Greek Salad Dressing
+** Ingredients:
+- 1/4 cup olive oil
+- 1/2 cup red wine vinegar
+- juice of one lemon
+- 4 cloves garlic , minced
+- 1 tbsp dried oregano leaves
+- salt
+- black pepper
+- 1 tsp sugar or honey
+** Method:
+1. Make the dressing by mixing the oil, vinegar, lemon juice, garlic, oregano, salt, pepper and sugar. 
+2. Let the dressing marinate for at least 30 minutes.
+** Credits:
+- From TC
+- date created: [2020-07-20 Mon]

@@ -1,0 +1,49 @@
+#+STARTUP: showeverything
+* Zucchini and Pepper Enchiladas
+** Ingredients:
+*** For the Enchiladas
+- 2 tablespoons olive oil
+- 2 medium sized cloves of garlic, crushed
+- 1 cup minced onion
+- ½ teaspoon salt
+- 1 cup minced green bell peppers
+- 2½ cups diced zucchini (about 2 smallish zukes)
+- ½ teaspoon /each/: basil, cayenne, cumin, oregano and black pepper, to taste
+*** For Mexican Hot Sauce
+- 1 cup chopped onion
+- 2 cloves crushed garlic
+- 3 cups chopped tomatoes
+- 1 cup water
+- 1 teaspoon salt
+- 1 teaspoon cumin
+- ¼ teaspoon ground corriander
+- 2 teaspoon dry red wine
+- ¼ - ½ teaspoon cayenne
+- ¼ teaspoon black pepper
+- ½ teaspoon chili powder
+- 2 tablespoons tomato paste
+- 2 tablespoons olive oil
+** Method:
+*** For the Enchiladas
+1. In a large heavy skillet, sauté the garlic and onion in olive oil, with salt.
+2. When the onions are soft (after about 5 minutes), add the pepper, zucchini and herbs.
+3. Stir and continue to cook over medium heat another 5-8 minutes, or until the zucchini is just barely tender.
+4. Remove from heat and stir in the cheese.
+5. Allow to cool at least to room temperature before filling enchiladas.
+*** For the Mexican Hot Sauce
+1. Sauté onions and garlic in olive oil with ½ teaspoon salt until onion is clear.
+2. Add spices.
+3. Transfer to saucepan and add tomatoes, water, tomato paste and wine.
+4. Add remaining salt.
+5. Cover and simmer ½ hour or longer (several hours is best).
+
+   #+begin_warning
+   Hot spices tend to get hotter as they cook. It is recommended that you add the cayenne a little at a time so the degree of hotness is to your tolerance.
+   #+end_warning
+
+   #+begin_note
+   This sauce can be left in chunky form. Or you can purée all or part of it.
+   #+end_note
+** Credits:
+- From The original Moosewood Cookbook
+- date created: [2021-07-24 Sat]

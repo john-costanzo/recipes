@@ -1,0 +1,22 @@
+#+STARTUP: showeverything
+* Belgian Waffles
+
+** Ingredients:
+
+** Method:
+1. Combine in large bowl:
+     - 2 c.	all purpose flour
+     - 2 T.	sugar
+     - ¾	t salt
+     - ½	t active dry yeast
+2. Whisk into dry ingredients:
+     - ½ c.	 unsalted butter, melted
+     - 2 c.	 whole milk
+3. Cover and let sit overnight, covered on counter. Next morning, add:
+     - 3	eggs, separated
+4. Whisk yolks, whip whites to soft peaks and gently fold into batter.
+5. Cook for 3 minutes.
+6. Makes 10-12 waffles
+
+** Credits:
+- date created: [2007-06-27 Wed]

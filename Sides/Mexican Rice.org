@@ -1,0 +1,23 @@
+#+STARTUP: showeverything
+* Mexican Rice
+** Ingredients:
+- 1½ cups long grain rice
+- 3⅛ cup low sodium chicken broth (use ¼ to ⅓ cup less liquid for drier rice)
+- 4.5 oz. can tomato paste
+- 3 Tbsp. butter
+- ½ cup onion, finely diced
+- 4 oz. can diced green chilies
+- Fresh black pepper
+- Pinch of red pepper flakes
+- Cilantro for garnish
+- Salt as needed
+** Method:
+1. Add all ingredients to the rice cooker.
+2. Stir well.
+3. Cook according to manufacturer's instructions.
+4. Let rest for 3 minutes after cooking or longer to thicken and then stir.
+5. Garnish with cilantro before serving.
+** Credits:
+- From https://noshingwiththenolands.com/rice-cooker-mexican-rice/#mv-creation-85-jtr
+- Recipe adapted from Food.com Rice Cooker Mexican Rice.
+- date created: [2022-03-26 Sat]

@@ -1,0 +1,56 @@
+#+STARTUP: showeverything
+* Grain Bowls
+** Ingredients:
++ 1 cup grains:
+    - farro
+    - quinoa
+    - couscous
+    - polenta
+    - grits
+    - wheat berries
+    - rice
+    - freekeh
++ 1 cup vegetables
+    - black beans
+    - steamed chard or spinach
+    - roasted beets
+    - sautéed mushrooms
+    - roasted cauliflower or Brussels sprouts
+    - shredded carrots and/or cabbage
+    - broccoli rabe
+    - Kalamata olives
+    - chickpeas
+    - red onions or scallions
+    - edamame
+    - 6 beets marinated in 3 tablespoon soy sauce, 1 tablespoon sesame oil, 1 small minced garlic clove, ½ teaspoon grated ginger, 1 teaspoon minced green onion and ⅛ teaspoon kosher salt
++ ½ cup protein
+    - cheese
+    - tofu
+    - tempeh
+    - poached egg
++ ¼ cup sauce (one or more of these)
+    - [[https://cookieandkate.com/easy-romesco-sauce-recipe/][Romesco]]
+    - mix ½ cup of mayonnaise with 1 tablespoon of hot sauce and ½ tablespoon of soy sauce
+    - pesto
+    - harissa
+    - Sriracha
+    - peanut sauce
+    - coconut milk
+    - vinaigrette made of red wine vinegar and honey
+    - hummus
+    - ginger root marinated in vinegar
++ ¼ cup "toppers"
+    - mandolined cucumber
+    - pickled radishes
+    - avocado slices
+    - toasted panko crumbs
+    - toasted nuts (like almonds, cashews and peanuts)
+    - seeds
+    - herbs (e.g., basil, oregano, cilantro)
+** Method:
+1. Cook grains.
+2. Place an assortment of vegetables, proteins, sauces and toppers in serving bowls.
+3. Make individual bowls available and ask your guests to build their own bowl.
+** Credits:
+- From Mary Ann Heimburg's dinner, supplemented by https://food52.com/blog/12119-how-to-make-a-grain-bowl-without-a-recipe
+- date created: [2020-10-08 Thu]

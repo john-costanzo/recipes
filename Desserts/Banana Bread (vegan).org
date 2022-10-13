@@ -1,0 +1,37 @@
+#+STARTUP: showeverything
+* Banana Bread (vegan)
+** Ingredients:
+- 1 cup applesauce
+- 1/2 cup turbinado sugar or raw sugar (I’ve used agave with a good result also)
+- 3 extra ripe bananas, mashed
+- 1 Tbsp plant milk
+- 1 tsp vanilla
+- 1 tsp baking soda
+- 1/4 tsp salt
+- 2 cups whole wheat pastry flour
+- 1/2 cup vegan chocolate chips (optional)
+- 1/2 cup nuts (optional)
+** Method:
+1. Preheat oven to 350°.
+2. In a large mixing bowl add 1 cup applesauce and 1/2 cup turbinado sugar. Mix with a wooden spoon.
+3. Add the bananas, plant milk and vanilla then mix well.
+4. Add baking soda, salt, and flour. Mix again.
+5. Add optional nuts and/or chocolate chips.
+6. Pour into a sprayed pan, I use a bundt pan for best results.
+7. Cook for 40 minutes until a toothpick comes out clean. Using a loaf pan will require a longer baking time. When making muffins with this recipe they are usually done in 15 to 20 minutes.
+8. Remove from pan once cool.
+#+begin_tip
+Serve this to for a tasty dessert, snack, or even with a cup of coffee. If possible wait until the next day to slice this and it will taste like heaven! We have even taken this on a road trip for a sweet snack.
+#+end_tip
+
+#+begin_note
+We love to make this in a bundt pan, wrap it up once cool and wait until the next day to cut it. It's moist with a perfect crumb.
+
+If you can't wait it will still be good. Just store in an air tight container at room temperature. If it's exceptionally hot, store in the fridge.
+#+end_note
+** Tags
+IsVegan
+** Credits:
+- From Patsy McCutcheon, https://myplantbasedfamily.com/2012/10/17/the-worlds-best-banana-bread/
+- date created: [2022-07-04 Mon]
+- Patsy made this for the July 2022 Pickleball Tournament. Hers used oat(?) flour and was yummy!

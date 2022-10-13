@@ -1,0 +1,36 @@
+#+STARTUP: showeverything
+* Orange Pistachio Quinoa Salad
+** Ingredients:
+- ¼ cup roasted pistachio nuts
+- 1 cup uncooked quinoa
+- 1½ cups water
+- 1 teaspoon ground cumin
+- ½ teaspoon ground coriander
+- 1 teaspoon sea salt
+- ⅛ teaspoon ground pepper
+- ½ cup fresh mint, chopped
+- 2 scallions, finely chopped
+- 2 tablespoons lemon juice
+- 2 tablespoons orange juice
+- 1 tablespoon orange zest
+- 2 tablespoons extra virgin olive oil
+- ½ cup raisins (dark or light)
+** Method:
+1. Place water and quinoa in a pan and bring to a boil, cover with a lid and lower heat to a simmer for 15 minutes or until all liquid is absorbed. (You can follow the recipe on the package.)
+*** Dressing
+1. Combine the lemon juice, orange juice, zest and olive oil.
+2. Add the dressing about ½ hour before service and the pistachio nuts just before serving.
+#+begin_note
+If the dressing is added too soon, the quinoa absorbs it and becomes dry.
+#+end_note
+
+#+begin_tip
+If you have any leftovers you can add a little orange just and olive oil to moisten it.
+#+end_tip
+
+#+begin_tip
+Remove the pulp from the orange squeezed for the juice and add that to the salad. Or you can add 1 can of Mandarin orange sections.
+#+end_tip
+** Credits:
+- From Esther Turcotte (who served this at the May 2021 Meadows-ettes gathering. It was yum!)
+- date created: [2021-06-07 Mon]

@@ -1,0 +1,41 @@
+#+STARTUP: showeverything
+* Tofu banh mi sandwich
+** Ingredients:
+*** Tofu
+- ¼ cup tamari
+- 2 tbsp lime juice
+- 2 tbsp (coconut) sugar
+- 2 tsp sesame oil
+- 1 garlic clove, chopped
+- 1 1-inch cube ginger, chopped
+- 1 lemongrass stalk, roughly chopped 
+- ½ tsp crushed red chilli flakes
+*** Pickled veggies
+- ½ cup white vinegar
+- ½ cup water
+- 3 tbsp sugar
+- 1 tsp salt
+- ½ cup carrots, cut into sticks or peeled
+- ½ cup daikon, cut into sticks or peeled
+*** Other
+- 1 baguette
+- ¼ cucumber, sliced
+- green onions
+- (vegan) mayonnaise 
+- hoisin sauce
+- cilantro (optional)
+- sriracha (optional)
+** Method:
+1. /Make the tofu/: Mix the marinade together and place the tofu in the marinade. Let sit overnight or at least 1 hour before baking. Bake tofu at 420 degrees for 20-25 minutes until golden brown.
+2. /Make the pickled veggies/: Mix the vinegar, water, sugar and salt together in a bowl. Cut the carrots and daikons into thin sticks and place in the pickling mixture overnight or for at least an hour.
+3. /Build your banh mi/: Cut a piece of the baguette and spread some vegan mayonnaise and hoisin sauce onto the bread. Fill with the marinated tofu, pickled veggies, sliced cucumber, green onions and cilantro. Optionally add some sriracha for spice!
+4. If you like your bread warm, gently head the banh mi in a panini press for 1-2 minutes.
+   #+begin_tip
+   Try serving in [[https://john-costanzo.github.io/recipes-rb.html#CostanzoRecipes_Bread_VeganBurgerBuns][Vegan Burger Buns]].
+   #+end_tip
+** Tags
+Favorite
+** Credits:
+- From https://choosingchia.com/tofu-banh-mi-sandwich/
+- date created: [2022-01-20 Thu]
+- [2022-01-20 Thu] Made for T and me. I marinated the tofu and veggies for about 3 hours. I also cooked the tofu on convection for 25 minutes. I left the sandwiches in the panini maker for about 10 minutes and they got warm throughout. We both enjoyed these!

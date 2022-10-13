@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Chai Tea
+** Ingredients:
+- 1 Tblsp fennel or anise seed
+- 6 green cardamom pods
+- 12 cloves
+- 1 cinnamon stick
+- \frac14 inch ginger root, sliced thinly
+- \frac14 teasp black pepper corns
+- 2 bay leaves
+- 7 cups water
+- 2 Tblsp Darjeeling tea
+- 3 Tblsp honey or brown sugar (was 6)
+- 1 cup milk
+
+** Method:
+1. Boil fennel, cardamom, cloves, cinnamon, ginger root, pepper corns, bay leaves and water for 5 minutes, then steep for 10 minutes.
+2. Add tea, honey and milk. Bring to a boil and simmer 5 minutes. Strain.
+
+** Yield: Serves 8.
+
+** Credits:
++ From Chai! The Enthusiast's Online Chai Resource www.odie.org/chai/index.html
++ date created: [2007-06-27 Wed]

@@ -1,0 +1,41 @@
+#+STARTUP: showeverything
+* French Apple Cake
+** Ingredients:
+- 1 cup all-purpose flour, spooned into measuring cup and leveled-off
+- 1 teaspoon baking powder
+- ¼ teaspoon salt
+- 1 stick (½ cup) unsalted butter, at room temperature
+- ⅔ cup granulated sugar, plus more for sprinkling over cake
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 3 tablespoons dark rum
+- 2 baking apples, peeled, cored and cut into ½-inch cubes (I like Honeycrisp, Fuji or Granny Smith) (3½ - 4 cups chopped)
+- Confectioners' sugar (optional), for decorating cake
+** Method:
+1. Preheat the oven to 350°F and set an oven rack in the middle position.
+2. Grease a 9-inch springform or regular cake pan with butter or nonstick cooking spray. If using a regular cake pan, line the bottom of the pan with parchment paper and grease again.
+3. In a small bowl, whisk together the flour, baking powder and salt.
+4. Using a handheld mixer with beaters or a stand mixer with the paddle attachment, cream the butter and granulated sugar until light and fluffy, about 3 minutes.
+5. Add the eggs, one at a time, beating well and scraping down the sides of the bowl after each addition. Beat in the vanilla and rum. Don't worry if the batter looks grainy at this point; that's okay. Add the flour mixture and mix on low speed until just combined.
+6. Using a rubber spatula, fold in the chopped apples.
+7. Scrape the batter into the prepared pan and even the top.
+8. Sprinkle evenly with 1 tablespoon of granulated sugar.
+9. Bake for about 40 minutes, or until the cake is golden and a toothpick inserted into the center comes out clean.
+   #+begin_tip
+   /Consider placing springform pan on a cookie sheet in case it leaks./
+   #+end_tip
+10. Allow the cake to cool on a rack in the pan.
+11. Once cool, run a blunt knife around the edges of the cake. If using a springform pan, remove the sides. If using a regular cake pan, carefully invert the cake onto the rack, remove the parchment paper, then gently flip the cake over and place right-side-up on a platter. Using a fine sieve, dust with confectioners' sugar (if using).
+12. Cake can be served warm or room temperature, plain or with lightly sweetened whipped cream or vanilla ice cream.
+#+begin_details Freezer Friendly Instructions :title-color "green"
+    The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the countertop before serving.
+#+end_details
+
+** Credits:
+- From https://www.onceuponachef.com/recipes/french-apple-cake.html#tabrecipe
+- Servings: 6-8
+- Prep Time: 20 Minutes
+- Cook Time: 40 Minutes
+- Total Time: 1 Hour
+- date created: [2021-01-22 Fri]
+- [2021-01-24 Sun] Made a batch and a half in a 10” springform pan and needed to bake for an extra 5 minutes. Substituted bourbon for the rum and called it “French /Quarter/ Apple Cake”.  Brought to Greg and Mary Ann’s and shared with Matt and family. Seemed to go over well. 

@@ -1,0 +1,34 @@
+#+STARTUP: showeverything
+* Cranberry Muffins
+Preheat oven to *400 degrees*.
+
+** Ingredients:
+- ⅔ cup sugar
+- 1¾ cup flour
+- 1 Tblsp baking powder
+- dash salt
+- 1 Tblsp grated orange zest
+- 1	egg
+- 1 cup buttermilk
+- ⅓ cup vegetable oil
+- ½ cup rinsed cranberries
+
+** Method:
+1. Mix together:
+     + sugar
+     + flour
+     + baking powder
+     + salt
+2. In another bowl, whisk together:
+     + orange zest
+     + egg
+     + buttermilk
+     + vegetable oil
+3. Mix cranberries into dry ingredients. Pour into liquid mixture and stir.
+4. Spoon into paper-lined muffin tin about ⅔ full.
+5. Bake at 400 degrees for 25 minutes.
+
+** Yields 12 muffins.
+
+** Credits:
+- date created: [2007-06-27 Wed]

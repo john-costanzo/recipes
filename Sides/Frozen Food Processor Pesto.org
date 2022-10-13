@@ -1,0 +1,31 @@
+#+STARTUP: showeverything
+* Frozen Food Processor Pesto
+** Ingredients:
+- 2 cups firmly packed basil leaves
+- ⅓ cup olive oil
+- 2 tablespoons pine nuts
+- 2 cloves peeled garlic
+- ⅔ cup parmesan cheese
+** Method:
+1. Blend all ingredients in a food processor until smoot, stopping to scrape sides from time to time.
+2. Ladle mixture into ice cube trays.
+3. Top off with a little olive oil.
+4. Cover with plastic wrap and freeze.
+5. When solid, empty trays into plastic bags and store in freezer.
+6. When ready to prepare pasta, gently thaw the desired amount of pesto (4 cubes per ½ pound of pasta).
+7. When at rom temperature, add 1 tablespoons parmesan cheese to each cube.
+8. Place in serving dish.
+9. Boil water for pasta.
+10. Add a couple of teaspoons of the pasta’s boiling water and stir until smooth.
+11. Toss pasta in the sauce and serve immediately.
+
+    #+begin_note
+    Yield: 12 tablespoons (cubes) or enough for 1- 1½ pounds of pasta.
+    #+end_note
+
+    #+begin_warning
+    Never, never, never heat or reheat pesto sauce. It will become bitter, so no leftovers!!!
+    #+end_warning
+** Credits:
+- From New York Times
+- date created: [2021-07-08 Thu]

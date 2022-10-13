@@ -1,0 +1,29 @@
+#+STARTUP: showeverything
+* Pain au Levain
+Makes 2 loaves
+Takes a minimum of ~6 hours: 30 mixing + 4.5 rising + 1 baking
+
+** Ingredients:
+- 454 grams ripe starter (2½ cups; 1 pound)
+- 600 grams unbleached, all-purpose flour (5 cups; 1 pound, 5 oz.)
+- 85 grams whole wheat flour (⅔ cups; 3 oz.)
+- 397 grams water (1¾ cups; 14 oz.)
+- 12.5 grams (2½ teaspoons) salt
+
+** Method:
+1. Combine the flours, water and starter and mix using bread attachment of a mixer.
+2. Cover the bowl loosely with plastic and let the dough rest for 20 to 30 minutes.
+3. Add the salt and knead the dough until it becomes smooth, supple and slightly tacky. (Avoid adding flour!)
+4. Cover and let rise for 1 hour.
+5. Fold dough.
+6. Cover and let rise for 1 hour.
+7. Divide the dough into two pieces and preshape each piece into a loose ball. Place the dough smooth side up on a lightly floured surface. Cover and let rest for about 20 minutes.
+8. Shape the loaves into loaves and place in loaf pan.
+9. Cover and let rise for 2 hours.
+10. An hour before baking, preheat oven to 450 degrees.
+11. Spritz loaves with water and place in oven.
+12. Bake for 40 minutes, until the crust is richly colored and the internal temperature of the loaf is about 200 degrees.
+
+** Credits:
+- The King Arthur Flour Baker's Companion, page 279-280
+- date created: [2019-08-02 Fri]

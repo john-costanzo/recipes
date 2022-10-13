@@ -1,0 +1,49 @@
+#+STARTUP: showeverything
+* Refried Bean, Zucchini and Corn Gratin
+** Ingredients:
+*** for the beans
+- 3 cups simmered black beans or pinto beans, with liquid (see recipe)
+- 2 tablespoons grapeseed or sunflower oil
+- 2 teaspoons cumin seeds, ground
+- 1 chipotle in adobo, seeded and minced (optional)
+- Salt to taste
+- 1 teaspoon mild or hot chili powder (more to taste)
+
+*** for the squash
+- 2 tablespoons extra virgin olive oil
+- ½ cup minced onion
+- Salt to taste
+- 2 garlic cloves, minced
+- 1 ½ pounds zucchini or mixed zucchini and yellow squash, sliced about ¼ inch thick
+- ½ to 1 teaspoon oregano, preferably Mexican oregano, to taste
+
+*** for the corn
+- 2 cups corn kernels (fresh or frozen)
+- 1 ¼ cups milk
+- 1 serrano chile, minced
+- ¼ cup cornmeal or polenta
+- Salt to taste
+- ½ cup grated asadero, Monterey Jack or pecorino
+- ¼ cup crumbled queso cotijo, queso fresco, or feta
+- 1 tablespoon butter or extra virgin olive oil
+
+
+** Method:
+1. Heat oven to 375 degrees. Oil or butter a 2-quart baking dish or gratin dish.
+
+2. /Refry beans/: Drain off about ½ cup of liquid from beans, retaining it in a separate bowl to use later for moistening beans, should they dry out. Heat oil over medium-high heat in a large, heavy nonstick frying pan and add ground cumin and chili. Cook, stirring over medium heat, for about a minute, until the spices begin to sizzle and cook. Add beans and optional chipotle. Fry beans, stirring and mashing with the back of a spoon, until they thicken and form a thin crust on the bottom of the pan. Stir up crust and mix into the beans. Cook until beans are thick but not dry, about 10 minutes. Add liquid you saved from the beans if they seem too dry. Taste refried beans and adjust salt (they probably won't need any as the broth reduces when you refry them). Spread in an even layer in the baking dish. (Note: If you use canned beans, do not drain. The frying process will go more quickly.)
+
+3. Clean and dry skillet. Heat over medium heat and add olive oil. Add onion and cook, stirring, until tender, about 5 minutes. Add a pinch of salt and garlic and cook, stirring, until garlic is fragrant, about 30 seconds. Add squash, oregano, salt and pepper, and turn up heat slightly. Cook, stirring often or tossing in pan, until squash is translucent and tender, 5 to 10 minutes. Taste and adjust seasoning. Spread in an even layer over the beans.
+
+4. Combine corn and milk in a saucepan and bring to a simmer. Simmer 5 minutes, until corn is just tender. Stir in cornmeal and minced serrano, add salt to taste, and continue to simmer until mixture is thick, 3 to 5 minutes. Stir in grated cheese. Remove from heat and spread in an even layer over squash. Sprinkle crumbled cheese over top. Dot with butter or drizzle on oil.
+
+5. Place in oven and bake 25 minutes, until bubbly and crumbled cheese is lightly browned. Serve hot or warm.
+
+#+begin_tip
+Advance preparation: The refried beans will keep for 3 or 4 days in the refrigerator, but you will need to moisten them before you assemble the gratin.
+#+end_tip
+
+** Credits:
+- http://cooking.nytimes.com/recipes/1016969-refried-bean-zucchini-and-corn-gratin
+- [2016-07-13 Wed] TC made for JC and Doris; yum!
+- 2020: TC made and donated this lots of times during COVID.

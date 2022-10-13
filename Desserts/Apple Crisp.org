@@ -1,0 +1,22 @@
+#+STARTUP: showeverything
+* Apple Crisp
+** Ingredients:
+*** Base
+- 4 cups (about 4 medium) apples peeled, cored, cut into ¼-inch slices
+- ⅔ to ¾ cup packed brown sugar
+- ½ cup all-purpose flour
+- ½ cup oats
+- ¾ teaspoon ground cinnamon
+- ¾ teaspoon ground nutmeg
+- ⅓ cup butter
+** Method:
+1. Preheat oven to 450 degrees.
+2. Arrange apples in a greased square pan 8x8x2 inches.
+3. Mix remaining ingredients and sprinkle over apples.
+4. Bake until topping is golden brown and apples are tender, about 30 minutes.
+5. Srve warm and, if desired, with cream or ice cream.
+** Yield: 
+6 servings
+** Credits:
+- Betty Crocker Cookbook, page 260.
+- date created: [2020-08-29 Sat]

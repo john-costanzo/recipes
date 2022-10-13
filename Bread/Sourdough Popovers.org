@@ -1,0 +1,21 @@
+#+STARTUP: showeverything
+* Sourdough Popovers
+** Ingredients:
+- 1 cup (227g) milk (full-fat, reduced-fat, skim or almond)
+- 3 large eggs
+- 1/2 cup (113g) sourdough starter, ripe (fed) or discard
+- 3/4 teaspoon salt
+- 1 cup (120g) King Arthur Unbleached All-Purpose Flour
+** Method:
+1. Heat a muffin or popover pan in the oven while it's preheating to 450°F.
+2. In the microwave or in a small saucepan, warm the milk until it feels just slightly warm to the touch.
+3. Combine the warm milk with the eggs, sourdough starter and salt, then mix in the flour. Don't over-mix; a few small lumps are OK. The batter should be thinner than a pancake batter, about the consistency of heavy cream.
+4. Carefully remove the hot pan from the oven, and spray it thoroughly with non-stick pan spray, or brush it generously with oil or melted butter.
+5. Quickly pour the batter into the cups, filling them almost to the top. If you're using a muffin tin, fill cups all the way to the top. Space the popovers around so there are empty cups among the full ones; this leaves more room for expansion.
+6. Bake the popovers for 15 minutes, then reduce the oven heat to 375°F and bake for an additional 15 to 20 minutes, until popovers are golden brown.
+7. Remove the popovers from the oven and serve immediately.
+
+** Credits:
+- From https://www.kingarthurbaking.com/recipes/sourdough-popovers-recipe
+- date created: [2020-09-27 Sun]
+- [2020-09-26 Sat] Made with almond milk. Not quite as crisp with the sourdough but good nonetheless.

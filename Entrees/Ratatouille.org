@@ -1,0 +1,32 @@
+#+STARTUP: showeverything
+* Ratatouille
+This is one of my very favorite vegetable dishes. Serve it warm or at room temperature as a vegetable and as an hors d'oeuvre, or over starch (such as pasta or polenta) as a main dish, or topped with shredded cheese and melt to serve au gratin.
+** Ingredients:
+- 2 tablespoons olive oil
+- 2 cups chopped onions
+- 3 cloves garlic, minced
+- 4 cups diced eggplants
+- 1 cup red bell pepper chunks
+- ½ cup green bell pepper chunks
+- 3 cups tomato wedges
+- 2 cups sliced zucchini
+- 1 cup sliced yellow squash
+- ⅓ cup chopped fresh parsley
+- ¼ cup red wine
+- 2 tablespoons tomato paste
+- 1 teaspoon sugar
+- 1 teaspoon dried basil
+- ½ teaspoon dried rosemary, crumbled
+- ¼ teaspoon dried thyme
+- ¼ teaspoon dried sage
+- 2 teaspoons red wine vinegar
+- ½ teaspoon salt, or to taste
+- ⅛ teaspoon pepper
+** Method:
+1. In a 6-quart pot, heat the oil over medium-high heat. Add the onions and garlic; cook, stirring, until softened, about 2 minutes. Add the eggplant and both bell peppers; cook, stir-ring, until softened, about 4 minutes.
+2. Add the tomatoes, zucchini, yellow squash, parsley, wine, tomato paste, sugar, basil, rose-mary, thyme, and sage. Bring to a boil. Reduce heat and simmer, uncovered, 25 minutes, stir-ring occasionally. Add the vinegar, salt, and pepper. simmer 5 minutes longer. 
+** Yield:
+Makes: 6½ cups; serves: 8 to 12 
+** Credits:
+- From [[https://www.amazon.com/000-Vegetarian-Recipes-Carol-Gelles/dp/0025429655][1,000 Vegetarian Recipes]]
+- date created: [2020-09-06 Sun]
