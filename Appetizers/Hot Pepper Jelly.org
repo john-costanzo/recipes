@@ -1,0 +1,30 @@
+#+STARTUP: showeverything
+* Hot Pepper Jelly
+** Ingredients:
+- 2½ cups finely chopped red bell peppers
+- 1¼ cups finely chopped green bell peppers
+- ¼ cup finely chopped jalapeno peppers
+- 1 cup apple cider vinegar
+- 1 (1.75 ounce) package powdered pectin
+- 5 cups white sugar
+
+** Method:
+1. Sterilize six 8-ounce canning jars and lids according to the manufacturer's instructions.
+2. Heat water in a hot water canner.
+3. Place bell peppers and jalapeño peppers in a large saucepan over high heat; stir in vinegar and fruit pectin.
+4. Bring to a rolling boil, stirring constantly.
+5. Stir in sugar; bring back to a rolling boil, stirring constantly.
+6. Allow to boil for 1 minute, then remove from the heat and skim any foam off the top.
+7. Quickly ladle jelly into sterile jars, filling to within ¼-inch of the tops.
+8. Cover with flat lids and screw on rings tightly.
+9. Place jars in the rack and slowly lower jars into the canner.
+10. The water should cover the jars completely and should be hot but not boiling.
+11. Bring water to a boil; cover the canner and process for 5 minutes.
+
+#+begin_note
+This makes 6 (six) 8-ounce jars.
+#+end_note
+
+** Credits:
+- [2022-09-28 Wed] Made, filled jars and refrigerated them. This was tasty, but not terrible spicy.
+- date created: [2022-10-12 Wed]
