@@ -1,9 +1,0 @@
-(undo-tree-save-format-version . 1)
-"140642c3b208ce9bc344233c070df7fa4ad4f21f"
-[nil nil nil nil (25146 22815 896639 0) 0 nil]
-([nil nil ((74 . 76) (t 25134 23713 182878 188000)) nil (25146 22815 896638 0) 0 nil])
-([nil nil ((76 . 81)) nil (25146 22815 896635 0) 0 nil])
-([nil nil ((81 . 82)) nil (25146 22815 896630 0) 0 nil])
-([nil nil ((nil rear-nonsticky nil 794 . 795) (nil fontified nil 788 . 795) (nil fontified nil 787 . 788) (nil fontified nil 782 . 787) (nil mouse-face highlight 781 . 782) (nil keymap (keymap (C-down-mouse-1 . org-mouse-move-tree-start) (C-drag-mouse-1 . org-mouse-move-tree) (follow-link . mouse-face) (mouse-3) (mouse-2 . org-open-at-mouse)) 781 . 782) (nil fontified nil 781 . 782) (nil mouse-face highlight 780 . 781) (nil keymap (keymap (C-down-mouse-1 . org-mouse-move-tree-start) (C-drag-mouse-1 . org-mouse-move-tree) (follow-link . mouse-face) (mouse-3) (mouse-2 . org-open-at-mouse)) 780 . 781) (nil fontified nil 780 . 781) (nil mouse-face highlight 779 . 780) (nil keymap (keymap (C-down-mouse-1 . org-mouse-move-tree-start) (C-drag-mouse-1 . org-mouse-move-tree) (follow-link . mouse-face) (mouse-3) (mouse-2 . org-open-at-mouse)) 779 . 780) (nil fontified nil 779 . 780) (779 . 795) (t 25146 22815 914919 222000)) nil (25146 22866 108053 0) 0 nil])
-([nil current ((795 . 796)) nil (25146 22866 108043 0) 0 nil])
-nil
