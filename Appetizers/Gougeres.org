@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Gougères
+* Gougeres
 ** Ingredients:
 - ½ cup whole milk
 - ½ cup water
