@@ -1,5 +1,10 @@
 {
-    "Index": [
+    "Index": {
+	"step": [1, 2, 3, 4, 5, 6, 7, 8 , 9, 10],
+	"ingredient": [1, 2, 4, 5, 7, 8],
+	"long": [2, 3, 5, 6, 8]
+    },
+    "Recipes": [
 	{ "Title" : "Yummy Recipe #0",
 	  "Ingredients" : [ "ingredient 0.1", "ingredient 0.2", "ingredient 0.3" ],
 	  "Method" : [ "step 0.1", "step 0.2", "step 0.3" ]
