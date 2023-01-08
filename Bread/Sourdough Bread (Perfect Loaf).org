@@ -1,0 +1,39 @@
+#+STARTUP: showeverything
+* Sourdough Bread (Perfect Loaf)
+** Ingredients:
+*** For the levain:
+- 3 tablespoons (60g) Trailblazer bread flour
+- 4 tablespoons (61g) [Water 1]
+- 1 tablespoon (30g) ripe sourdough starter
+*** For the autolyse:
+- 6 cups (886g) Trailblazer bread flour
+- 2¾ cups (650g) [Water 1]
+*** For the main mix:
+- All of the autolyse
+- All of the levain
+- ½ cup (95g) [Water 2]
+- 3 teaspoons (17g) fine sea salt
+** Method:
+1. Make the Levain: In a medium jar mix Trailblazer flour, part of Water 1, and 1 tablespoon (30g) ripe sourdough starter until well incorporated (this liquid levain will feel quite loose) and loosely cover. Store in a warm place for 5 hours.
+2. Mix the Autolyse: About 1 hour 30 minutes before the levain is ready, place the flour and water in a large bowl and use wet hands to mix until no dry bits remain* (see Baker's Notes). Use a bowl scraper to scrape down the sides of the bowl to keep all the dough in one area at the bottom. Cover the bowl and place it near your levain for 1 hour 30 minutes. Since this is a longer autolyse, be sure to keep the dough warm, at 78°F (25°C).
+3. Check the Levain: It should show signs of readiness but not be overly ripe: moderate bubbles on the surface and a mild sour aroma. If the levain is not showing these signs, let it ferment 15 minutes more and check again.
+4. Adjust the water temperature for the main mix: Take the temperature of the dough and compare it to the desired dough temperature for this recipe, 78°F (25°C). If it’s higher, use cold water for the remaining water; if it’s lower, use warm water.
+5. Mix the dough: To the autolyse, add a splash of the water 2 (with this recipe, add water only a little at a time to avoid overhydration), the salt, and ripe levain. Using wet hands, mix the ingredients until well incorporated. If at any point the dough feels excessively wet, slack, and possibly falling apart, don’t add the remaining water. Otherwise, add the rest of the water, a little at a time, and continue to mix until the dough comes together, and all the water is absorbed.
+6. Strengthen the dough: Depending on how the dough feels, you can slap and fold it on the counter for about 5 minutes, or you can perform 5 minutes of repeated folding in the bowl. The slap and fold technique is effective for highly hydrated doughs, but it can be a bit of work and a bit messy. The dough should smooth out a little and gain some elasticity, but still be quite shaggy. Transfer back to the bowl or another container for bulk fermentation.
+7. Measure the temperature of the dough: For this recipe, it should be 78°F (25°C). Cover the dough and bulk-ferment for about 4 hours at warm room temperature: 74°-76°F (23°-24°C).
+8. During the bulk fermentation, complete 6 sets of stretches and folds, the first 3 at 15-minute intervals, and the remaining 3 at 30-minute intervals** (see Baker's Notes). After the last set, cover the bowl and let the dough rest for the remainder of bulk fermentation, about 1 hour 45 minutes.
+9. Check the dough: At the end of bulk fermentation, the dough will have risen some in the bulk container. Because of the high hydration, it might not be significantly risen, but it may have bubbles on top and at the sides, it should look smoother and less shaggy, and at the edge of the dough where it meets the container, it should dome downward. If you wet a hand and gently tug on the surface of the dough, it will feel elastic and cohesive, resisting your pull. If you don’t see dough that’s airy, strong, and “alive,” leave it for another 15 minutes in bulk fermentation and check again.
+10. Divide and preshape the dough: Using a bowl scraper, gently scrape the dough onto a clean work surface and use your bench knife to divide it directly in half. Using your bench knife in your dominant hand and with your other hand wet to reduce sticking, shape each piece of dough into a tight round. The dough will feel sticky and slack, so be sure to preshape it tightly to give it additional strength*** (see Baker's Notes).
+11. Let the rounds rest for 35 minutes, uncovered. Keep an eye on this dough during the rest; if it looks like it’s beginning to spread out into a thin pancake, skip the remaining bench rest time and proceed directly to shaping.
+12. Prepare the proofing baskets: Line two proofing baskets or bowls with clean kitchen towels. Dust lightly and evenly with white flour.
+13. Shape the dough: Shape each as a boule or a batard. Gently transfer each piece to a proofing basket, seam-side up. Place each basket inside an airtight reusable plastic bag and seal.
+14. Proof for about 18 hours (overnight) in a home refrigerator.
+15. When ready to bake, prepare the oven: Place an oven rack in the bottom third of the oven with no rack above it. Place a Dutch oven/combo cooker inside the oven and preheat to 450°F (230°C) for at least 30 minutes. (Alternatively, bake directly on a baking stone/steel.)
+16. Take one of the proofing baskets out of the fridge and uncover. Use your finger to gently poke around the dough to assess the strength. If it feels very fragile and weak, use a lighter hand when scoring to prevent the dough from collapsing when baking—don’t score in excessively deeply, only enough to cut through the outer skin of the dough. Put a piece of parchment paper over the basket. Place a pizza peel or inverted baking sheet on top of the parchment and, using both hands, flip everything over. Gently remove the basket and score the dough.
+17. Bake the dough: Slide the dough with the parchment into the preheated Dutch oven and cover with the lid. Bake for 20 minutes, then remove the lid. Continue to bake for 30 to 35 minutes, or until the internal temperature reaches 206°-210°F (96°-99°C) and the crust has a deep mahogany color and a crackle/ crunch when gently squeezed.
+18. Finish and cool: Let the loaf cool on a wire rack for 1 to 2 hours before slicing. For the second loaf, preheat the Dutch oven for 15 minutes and repeat.
+
+** Credits:
+- From https://cairnspring.com/blogs/recipes/my-best-sourdough
+- date created: [2023-01-02 Mon]
+- [2023-01-02 Mon] This dough is quite highly hydrated and as such, was quite slack and sticky. But that all changed during the final rising where it really firmed up. I was very happy with the loaf's airy structure and crispy crust.
