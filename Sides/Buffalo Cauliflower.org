@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
- Crispy Cauliflower Buffalo Wings
+* Crispy Cauliflower Buffalo Wings
 ** Ingredients:
 - ½ head cauliflower, chopped into bite size pieces
 - 1 cup garbanzo bean (or wheat) flour
