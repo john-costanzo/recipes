@@ -28,7 +28,7 @@
 11. Once cool, run a blunt knife around the edges of the cake. If using a springform pan, remove the sides. If using a regular cake pan, carefully invert the cake onto the rack, remove the parchment paper, then gently flip the cake over and place right-side-up on a platter. Using a fine sieve, dust with confectioners' sugar (if using).
 12. Cake can be served warm or room temperature, plain or with lightly sweetened whipped cream or vanilla ice cream.
 #+begin_details Freezer Friendly Instructions :title-color "green"
-    The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the countertop before serving.
+    The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the counter top before serving.
 #+end_details
 
 ** Credits:
