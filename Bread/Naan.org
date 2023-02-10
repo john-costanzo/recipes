@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Naan
 ** Ingredients:
-- ¾ cup lukewarm water (use as needed but consider using only ⅜ cup (3 ounces)  to dissolve yeast?)
+- ⅜ cup (3 ounces) lukewarm water to dissolve yeast (even though the recipe calls for ¾ cup)
 - 1 tsp active dry yeast
 - 2 cups all-purpose flour plain flour
 - 1 tsp salt
@@ -31,3 +31,4 @@ Favorite
 - From https://www.manjulaskitchen.com/Naan-bread/
 - date created: [2021-12-18 Sat]
 - [2021-12-17 Fri] I made a double batch for MaryAnn's birthday dinner (and we wound up eating less than half of them). The recipe called for *way* too much water; I added nearly a full cup additional flour (to a doubled recipe). But the end-product was great. I received comments that this was “probably the best Naan I’ve ever had.” They were light and fluffy on the inside and a bit crispy on the exterior. And tasty. So instead of using ¾ cup of water, consider using only ⅜ cup to dissolve yeast.
+- [2023-01-26 Thu] Made for Squirrels' party. They were a hit although I may have rolled the bread a bit too thinly. They got a bit more crispy than I'd prefer.
