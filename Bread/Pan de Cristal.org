@@ -9,7 +9,7 @@
 ** Method:
 1. Oil a two-quart rectangular baking dish (10” x 7”) with the olive oil. If you don’t have a 2-quart dish, an 8” or 9” square pan will work. Don’t worry about any pan you use being oven-safe; you won’t be baking the bread in it.
 2. To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
-3. In a medium bowl, mix the water, flour, yeast, and salt until thoroughly combined and homogenous. Note: The dough starts off very slack and wet. That’s OK; it will transform itself through time and folds.
+3. In a medium bowl, mix the water, flour, yeast, and salt until thoroughly combined and homogeneous. Note: The dough starts off very slack and wet. That’s OK; it will transform itself through time and folds.
 4. Pour the dough into the pan. Check the dough’s temperature by inserting a digital thermometer into the center. If it's less than 72°F, move the pan to a warmer spot, e.g., your oven with the light turned on.
 5. Cover the pan and allow the dough to rest for 20 minutes.
 6. /Start with a bowl fold/: Use your wet hands to grab a section of dough from one side, lift it up, then press it down into the middle. Repeat this 8 to 12 times, rotating the starting point of the grab around the dough.
@@ -26,7 +26,7 @@
 17. Repeat the process with the two remaining loaves. Cool the bread fully before slicing.
 18. /Storage information/: Wrap the bread loosely and store it at room temperature for up to several days; freeze for longer storage.
 #+begin_tip
-Sample timeline:  
+Sample timelines:  
 |------------+------------+---------------|
 | 7:00 a.m.  | 12:00 p.m. | Mix the dough |
 | 7:20 a.m.  | 12:20 p.m. | Bowl fold     |
