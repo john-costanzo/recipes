@@ -1,14 +1,14 @@
 #+STARTUP: showeverything
 * Oat Milk
 ** Ingredients:
-- ½ cup whole rolled oats
-- 3 cups water
-- 2 teaspoons maple syrup
-- ½ teaspoon vanilla extract
-- ⅛ teaspoon sea salt
-- ¼ cup flaked coconut (/optional/)
+- 6 cups water
+- 1 cup whole rolled oats
+- 4 teaspoons maple syrup
+- 1 teaspoon vanilla extract
+- ½ teaspoon sea salt
+- ½ cup flaked coconut (/optional/)
 ** Method:
-1. Combine the oats, water, maple syrup, vanilla, and salt in a blender and blend for 30 seconds.
+1. Combine the oats, water, maple syrup, vanilla, and salt in a high-powered blender and blend for 20 seconds.
 2. Place a fine mesh strainer over a large bowl and strain the milk without pushing any excess pulp through the strainer. This will create a creamier texture that’s not gritty or gummy.
 3. Add more maple syrup, to taste, if desired. Chill overnight.
    #+begin_note
@@ -22,4 +22,4 @@ As the oat milk sits in the fridge, natural separation will occur. You can shake
 ** Credits:
 - From https://www.loveandlemons.com/oat-milk/#wprm-recipe-container-42113
 - date created: [2023-02-10 Fri]
-- [2023-03-01 Wed] I like to shake the milk each time before I use it because otherwise it is quite thin. But shaking it does make it a tiny bit slimy.
+- [2023-03-01 Wed] I like to shake the milk each time before I use it because otherwise it is quite thin. But shaking it can make it a tiny bit slimy.
