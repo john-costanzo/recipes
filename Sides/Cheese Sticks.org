@@ -1,0 +1,37 @@
+#+STARTUP: showeverything
+* Cheese Sticks
+** Ingredients:
+- 1 sheet frozen puff pastry, thawed just enough to unfold
+- 2 teaspoons olive oil (preferably drained from a tin of anchovies)
+- 1 pinch cayenne pepper, or to taste
+- salt and freshly ground black pepper to taste
+- ¼ cup shredded sharp white Cheddar cheese
+- 5 tablespoons freshly shredded Parmigiano-Reggiano cheese, divided
+** Method:
+1. Preheat the oven to 400°F (200°C).
+2. Line a baking sheet with parchment paper or a silicone baking mat.
+3. Unfold puff pastry into a flat sheet and brush olive oil over top.
+4. Season with salt, pepper, and cayenne pepper.
+5. Sprinkle Cheddar and ¼ cup Parmigiano-Reggiano all over dough to cover.
+6. Cover with a piece of plastic wrap (or silpat).
+7. Press on the plastic wrap (or silpat) with your fingers to push cheese and seasonings firmly into the dough, or place a sheet pan over top and press down.
+8. Remove and discard plastic wrap.
+9. Cut dough along the seams into thirds with a pizza cutter or sharp knife, then cut each third lengthwise into thirds again for a total of nine strips.
+10. Pick up one strip and place it seasoned-side down onto the work surface.
+11. Twist it from both ends eight to nine times to make a rolled tube of dough with the seasoning facing out.
+12. Place onto the prepared baking sheet and repeat with remaining strips.
+13. Sprinkle remaining 1 tablespoon Parmigiano-Reggiano cheese over cheese sticks.
+14. Roll sticks lightly to even up their shapes; pick up and press any dropped cheese onto the surfaces.
+15. Bake in the preheated oven for about 10 minutes, then flip and bake until sticks are browned and crisp and hold their shape without drooping when lifted, 10 to 20 more minutes.
+16. Cool on a wire rack before serving.
+#+begin_note
+You can use all kinds of dried herbs and spices, curry powders, smoked paprika, and things like that. This is my basic formula, but you can adapt it to suit your tastes.
+#+end_note
+
+#+begin_note
+The wider the strips, the more bread-like the cheese sticks will be. The tighter you twist them, the more dense and crisp they will be. A loose twist will result in a softer, breadier stick.
+#+end_note
+** Credits:
+- From https://www.allrecipes.com/recipe/234683/how-to-make-cheese-sticks/
+- date created: [2023-07-29 Sat]
+- [2023-07-28 Fri] Made for T and Louise and Todd. The pastry stuck a bit on the cutting board, but otherwise these were pretty simple and got raves!
