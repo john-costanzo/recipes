@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Sandwich Bread
 ** Ingredients:
-- 4 teaspoon active dry yeast
+- 2 teaspoon active dry yeast
 - 1¼ cup warm water
 - 2 tablespoon sugar
 - 1 cup almond milk (or any nondairy milk)
@@ -25,3 +25,4 @@
 - The original recipe called for 3-4 cups bread flour. Not nearly enough!
 - [2023-02-26 Sun] Made and used for cucumber finger sandwiches for a Vegan High Tea. Was well-received.
 - [2023-03-14 Tue] Made with about ⅓ Spelt and Emmer flour. Really tasty and good structure. After cooling, I sliced and froze it. It held up well. I decide this could be our daily bread (it's the best thing since sliced bread?).
+- [2023-08-13 Sun] The original recipe called for 4 teaspoon of yeast; 2 is plenty.
