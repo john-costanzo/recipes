@@ -1,9 +1,7 @@
 #+STARTUP: showeverything
 * Cajun Meat Loaf with Chili Sauce
-
-** Meat Loaf
-
-*** Ingredients:
+** Ingredients:
+*** Meat Loaf
 - 1 cup long grain brown rice
 - ¼ cup oil
 - ⅔ cup dried lentils
@@ -24,14 +22,14 @@
 - 8 ounces tomato juice
 - ¼ cup soy sauce
 
-**** Barbecue Sauce Ingredients
-- 1 cup		tomato sauce
-- ½ teasp		liquid smoke
-- ¼ cup		sugar
-- ¼ cup		cider vinegar
-- ¼ cup		tomato paste
+*** Barbecue Sauce
+- 1 cup tomato sauce
+- ½ teasp liquid smoke
+- ¼ cup sugar
+- ¼ cup cider vinegar
+- ¼ cup tomato paste
 
-*** Ingredients (50%):
+*** Meatloaf (50%):
 - ½ cup long grain brown rice
 - 2 Tbls oil
 - ⅓ cup dried lentils
@@ -52,12 +50,12 @@
 - 4 ounces tomato juice
 - 2 Tbls soy sauce
 
-**** Barbecue Sauce Ingredients
-- 1 cup		tomato sauce
-- ½ teasp		liquid smoke
-- ¼ cup		sugar
-- ¼ cup		cider vinegar
-- ¼ cup		tomato paste
+*** Barbecue Sauce (50%)
+- 1 cup tomato sauce
+- ½ teasp liquid smoke
+- ¼ cup sugar
+- ¼ cup cider vinegar
+- ¼ cup tomato paste
 
 *** Method:
 1. Take half the oil, and saute uncooked rice over low heat until golden. Stir often.
@@ -72,29 +70,11 @@
 
 6. Mix in the rest of the ingredients, except eggs, cheese and tomato juice. Let cool, then beat eggs with tomato juice and add to mixture.
 
-7. Add  ¼ cup (or 2 Tbls for half) soy sauce. Knead. Wait 5 minutes so TVP can soak up moisture. Taste TVP to see if smooth. If crunchy, add water. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozerella.)
+7. Add ¼ cup (or 2 Tbls for half) soy sauce. Knead. Wait 5 minutes so TVP can soak up moisture. Taste TVP to see if smooth. If crunchy, add water. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozerella.)
 
-8. Cover with aluminum foil and bake at 275 degrees for 1 hour or until center is cooked.
+8. Cover with aluminum foil and bake at 275°  for 1 hour or until center is cooked.
 
 9. The meat loaf may be served with ketchup, or with the spicy chili sauce, below.
-
-
-** Spicy Chili Sauce
-
-*** Ingredients
-- 1 medium	onion, chopped
-- 1			green pepper chopped
-- 2			jalapeno peppers, chopped
-- 1 stalk		celery, diced
-- ¼ cup		oil
-- 1 large can	Italian tomatoes
-- ½ teasp		coriander
-- 1 heaping teasp	cumin
-- ¼ cup		soy sauce
-
-*** Method:
-1. Saute onions. Add peppers, celery and jalapeno peppers and saute until tender. Break tomatoes into pieces with fingers and add spices. Cook for 10 minutes. Salt to taste.
-
 ** Credits:
 - Park and Orchard Recipe
 - from The Record: 6 November 1988
