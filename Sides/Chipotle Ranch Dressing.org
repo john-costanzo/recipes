@@ -1,6 +1,7 @@
 #+STARTUP: showeverything
 * Chipotle Ranch Dressing
-** Ingredients, version 1:
+** Ingredients
+*** version 1
 + 1 cup mayonnaise
 + 1 cup sour cream
 + 1 cup buttermilk
@@ -12,7 +13,7 @@
 + 1½ teaspoons lime juice
 + 1½ teaspoons salt
 
-** Ingredients, version 2:
+*** version 2:
 + ½ cup mayo (or use sour cream, vegan mayo “Veganaise” – or make with silken tofu, see notes below)
 + 1 tablespoon water (for a thinner sauce)
 + 1 - 2 teaspoons lime juice (to taste)
