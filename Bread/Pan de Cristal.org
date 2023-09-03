@@ -25,7 +25,7 @@
 16. Bake the loaves for 15 minutes, then transfer them, from the stone or steel, directly onto a rack in the upper third of the oven for an additional 13 to 15 minutes. Moving them allows the baking stone or steel to become hot again in preparation for the next two loaves. After a total of 30 minutes of baking, remove the loaves from the oven and allow them to cool on a rack.
 17. Repeat the process with the two remaining loaves. Cool the bread fully before slicing.
 18. /Storage information/: Wrap the bread loosely and store it at room temperature for up to several days; freeze for longer storage.
-#+begin_tip
+
 Sample timelines:  
 |------------+------------+---------------|
 | 7:00 a.m.  | 12:00 p.m. | Mix the dough |
@@ -37,7 +37,7 @@ Sample timelines:
 | 10:00 a.m. | 3:00 p.m.  | Divide        |
 | 12:00 noon | 5:00 p.m.  | Bake          |
 |------------+------------+---------------|
-#+end_tip
+
 ** Credits:
 - From [[https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe]]
 - date created: [2022-02-01 Tue]
