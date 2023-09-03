@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Cajun Meat Loaf with Chili Sauce
+* Cajun Meat Loaf
 ** Ingredients:
 *** Meat Loaf
 - 1 cup long grain brown rice
