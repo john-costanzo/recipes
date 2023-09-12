@@ -8,23 +8,29 @@
 - 1 tablespoon salt (use less if on a low sodium diet)
 - 2 tablespoon avocado or olive oil
 - ~6 cups (720 g) bread flour (can substitute ⅓ (240g) with whole wheat flour)
+- 2 tablespoons flaxseed meal (/optional/)
+- 2 tablespoons chia seeds (/optional/)
 ** Method:
 1. Mix the yeast and sugar with ¼ cup of water and set aside for five minutes until it froths, indicating yeast is active.
-2. To the yeast and water mixture, add the remaining cup of water, milk, salt and oil.
-3. Mix in a stand mixer on low speed or by hand until a dough forms. If it's sticky, continue adding more bread flour, a little at a time, until you have a soft and supple but not sticky or tacky dough.
-4. Continue kneading for another 10 minutes.
-5. Form a smooth ball with the dough and place in an oiled bowl, turning over once to cover the top with oil.
-6. Cover and let it rise in a warm place for 1 to 1½ hours, until doubled in volume.
-7. Punch down the dough, form into a ball, and return it to the bowl to rise for another hour.
-8. Grease two standard (6-cup) loaf pans.
-9. Now punch the dough down again and divide it into two.
-10. Using a rolling pin, roll out each loaf into a rectangle, about 6 X 8 inches.
-11. Roll it up into a cylinder and tuck the seams underneath.
-12. Place each loaf into a loaf pan.
-13. Cover the dough loosely with oiled cling wrap or with a shower cap, and set it aside to rise for about 1 hour until the dough rises above the pan, forming a nice dome.
-14. Preheat the oven to 400 degrees.
-15. Bake the loaves for 35 minutes.
-16. Cool on a rack for about 10 minutes, then remove the loaves from the pan and continue cooling before you slice.
+2. To the yeast and water mixture, mix in the remaining cup of water, milk, salt and oil.
+3. Add the flour.
+4. Mix in a stand mixer on low speed or by hand until a dough forms.
+   #+begin_note
+   If it's sticky, continue adding more bread flour, a little at a time, until you have a soft and supple but not sticky or tacky dough.
+   #+end_note
+6. Continue kneading for another 10 minutes.
+7. Form a smooth ball with the dough and place in an oiled bowl, turning over once to cover the top with oil.
+8. Cover and let it rise in a warm place for 1 to 1½ hours, until doubled in volume.
+9. Punch down the dough, form into a ball, and return it to the bowl to rise for another hour.
+10. Grease two standard (6-cup) loaf pans.
+11. Now punch the dough down again and divide it into two.
+12. Using a rolling pin, roll out each loaf into a rectangle, about 6 X 8 inches.
+13. Roll it up into a cylinder and tuck the seams underneath.
+14. Place each loaf into a loaf pan.
+15. Cover the dough loosely with oiled cling wrap or with a shower cap, and set it aside to rise for about 1 hour until the dough rises above the pan, forming a nice dome.
+16. Preheat the oven to 400 degrees.
+17. Bake the loaves for 35 minutes.
+18. Cool on a rack for about 10 minutes, then remove the loaves from the pan and continue cooling before you slice.
 ** Credits:
 - From https://holycowvegan.net/perfect-sandwich-bread/#recipe
 - date created: [2023-02-28 Tue]
