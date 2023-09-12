@@ -33,4 +33,7 @@ You might want to cut in half or freeze  half of batter for later.
 ** Credits:
 Mary Malgieri [2018-10-24 Wed] 
 
-"Also I sprinkle a bit of sugar in the raw on top before baking to give a crispy muffin top."
+#+begin_quote
+Also I sprinkle a bit of sugar in the raw on top before baking to give a crispy muffin top.
+#+end_quote
+-- Mary Malgieri
