@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Gazpacho
+** Ingredients:
+- 4 cups  tomato juice
+- 1 small  onion -- minced
+- 2 cups  tomatoes -- diced
+- 1 cup  green pepper -- minced
+- 1 cucumber -- diced
+- 2 scallions -- chopped
+- juice of 1/2 lemon
+- juice of 1 lime
+- 2 tablespoons  wine vinegar
+- 1 teaspoon  tarragon
+- 1 teaspoon  basil
+- dash  cumin
+- ¼ cup  fresh parsley -- chopped
+- dash  Tabasco sauce
+- 2 tablespoons  extra virgin olive oil
+- salt and pepper -- to taste
+** Method:
+1. Combine all ingredients and chill two hours.
+** Credits:
+- From https://www.familycookbook.org/moosewood-gazpacho.html (Moosewood's gazpacho)
+- date created: [2023-09-15 Fri]
