@@ -1,29 +1,45 @@
 #+STARTUP: showeverything
 * Pizza Dough a la Nancy (New York Variation)
 
-** Dough
-*** Ingredients:
+** Ingredients:
+*** Crust
 - 1 cup warm water
 - 1 pkg dry yeast
 - 3¼ cups (390 grams) unbleached flour
 - ½ tsp salt
-*** Method:
-1. Soften yeast in water.
-2. Add salt then start adding flour until a wet dough forms. Knead briefly, just to form a consistent dough. Place ball of dough in a large plastic Ziploc bag (or large bowl) that has been coated with olive oil. Place in refrigerator for 4-5 hours.
-3. About the time you turn the oven on to pre-heat, pull dough out of refrigerator. Punch down and then let rest for 10 minutes. Divide ball in half and coat well with flour. Start patting each ball of dough out into a circle, the thinner the better, letting rest if it won't spread out.
-4. Place an oven rack at the very lowest position; remove other racks and set aside. Place baking tiles or pizza stone on the rack and preheat the oven to 500 F for an hour or so. Make sure stone is in the oven from the beginning otherwise the high heat might crack it.
-
-** New York Style Tomato Sauce
-*** Ingredients:
+*** New York Style Tomato Sauce
 - 1 can (28 ounces) Italian plum tomatoes - buy the best you can find
 - 2 Tbl. tomato paste
 - 1 or 2 garlic cloves, minced or pressed
 - 1 tsp. dried oregano
 - Salt and freshly ground black pepper
 
-*** Method:
-1. Crush the tomatoes with your hands or a fork and place in a heavy saucepan over medium heat. Stir in the tomato paste, garlic, oregano and salt and pepper to taste. Bring the mixture just to a boil, then reduce the heat to low and simmer the sauce, stirring occasionally, until thick and flavorful, 30 minutes to 1 hour. Remove from the heat. (This may be stored in the refrigerator for up to 1 week or frozen up to 4 months)
-2. To bake: Turn the smoke alarm off. Cover pizza peel with coarse corn meal. Place one flattened piece of the dough onto the peel, spread with olive oil, cover with a thick layer of tomato sauce then add toppings. Sprinkle on a thick layer of parmesan cheese then drizzle with olive oil. Slide pizza onto the hot stone and bake 10 to 15 minutes until the top of the pie is beginning to brown. Remove pizza from oven and place on a cutting board. Let sit for a few minutes then slice and eat while hot.
-
+** Method:
+*** Crust
+1. Soften yeast in water.
+2. Add salt then start adding flour until a wet dough forms.
+3. Knead briefly, just to form a consistent dough.
+4. Place ball of dough in a large plastic Ziploc bag (or large bowl) that has been coated with olive oil.
+5. Place in refrigerator for 4-5 hours.
+6. About the time you turn the oven on to pre-heat, pull dough out of refrigerator.
+7. Punch down and then let rest for 10 minutes.
+8. Divide ball in half and coat well with flour.
+9. Start patting each ball of dough out into a circle, the thinner the better, letting rest if it won't spread out.
+10. Place an oven rack at the very lowest position; remove other racks and set aside.
+11. Place baking tiles or pizza stone on the rack and preheat the oven to 500 F for an hour or so.
+12. Make sure stone is in the oven from the beginning otherwise the high heat might crack it.
+*** New York Style Tomato Sauce
+1. Crush the tomatoes with your hands or a fork and place in a heavy saucepan over medium heat.
+2. Stir in the tomato paste, garlic, oregano and salt and pepper to taste.
+3. Bring the mixture just to a boil, then reduce the heat to low and simmer the sauce, stirring occasionally, until thick and flavorful, 30 minutes to 1 hour.
+4. Remove from the heat. (This may be stored in the refrigerator for up to 1 week or frozen up to 4 months)
+*** To bake
+1. Turn the smoke alarm off.
+2. Cover pizza peel with coarse corn meal.
+3. Place one flattened piece of the dough onto the peel, spread with olive oil, cover with a thick layer of tomato sauce then add toppings.
+4. Sprinkle on a thick layer of parmesan cheese then drizzle with olive oil.
+5. Slide pizza onto the hot stone and bake 10 to 15 minutes until the top of the pie is beginning to brown.
+6. Remove pizza from oven and place on a cutting board.
+7. Let sit for a few minutes then slice and eat while hot.
 ** Credits:
 - date created: [2008-01-16 Wed]

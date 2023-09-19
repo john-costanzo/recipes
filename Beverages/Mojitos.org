@@ -1,13 +1,13 @@
 #+STARTUP: showeverything
 * Mojitos
 
-** Method (for 1 serving):
-
-*** In a 16-oz mixing glass, gently muddle together:
+** Method
+*** for 1 serving:
+In a 16-oz mixing glass, gently muddle together:
 + 1 large sprig spearmint
 + .75 oz simple syrup (1:1 sugar to water; /boiled for 3 minutes/)
 
-*** Add:
+Add:
 + Half a spent lime hull, and
 + 1 oz of lime juice (no less, no more)
 + 2 oz white rum
@@ -15,13 +15,12 @@
 + Top with crushed ice and mix with a straw until drink is combined and glass is frosty.
 
 
-** Method (for 4 servings):
-
-*** In a pitcher, gently muddle together:
+*** for 4 servings:
+In a pitcher, gently muddle together:
 1.     4 large sprig spearmint
 2.     3 oz simple syrup (1:1 sugar to water; /boiled for 3 minutes/)
 
-*** Add:
+Add:
 1. Four halves of spent lime hull, and
 2. 4 oz of lime juice (no less, no more)
 3. 8 oz white rum

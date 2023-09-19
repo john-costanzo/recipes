@@ -1,14 +1,21 @@
 #+STARTUP: showeverything
 * Pizza Crust, Sourdough (King Arthur)
 ** Ingredients
+*** Crust
 - 1 cup (241g) sourdough starter, unfed/discard
 - ½ cup (113g) warm water
 - 2½ cups (298g) King Arthur Unbleached All-Purpose Flour
 - 1 teaspoon salt
 - ½ teaspoon instant or active dry yeast
 - 4 teaspoons Pizza Dough Flavor, optional but delicious
-
+*** New York Style Tomato Sauce
+- 1 can (28 ounces) Italian plum tomatoes - buy the best you can find
+- 2 Tbl. tomato paste
+- 1 or 2 garlic cloves, minced or pressed
+- 1 tsp. dried oregano
+- Salt and freshly ground black pepper
 ** Method
+*** Crust
 1. Stir any liquid on top of your refrigerated starter back into it before measuring 1 cup (241g) into a large mixing bowl. /Note: This is a good opportunity to feed the remainder of your starter, if necessary./
 2. Add the warm water, flour, salt, yeast, and Pizza Dough Flavor (if using). Mix to combine, then knead for about 7 minutes in a mixer with the dough hook, until the dough wraps itself around the hook and cleans the side of the bowl.
 3. Place the dough in a greased container, cover and let rise until almost doubled in bulk. Depending on the vitality of your starter, this will take between 2 and 4 hours. For a faster rise, place the dough in a warm spot, or double the yeast.
@@ -18,17 +25,11 @@
 7. Towards the end of the rise time, preheat your oven to 450°F.
 8. Sauce and top as you like, but don't add cheese yet. Bake thin-crust pizzas for 5 minutes before removing from the oven and adding cheese. For thick-crust pizza, bake for 10 minutes before removing from the oven and adding cheese. Return to the oven and bake for 5 to 7 more minutes, until the cheese is melted.
 9. Store leftover pizza covered in the refrigerator for up to 5 days.
-
-** New York Style Tomato Sauce
-*** Ingredients:
-- 1 can (28 ounces) Italian plum tomatoes - buy the best you can find
-- 2 Tbl. tomato paste
-- 1 or 2 garlic cloves, minced or pressed
-- 1 tsp. dried oregano
-- Salt and freshly ground black pepper
-
-*** Method:
-1. Crush the tomatoes with your hands or a fork and place in a heavy saucepan over medium heat. Stir in the tomato paste, garlic, oregano and salt and pepper to taste. Bring the mixture just to a boil, then reduce the heat to low and simmer the sauce, stirring occasionally, until thick and flavorful, 30 minutes to 1 hour. Remove from the heat. (This may be stored in the refrigerator for up to 1 week or frozen up to 4 months)
+*** New York Style Tomato Sauce
+1. Crush the tomatoes with your hands or a fork and place in a heavy saucepan over medium heat.
+2. Stir in the tomato paste, garlic, oregano and salt and pepper to taste.
+3. Bring the mixture just to a boil, then reduce the heat to low and simmer the sauce, stirring occasionally, until thick and flavorful, 30 minutes to 1 hour.
+4. Remove from the heat. (This may be stored in the refrigerator for up to 1 week or frozen up to 4 months)
 
 ** Yield
 One 14" round, or large rectangular thick-crust pizza; or two 12" round thin-crust pizzas.

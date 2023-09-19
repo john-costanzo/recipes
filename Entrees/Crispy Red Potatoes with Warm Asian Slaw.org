@@ -1,6 +1,5 @@
 #+STARTUP: showeverything
 * Crispy Red Potatoes with Warm Asian Slaw & Limey Sauce
-** Overview
 Welcome back to the Best Recipes of 2012! post-Thanksgiving edition. 4 days ago, most of us were no better than we should have been about the carbs, which is one of the reasons I saved this recipe till after the holiday.  The other is that it's the kind of recipe there's never enough of, and I figured there was no point in ratcheting up the level of family tension any more than necessary.
 
 The book: The Fresh & Green Table, by Susie Middleton (Chronicle Books, $24.95 here's my complete review)
@@ -11,42 +10,22 @@ Why I tried it: I have yet to meet anyone who can resist a crisp potato, and I'v
 
 Why I loved it: First of all, the squashed potatoes have all kinds of surface area for crisping up, which they do with a vengeance.  Then it's lime, lime, lime.  Tart lime and zest juicing up the soft mayo, lime brightening the fine shreds of cabbage in the slaw, all of it balanced with curve-filling sweetness just where it needs it.  The slaw is great, and it makes you feel good about yourself. But it was the crispy little bits of potato, perfect for dipping in limey sauce, that we were all fighting over in the end.  (If you feel like saving yourself some trouble and just making the potatoes and sauce and skipping the slaw, I assure you the recipe will still rock your socks off, and no one will know.)
 
-** Time
-- Estimated preparation time: 90 minutes, including a bit of downtime during which you can make the sauce and the slaw.
+Estimated preparation time: 90 minutes, including a bit of downtime during which you can make the sauce and the slaw.
 
-** Crispy Red Potatoes
-
-*** Ingredients:
+** Ingredients:
+*** Crispy Red Potatoes
 - 16 baby red potatoes of uniform size (about 1½ oz each)
 - kosher salt
 - ½ cup canola oil
 
-*** Method:
-1. To cook the potatoes: Preheat the oven to 475 degreesF. Line a heavy-duty rimmed baking sheet with aluminum foil and top with a piece of parchment. Put a double layer of dish towels on a large cutting board or your counter. Arrange the potatoes (preferably in a single layer) in a large Dutch oven and add enough water to cover them by at least 1½ inches. Add 2 tsp salt, cover loosely, and bring to a boil. Reduce to a simmer and cook, uncovered, until the potatoes are tender all the way through but not falling apart (check with a paring knife), 18 to 20 minutes.
-
-2. Using tongs or a slotted spoon, transfer each potato to the dish towels, not touching, and let cool for a few minutes. Using another folded dish towel, gently press down on each potato to flatten it into a patty about ½ inch thick (or up to ¾ inch). The patties don't have to be perfectly even, and a few pieces of potato may break off. (No matter; you can still roast them.) Let the patties cool for a few minutes more, transfer them to the baking sheet, and let them cool for 10 to 15 minutes longer. (Or, at this point, you can hold the potatoes in the fridge, covered with plastic wrap, for up to 24 hours. Bring to room temperature before roasting.)
-
-3. Sprinkle the potatoes with ¼ tsp salt and pour the canola oil over them. Care fully flip the potatoes over and season again with a scant ½ tsp salt. Rub with some of the oil, making sure that the potatoes are well coated on all sides. Roast, carefully turning once with a spatula halfway through cooking, until they turn a deep orange brown (a little darker and crisper around the edges), 28 to 30 minutes.
-
-
-
-** The limey sauce:
-
-
-*** Ingredients:
+*** The limey sauce:
 - ⅓ cup mayonnaise
 - 1 tbsp freshly squeezed lime juice
 - ½ tsp finely grated lime zest
 - ½ tsp finely minced garlic
 - kosher salt
 
-
-
-*** Method:
-1. In a small bowl, combine the mayonnaise, lime juice, lime zest, garlic, and a pinch of salt. Whisk until well combined. Let sit for a few minutes to let the flavors blend. Refrigerate if making ahead.
-
-
-** The Asian slaw:
+*** The Asian slaw:
 - 1½ cups very thinly sliced napa or savoy cabbage (pale inner leaves only)
 - 1 cup very thinly sliced red cabbage
 - 1 cup (packed) baby spinach leaves
@@ -60,17 +39,21 @@ Why I loved it: First of all, the squashed potatoes have all kinds of surface ar
 - ½ tsp minced garlic
 - 2 tbsp thinly sliced scallions (white and green parts)
 
-*** Method:
+** Method:
+*** Crispy Red Potatoes
+1. To cook the potatoes: Preheat the oven to 475 degreesF. Line a heavy-duty rimmed baking sheet with aluminum foil and top with a piece of parchment. Put a double layer of dish towels on a large cutting board or your counter. Arrange the potatoes (preferably in a single layer) in a large Dutch oven and add enough water to cover them by at least 1½ inches. Add 2 tsp salt, cover loosely, and bring to a boil. Reduce to a simmer and cook, uncovered, until the potatoes are tender all the way through but not falling apart (check with a paring knife), 18 to 20 minutes.
+
+2. Using tongs or a slotted spoon, transfer each potato to the dish towels, not touching, and let cool for a few minutes. Using another folded dish towel, gently press down on each potato to flatten it into a patty about ½ inch thick (or up to ¾ inch). The patties don't have to be perfectly even, and a few pieces of potato may break off. (No matter; you can still roast them.) Let the patties cool for a few minutes more, transfer them to the baking sheet, and let them cool for 10 to 15 minutes longer. (Or, at this point, you can hold the potatoes in the fridge, covered with plastic wrap, for up to 24 hours. Bring to room temperature before roasting.)
+
+3. Sprinkle the potatoes with ¼ tsp salt and pour the canola oil over them. Care fully flip the potatoes over and season again with a scant ½ tsp salt. Rub with some of the oil, making sure that the potatoes are well coated on all sides. Roast, carefully turning once with a spatula halfway through cooking, until they turn a deep orange brown (a little darker and crisper around the edges), 28 to 30 minutes.
+*** The limey sauce
+1. In a small bowl, combine the mayonnaise, lime juice, lime zest, garlic, and a pinch of salt. Whisk until well combined. Let sit for a few minutes to let the flavors blend. Refrigerate if making ahead.
+*** The Asian slaw:
 1. To make the slaw: In a large heatproof mixing bowl, combine the napa cabbage, red cabbage, and spinach. Sprinkle the greens with ¼ tSp salt. In a small bowl, combine the vinegar, lime juice, and brown sugar. In a medium heavy nonstick skillet, heat the 2 tsp canola oil over medium-high heat. Add the red onion and a pinch of salt and cook, stirring, until the onion is wilted and just starting to brown around the edges, 3 to 4 minutes. Transfer the onion to the bowl of greens and let the skillet cool for a few seconds off the heat.
-
 2. Reduce the heat to medium-low, return the pan to the heat, and add the remaining 1 tbsp canola oil. When the oil is hot, add the ginger and garlic and cook, stirring, until very fragrant, about 1 minute. Add the vinegar mixture to the pan (scrape out all the brown sugar with a small spatula), stir vigorously to warm it through, and immediately remove the pan from the heat. Stir and scrape the hot dressing over the greens, tossing the greens with tongs as you pour. Toss thoroughly to coat well and to soften and wilt the greens just a bit. (The cabbage will still be crunchy.) Taste and add more salt (if desired).
-
 3. Arrange four dinner plates on your counter. On one side of each plate arrange four potato patties, slightly overlapping. On the other side of eacplate, mound a quarter of the slaw. Spoon some of the limey sauce over the potatoes (down the middle of the rowof potatoes), and top each serving with the scallions. Serve right away.
-
-** Yield: 
+** Yield:
 Serves 4.
-
-
 ** Credits:
 Recipe excerpted from The Fresh & Green Table by Susie Middleton,
 Chronicle Books (2012). Reprinted with permission.

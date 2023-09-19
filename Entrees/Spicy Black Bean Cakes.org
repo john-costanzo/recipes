@@ -1,20 +1,13 @@
 #+STARTUP: showeverything
 * Spicy Black Bean Cakes
 
-** Lime Sour Cream:
-
-*** Ingredients:
-- * ½ cup reduced fat sour cream
-- * 2 teaspoons fresh lime juice
-- * 1 small fresh jalapeno pepper, minced
-- * salt to taste
-
-*** Method:
-- Combine all ingredients.
-
-** Bean Cakes:
-
-*** Ingredients:
+** Ingredients:
+*** Lime Sour Cream:
+- ½ cup reduced fat sour cream
+- 2 teaspoons fresh lime juice
+- 1 small fresh jalapeno pepper, minced
+- salt to taste
+*** Bean Cakes:
 - ¼ cup quinoa, dry
 - 2 (14.5 ounce) cans black beans, drained and rinsed
 - 2 tbsp olive oil
@@ -27,17 +20,24 @@
 - 1 egg, lightly beaten
 - ½ cup plain dried bread crumbs (optional)
 - ½ cup corn kernels (optional)
-
+** Method:
 *** Method:
-1) To prepare lime sour cream, mix the sour cream, lime juice, 1 small minced jalapeno, and salt together in a small bowl. Cover, and refrigerate.
-2) Preheat oven to 375 degrees.
-3) Cook the quinoa per instructions on package.  (Toast quinoa first, rinse then simmer ¼ cup quinoa in ½ cup boiling water.) This will take about 10-15 minutes.
-4) Puree black beans with olive oil, garlic, peppers and spices in a food processor.
-5) Whisk egg in a medium-sized bowl.
-6) Add black bean puree, cooked quinoa and bread crumbs (if using) to egg bowl and mix until fully combined into a batter.
-7) Place 6 cupcake papers on a baking sheet.  Divide black bean cake batter among the 6 cups, and bake for about 15 to 20 minutes.
-8) Allow black bean cakes to cool for a few minutes.  Remove from papers.  Serve over a bed of spinach with fresh salsa and grated cheese. Or over polenta or mashed potatoes.
-9) Serve with lime sour cream.
+- Combine all ingredients.
+
+*** Bean Cakes
+1. To prepare lime sour cream, mix the sour cream, lime juice, 1 small minced jalapeno, and salt together in a small bowl.
+2. Cover, and refrigerate.
+3. Preheat oven to 375°.
+4. Cook the quinoa per instructions on package.  (Toast quinoa first, rinse then simmer ¼ cup quinoa in ½ cup boiling water.) This will take about 10-15 minutes.
+5. Puree black beans with olive oil, garlic, peppers and spices in a food processor.
+6. Whisk egg in a medium-sized bowl.
+7. Add black bean puree, cooked quinoa and bread crumbs (if using) to egg bowl and mix until fully combined into a batter.
+8. Place 6 cupcake papers on a baking sheet.
+9. Divide black bean cake batter among the 6 cups, and bake for about 15 to 20 minutes.
+10. Allow black bean cakes to cool for a few minutes.
+11. Remove from papers.
+12. Serve over a bed of spinach with fresh salsa and grated cheese. Or over polenta or mashed potatoes.
+13. Serve with lime sour cream.
 
 ** Credits:
 - January 2011; inspired by 

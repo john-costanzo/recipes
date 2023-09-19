@@ -1,6 +1,7 @@
 #+STARTUP: showeverything
 * Hot Cocoa
-** Method (for a 12 oz serving):
+** Method
+/For a 12 oz serving/
 - Boil 8 oz boiling water
 - 4 TBS (¼ cup, 30g) powdered Whole milk 
 - 2 or up to 3 TBS (30-45g) cane sugar (or brown) *

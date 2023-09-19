@@ -67,14 +67,27 @@
     #+end_tip
 2. Drizzle icing over warm rolls.
 3. Cover leftover frosted or unfrosted rolls tightly and store at room temperature for up to 3 days.
-   #+begin_tip
-   I prefer this over storing in the refrigerator. I find that dries them out, but do what you like best.
-   #+end_tip
-** Notes
-1. /Freezing Instructions/: Baked rolls can be frozen up to 2-3 months. Thaw overnight in the refrigerator and warm up before enjoying. You can also freeze the unbaked rolls and here’s how: bake the rolls in for only about 10 minutes at 375°F (191°C). Cool completely, then cover tightly and freeze. To serve, take the rolls out of the freezer and put into the refrigerator a few hours before serving. Then, finish baking them.
-2. /Milk/: Whole milk preferred for richest tasting dough. 2% or 1% would be fine, but not ideal. Nonfat is not recommended.
-3. /Yeast/: If not using an instant yeast, rise time may be up to 40% longer. Reference my Baking with Yeast Guide for answers to common yeast FAQs.
-4. /Faster Option/: If planning to bake the rolls right away, instead of sticking the rolls in the refrigerator, loosely cover them and let rise in a warm place just as you did earlier until they are puffy, about 2 hours. Then continue with the bake.
+
+ #+begin_tip
+ I prefer this over storing in the refrigerator. I find that dries them out, but do what you like best.
+ #+end_tip
+
+ #+begin_tip
+ /Freezing Instructions/: Baked rolls can be frozen up to 2-3 months. Thaw overnight in the refrigerator and warm up before enjoying. You can also freeze the unbaked rolls and here’s how: bake the rolls in for only about 10 minutes at 375°F (191°C). Cool completely, then cover tightly and freeze. To serve, take the rolls out of the freezer and put into the refrigerator a few hours before serving. Then, finish baking them.
+ #+end_tip
+
+ #+begin_tip
+ /Milk/: Whole milk preferred for richest tasting dough. 2% or 1% would be fine, but not ideal. Nonfat is not recommended.
+ #+end_tip
+
+ #+begin_tip
+ /Yeast/: If not using an instant yeast, rise time may be up to 40% longer. Reference my Baking with Yeast Guide for answers to common yeast FAQs.
+ #+end_tip
+
+ #+begin_tip
+ /Faster Option/: If planning to bake the rolls right away, instead of sticking the rolls in the refrigerator, loosely cover them and let rise in a warm place just as you did earlier until they are puffy, about 2 hours. Then continue with the bake.
+ #+end_tip
+
 ** Credits:
 - From https://sallysbakingaddiction.com/melt-in-your-mouth-maple-cinnamon-rolls/ via Sarah Colwill
 - date created: [2022-04-20 Wed]

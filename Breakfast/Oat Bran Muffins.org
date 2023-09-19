@@ -32,4 +32,5 @@ by Ian Knauer
 7. http://www.epicurious.com/recipes/food/printerfriendly/Golden-Raisin-Oat-Bran-Muffins-357450?
 8. 27-Mar-14
 
-** Yield: Makes 12 muffins
+** Yield:
+Makes 12 muffins

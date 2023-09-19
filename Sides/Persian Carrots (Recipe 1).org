@@ -1,0 +1,19 @@
+#+STARTUP: showeverything
+* Persian Carrots (Recipe 1)
+** Ingredients
+- 5 medium carrots, sliced diagonally into ¼ inch thick ovals
+- 1 medium onion, cut into ¼ inch thick half rings
+- 4 Tbsp. unsalted butter
+- ¼ cup raisins
+- ¼ cup pitted dates, cut into ¼ inch thick slivers
+- ½ tsp. salt
+- ¼ tsp. sugar
+** Method
+1. Melt butter in a medium skillet over medium heat.
+2. Add carrots, onion, raisins, & dates.
+3. Stir & fry gently for 5 minutes.
+4. Add the salt & sugar. Stir & fry for another 4 to 5 minutes, until carrots are just tender & onion is soft.
+
+** Credits
+- Posted by Stephen Ceideburg From an article by Meryl Constance in The Sydney Morning Herald, 6/8/93.
+- https://www.driftlessorganics.com/carrots-with-raisins-dates/
