@@ -1,16 +1,18 @@
 #+STARTUP: showeverything
 * Hot Cocoa
+** Ingredients
+- 8 oz boiling water
+- 4 TBS (¼ cup, 30g) powdered whole milk 
+- 2 or up to 3 TBS (30-45g) cane sugar (or brown) *
+- 3 TBS (27g) full fat cocoa
 ** Method
 /For a 12 oz serving/
-- Boil 8 oz boiling water
-- 4 TBS (¼ cup, 30g) powdered Whole milk 
-- 2 or up to 3 TBS (30-45g) cane sugar (or brown) *
-- Add 3 TBS (27g) full fat cocoa
-- Stir like mad! If it ain’t mixed now, too late.
-
-- Now, the balance is up to you, I add 4 oz. ½ and ½
-- ...or you can add 4 oz. milk.
-- Heat the whole mixture and serve.
+1. Boil water
+2. Add powdered whole milk, sugar and cocoa.
+3. Stir like mad! If it ain’t mixed now, too late.
+4. Now, the balance is up to you, I add 4 oz. ½ and ½
+5. ...or you can add 4 oz. milk.
+6. Heat the whole mixture and serve.
 
 ​* This recipe is awfully sweet. Consider using less sugar: perhaps 20-25g.
 ** Credits:
