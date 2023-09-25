@@ -1,0 +1,35 @@
+#+STARTUP: showeverything
+* Fig and Walnut Sourdough Bread
+** Ingredients:
+- 1 ¼ cups (284g) ripe (fed) sourdough starter
+- 1 cup (227g) water
+- 3 cups (360g) King Arthur Unbleached All-Purpose Flour
+- 1 ½ teaspoons (9g) salt
+- ¼ teaspoon instant yeast, /optional/ (to reduce rising times)
+- ½ cup (75g) dried figs or ½ cup (57g) dried cranberries, diced
+- ¾ cup (85g) walnuts, roughly chopped
+** Method:
+1. In the bowl of your mixer, combine the starter, water, and flour and mix until smooth.
+2. Cover the bowl and let the mixture rest for 1 hour at room temperature; this is known as autolyse.
+3. After an hour, add the salt and yeast, and knead the dough with your mixer's dough hook on medium speed for 5 to 7 minutes.
+4. Just before the kneading is done, mix in the figs or cranberries.
+5. Stop the mixer and fold the nuts into the dough using a dough scraper.
+6. Cover the bowl again and let the dough rise at room temperature for 40 to 60 minutes, until puffy.
+7. Turn the dough out onto a lightly greased surface (it will be fairly wet and possibly a bit sticky).
+8. Scoop up the edge of the dough with your dough scraper and bring it to the center, pressing down.
+9. Give the dough a quarter turn and repeat three or four more times, turning the dough between each fold.
+   #+begin_tip
+   You're strengthening the dough and pre-shaping (rounding) it at the same time.
+   #+end_tip
+10. Put a circle of parchment in the bottom of a Dutch oven.
+11. Place the rounded dough, seam side down, in the pot.
+12. Cover and refrigerate overnight.
+13. The next day, when you are ready to bake, take the pot out of the refrigerator and let it come to room temperature for 90 minutes, then preheat the oven to 450° F for another 30 minutes.
+14. Uncover and slash the top of the bread; replace the cover.
+15. Bake the bread, covered, for 45 to 50 minutes.
+16. Then remove the cover and bake for another 10 minutes, until the top is a deep, rich brown. 
+17. Remove from the oven and cool on a rack before slicing.
+** Credits:
+- From King Arthur magazine (Also sort of  https://www.kingarthurbaking.com/recipes/fig-and-walnut-sourdough-recipe)
+- date created: [2023-09-24 Sun]
+- [2023-09-24 Sun] Made for Vegan Supper club, to wide appreciation. This is practically a no-knead bread, but has good character and is quite moist.
