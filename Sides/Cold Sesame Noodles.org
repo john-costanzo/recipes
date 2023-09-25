@@ -1,9 +1,5 @@
 #+STARTUP: showeverything
 * Cold Sesame Noodles
-YIELD: 4 servings
-TIME: 10 minutes
-
-Noodles dressed with sesame are popular in many parts of China, but this particular style, made with peanut butter and served cold, became a Chinese-American staple in the United States in the 1970s. The family of Shorty Tang — an ambitious restaurateur who emigrated from Sichuan to Taipei to New York — firmly believes that he invented the dish and still serve it at Hwa Yuan, the restaurant he opened in 1967 in Manhattan’s Chinatown. They have never divulged the exact recipe; this is our own lush but refreshing version.
 ** Ingredients:
 - 1 pound noodles, frozen or (preferably) fresh
 - 2 tablespoons sesame oil, plus a splash
@@ -15,19 +11,25 @@ Noodles dressed with sesame are popular in many parts of China, but this particu
 - 1 tablespoon finely grated ginger
 - 2 teaspoons minced garlic
 - 2 teaspoons chile-garlic paste, chile crisp or chile oil, or to taste
-- Half a cucumber, peeled, seeded and cut into 1/8-inch by 1/8-inch by 2-inch sticks
+- Half a cucumber, peeled, seeded and cut into ⅛-inch by ⅛-inch by 2-inch sticks
 - ¼ cup chopped roasted peanuts
 
 #+begin_tip
 The Chinese sesame paste called for here is made of toasted sesame seeds; it is not the same as tahini, the Middle Eastern paste made of plain, untoasted sesame. But you could use tahini in a pinch. You need only add a little toasted sesame oil to compensate for flavor, and perhaps some peanut butter to keep the sauce emulsified.
 #+end_tip
 ** Method:
+Noodles dressed with sesame are popular in many parts of China, but this particular style, made with peanut butter and served cold, became a Chinese-American staple in the United States in the 1970s. The family of Shorty Tang — an ambitious restaurateur who emigrated from Sichuan to Taipei to New York — firmly believes that he invented the dish and still serve it at Hwa Yuan, the restaurant he opened in 1967 in Manhattan’s Chinatown. They have never divulged the exact recipe; this is our own lush but refreshing version.
+
 1. Bring a large pot of water to a boil.
 2. Add noodles and cook until barely tender, about 5 minutes. They should retain a hint of chewiness.
 3. Drain, rinse with cold water, drain again and toss with a splash of sesame oil.
 4. In a medium bowl, whisk together the remaining 2 tablespoons sesame oil, the soy sauce, rice vinegar, sesame paste, peanut butter, sugar, ginger, garlic and chili-garlic paste.
 5. Pour the sauce over the noodles and toss.
 6. Transfer to a serving bowl, and garnish with cucumber and peanuts.
+** Yield:
+4 servings
+
+TIME: 10 minutes
 ** Credits:
 - From https://cooking.nytimes.com/recipes/9558-takeout-style-sesame-noodles
 - date created: [2020-07-22 Wed]
