@@ -8,7 +8,7 @@
 - ¼ teaspoon baking powder
 - 1 teaspoon cinnamon
 - ½ teaspoon vanilla extract optional
-- ⅓ cup (85 g) plus 1-2 tablespoons smooth almond butter
+- ⅓ cup (85 g) plus 1-2 tablespoons smooth almond butter (/or see "Nut Free" tip, below/)
 - 1 tbsp maple syrup
 *** For the apple layer
 - 1 large honey crisp apple thinly sliced or about 2 cups of thinly sliced apples or you can chop them into small pieces instead
@@ -19,7 +19,7 @@
 - ½ teaspoon cinnamon
 ** Method:
 *** For the crust
-1. In a bowl, add the flour, salt, baking powder, and sugar and mix really well.
+1. In a bowl, add the flour, salt, sugar, baking powder and cinnamon; mix really well.
 2. Then warm up ⅓ cup of the almond butter and add it along with maple syrup, vanilla extract. Then mix using fork or your hands until the mixture is somewhere crumbly and when you press the mixture in your hand, it kind of stays together a little bit.
 3. If it is too floury, then add in 1-2 tablespoons more almond butter. You can also use 1-2 teaspoons of non-dairy milk in this crust mixture if it's too crumbly.
 4. Transfer half of this mixture to a parchment-lined 9 x 5 inch baking dish or loaf pan.
@@ -33,12 +33,12 @@
 #+begin_note
 For the optional icing, take a ¼ cup of powdered sugar. Add in a teaspoon or more water or non-dairy milk and mix in until icing consistency then drizzle all over.
 #+end_note
-#+begin_note
-Nutfree: use 3 tablespoons softened butter, 2 teaspoons flax meal mixed in 1.5 tablespoons water and mix in. Of the mix is not sticking together, add maple syrup 1 teaspoon at a time.
-#+end_note
-#+begin_note
-Gluten-free: Use a mix of ⅓ cup almond flour, ⅓ cup oat flour(or a gf blend), 3 tablespoons potato starch (or other starch) instead of all purpose flour
-#+end_note
+#+begin_tip
+*Nut Free* Use 3 tablespoons softened butter, 2 teaspoons flax meal mixed in 1.5 tablespoons water and mix in. If the mix is not sticking together, add maple syrup 1 teaspoon at a time.
+#+end_tip
+#+begin_tip
+*Gluten-free* Use a mix of ⅓ cup almond flour, ⅓ cup oat flour(or a gf blend), 3 tablespoons potato starch (or other starch) instead of all purpose flour.
+#+end_tip
 ** Credits:
 - From https://www.veganricha.com/vegan-apple-pie-bars/#recipe
 - date created: [2023-09-15 Fri]
