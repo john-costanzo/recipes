@@ -14,6 +14,13 @@
    #+begin_tip
    The yeast and bacteria in your starter become sluggish in the cool environment of your refrigerator. They must be energized through successive feedings, a process called refreshing, to be active enough to raise the dough.
    #+end_tip
+
+   #+begin_tip
+   In the morning, I use *25g* of starter and mix with 25g of water and 25g of flour.\\
+   That evening, I add 75g of water plus 75 grams of flour.\\
+   This yields 225g of mature starter the next day.
+   #+end_tip
+
 2. /Let rise./ 
 
    Cover the container, and let sit at room temperature until it has at least doubled in volume and its surface teems with sudsy bubbles, 10 to 12 hours, depending on your kitchen’s temperature.
