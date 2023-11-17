@@ -3,7 +3,7 @@
 ** Ingredients:
 - 1 ¼ cups (284g) ripe (fed) sourdough starter
    #+begin_note
-   Starting with 37g of starter and then adding 37g of water and 37g of flour for the first feed and then adding 111g of water plus 111g of flour for the second feed should easily give you sufficient ripe starter.
+   Starting with 35g of starter and then adding 35g of water and 35g of flour for the first feed and then adding 105g of water plus 105g of flour for the second feed should easily give you sufficient ripe starter.
    #+end_note
 - 1 cup (227g) water
 - 3 cups (360g) King Arthur Unbleached All-Purpose Flour
