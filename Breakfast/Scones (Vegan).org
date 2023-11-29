@@ -1,40 +1,53 @@
 #+STARTUP: showeverything
 * Scones (Vegan)
 ** Ingredients:
-- 250 g all-purpose flour / 2 cups
+- 250 g all-purpose flour (2 cups)
 - 1 Tbsp baking powder
-- 2 heaped Tbsp icing sugar or 1 tbsp stevia or erythritol
+- 2 heaped Tbsp powdered sugar (or 1 tbsp stevia or erythritol)
 - ⅛ tsp nutmeg
 - ¼ tsp salt
-- 50 g packed coconut oil ¼ cup - or extra virgin if you don’t mind coconut taste at room temperature
-- 160 ml coconut milk or almond milk ⅔ cup
+- 50 g packed coconut oil (¼ cup) - or extra virgin if you don’t mind coconut taste at room temperature
+- 160 ml coconut milk or almond milk (⅔ cup)
 - 1 tsp vanilla
-- ¼ cup chopped dates about 4 medjool dates (optional)
-- ¼ cup chopped toasted almonds 1 handful (optional)
-- 1 cup blueberries (optional)
-- juice and half the zest from one lemon (optional)
+*** Optional Fillings
+- ¼ cup chopped dates about 4 medjool dates
+- ¼ cup chopped toasted almonds 1 handful
+- 1 cup blueberries or raspberries
+- juice and half the zest from one lemon
 *** Glaze
 - 1 tbsp almond milk or coconut milk
 - 1 tsp maple syrup
 - 1 tsp oil
 ** Method:
-1. As a first step, sift the flour and baking powder into a large mixing bowl. This helps to get lighter scones but you can skip this step.
+1. As a first step, sift the flour and baking powder into a large mixing bowl.
+   #+begin_tip
+   This helps to get lighter scones but you can skip this step.
+   #+end_tip
 2. Add sugar, nutmeg, and salt and mix to combine.
 3. Chop coconut oil small and then rub into the flour with your fingers until the flour looks pebbly. Do not rush this step or take shortcuts for light, nicely risen scones.
-4. Fold in chopped nuts, fruit or any add-ins. Mix milk and vanilla.
-5. Start adding your nut milk while bringing the dough together. I use a wooden spoon and then just dump everything on my kitchen counter and use my hands. Do not handle the dough too much, just until it’s combined. It does not have to look smooth.
-6. Shape into a disc and place the dough in the fridge on a piece of parchment paper for 15 minutes (no longer than that as the baking powder will lose its power).
-7. Preheat the oven to 425° F / 220° C and prepare a baking tray.
-8. After the dough has had a chance to rest a bit, pat it a bit more, if needed.
-9. Take a sharp kitchen knife and cut your round into 8 wedges with quick movements. Don't wiggle the knife around as that inhibits rising
-10. Alternatively, use a round cookie cutter that is 2″ / 5 cm in diameter and cut circles out of the dough. Again, do not twist the cutter, simply apply a lot of pressure to the cutter and then lift the cutter with a scone inside. Place over the baking tray and gently pop the scone out onto the tray. You can dip the cutter in flour and then shake the excess off before cutting, for easy release.
-11. If using a cutter, bring any dough leftovers very gently into a ball and cut out some more – they won’t be as good as the first batch, but if you handle the dough super gently, they will still be very tasty.
-12. Place the scones on the prepared baking tray, making sure there is some space around each one so that they can bake properly. Mix all the glaze ingredients together in a small bowl and glaze the tops of the scones with a pastry brush.
-13. Bake for about 12 minutes or until nicely browned. Most ovens are a bit uneven in their heat distribution. I rotated the tray after 8 minutes so that they are evenly browned on all sides.
+4. Fold in chopped nuts, fruit or any add-ins.
+5. Mix milk and vanilla.
+6. Start adding your nut milk while bringing the dough together.
+   #+begin_tip
+   I use a wooden spoon and then just dump everything on my kitchen counter and use my hands. Do not handle the dough too much, just until it’s combined. It does not have to look smooth.
+   #+end_tip
+7. Shape into a disc and place the dough in the fridge on a piece of parchment paper for 15 minutes.
+8. Preheat the oven to 425° F (220° C) and prepare a baking tray.
+9. After the dough has had a chance to rest a bit, pat it a bit more, if needed.
+10. Take a sharp kitchen knife and cut your round into 8 wedges with quick movements. Don't wiggle the knife around as that inhibits rising.
+    #+begin_note
+    Alternatively, use a round cookie cutter that is 2″ (5 cm) in diameter and cut circles out of the dough. Again, do not twist the cutter, simply apply a lot of pressure to the cutter and then lift the cutter with a scone inside. Place over the baking tray and gently pop the scone out onto the tray. You can dip the cutter in flour and then shake the excess off before cutting, for easy release.\\
+
+    If using a cutter, bring any dough leftovers very gently into a ball and cut out some more – they won’t be as good as the first batch, but if you handle the dough super gently, they will still be very tasty.
+    #+end_note
+11. Place the scones on the prepared baking tray, making sure there is some space around each one so that they can bake properly. Mix all the glaze ingredients together in a small bowl and glaze the tops of the scones with a pastry brush.
+12. Bake for about 12 minutes or until nicely browned.
+    #+begin_tip
+    Most ovens are a bit uneven in their heat distribution. I rotated the tray after 8 minutes so that they are evenly browned on all sides.
+    #+end_tip
 14. Let the scones cool down a little before cutting them in half and filling them with vegan lemon curd and vegan clotted cream or coconut cream.
 ** Tags
 - IsVegan
 ** Credits:
 - From https://cinnamonandcoriander.com/en/recipe-for-vegan-scones-with-vegan-clotted-cream/#wprm-recipe-container-11165
 - date created: [2023-04-17 Mon]
-
