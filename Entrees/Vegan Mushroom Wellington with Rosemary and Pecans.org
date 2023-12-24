@@ -1,0 +1,75 @@
+#+STARTUP: showeverything
+* Vegan Mushroom Wellington with Rosemary and Pecans
+** Ingredients:
+*** ...for two Wellingtons
+- 1 box (2 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold-not at room temp)
+- 2 tablespoon olive oil (or butter)
+- 2 pounds mushrooms, sliced, stems OK (except Shiitake stems)
+- 1 large onion, diced
+- 4–6 fat garlic cloves, rough chopped
+- 1 tablespoon chopped fresh rosemary (or sage, or thyme)
+- 1 teaspoon kosher salt
+- ¼ cup sherry wine (not sherry vinegar) Marsala wine, ruby port (or red wine or white wine) – or leave it out!
+- 1 teaspoon balsamic vinegar
+- 1 cup chopped, toasted pecans (or feel free to sub hazelnuts or walnuts)
+- ½ teaspoon pepper
+- 2 teaspoon truffle oil (optional)
+- OPTIONS -if you want to add cheese, add ½ – 1 cup grated pecorino, Gruyere, goat cheese or cream cheese- or use a meltable vegan cheese- or make vegan ricotta!
+- “Egg” wash – use nut milk, cream or melted coconut oil to brush on the pastry. If not worried about it being vegan, whisk an egg with a tablespoon of water.
+*** ...for three Wellingtons:
+- 1½ boxes (3 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold-not at room temp)
+- 3 tablespoon olive oil (or butter)
+- 3 pounds mushrooms, sliced, stems OK (except Shiitake stems)
+- 1½  large onion, diced
+- 6–9 fat garlic cloves, rough chopped
+- 1½ tablespoon chopped fresh rosemary (or sage, or thyme)
+- 1½  teaspoon kosher salt
+- ⅜ cup sherry wine (not sherry vinegar) Marsala wine, ruby port (or red wine or white wine) – or leave it out!
+- 1½ teaspoon balsamic vinegar
+- 1½ cup chopped, toasted pecans (or feel free to sub hazelnuts or walnuts)
+- ¾ teaspoon pepper
+- 3 teaspoon truffle oil (optional)
+- OPTIONS -if you want to add cheese, add ¾ – 1½  cup grated pecorino, Gruyere, goat cheese or cream cheese- or use a meltable vegan cheese- or make vegan ricotta!
+- “Egg” wash – use nut milk, cream or melted coconut oil to brush on the pastry. If not worried about it being vegan, whisk an egg with a tablespoon of water.
+** Method:
+1. Make sure your puff pastry is thawed before you start -cold, but thawed. (Note if it is too warm, it may fall apart, if too cold, it will be too stiff to roll.)
+2. Preheat oven to 400° F
+*** Make the filling:
+1. Heat oil in an extra-large skillet or dutch oven, over medium-high heat.
+2. Add mushrooms, onions, garlic, salt and rosemary and saute, stirring often, until mushrooms release all their liquid.
+3. Turn heat down to medium, and continue sauteing until all the liquid has evaporated, be patient, this will take a little time!
+4. Once the mushrooms are relatively dry in the pan, splash with the sherry wine and balsamic vinegar and again, sauté on medium heat until all the liquid has cooked off.
+   #+begin_tip
+   This is important- you absolutely do not want a watery filling (it will turn into a mess!).
+   #+end_tip
+5. Add the toasted chopped pecans, pepper, truffle oil.
+6. Taste, adjust salt to your liking.
+7. At this point, you could fold in some cheese if you like.
+8. Let the filling cool 15-20 minutes (you could make the filling a day ahead and refrigerate).
+*** Fill Puff Pastries:
+1. Carefully unroll the puff pastry onto a parchment-lined baking sheet (if it seems stiff, let it thaw a few more minutes until pliable).
+2. Gently, roll it out just a bit so it’s smooth (do not roll too thin) extending it by 1/2 inch.
+3. Patch any holes. Place half the filling in a mound along the center (see photo) and working quickly, roll the pastry up, and over, seam side down.
+4. Fill and roll remaining sheets.
+5. Brush with the egg or eggless wash.
+6. Score the pastry using a razor blade or sharp knife with your choice of design – cross-hatch, herringbone, leafy vine or just simple diagonal slits. 
+*** Bake:
+1. Place the sheet pan on the middle rack in the oven for 35 minutes, checking at 20 minutes, and rotating pan for even browning if necessary.
+2. Let the pastry bake until it is a really deep golden color – to ensure it’s done and flaky all the way through.
+3. You may need to add 5 more minutes depending on your oven.
+4. Convection will help if you have this setting (use it for the last 5-10 minutes). Please, let’s not have any pale pastries!!! Nice and golden!
+5. Cool for  5-10 minutes before cutting and serving.
+6. Garnish with Rosemary Sprigs.
+   #+begin_tip
+   It’s OK to serve at room temp, but warm is best.
+   #+end_tip
+
+#+begin_note
+Feel free to add other veggies to the mushrooms, just as long as the filling is not watery and still has flavor (adjust salt and seasonings!). Roasted parsnips, wilted spinach, roasted sweet potatoes or butternut, sautéed kale, roasted sunchokes ….would all work well here.
+#+end_note
+** Credits:
+- From https://www.feastingathome.com/mushroom-wellington-rosemary-pecans/#tasty-recipes-18311-jump-target
+- date created: [2023-12-22 Fri]
+- [2023-12-22 Fri] Made for Mary Ann's birthday dinner. It really takes a /long/ time to get the liquid out of the mushrooms and one bag of spinach I added. It was well-received, if a bit rich (using 4 ounces of cream cheese for three wellingtons). I did make a couple of mistakes:
+    1. I used a sharp knife to "score" the wellingtons which was a bit of a mistake since it kind of severed the crust and made some pieces fall apart. Probably better to use the lame and *very lightly* score the crust.
+    2. I made a recipe and a half (which was fine) but then baked the wellingtons on two sheet pans where one was on top of the other and quite close to the top of the oven. The top one got scorched.
