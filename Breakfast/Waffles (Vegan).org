@@ -11,9 +11,6 @@
 - 1 teaspoon natural vanilla extract
 ** Method:
 1. Combine all ingredients for the vegan waffles in a medium bowl.
-   #+begin_note
-   A tablespoon of coconut oil weighs about 15 grams.
-   #+end_note
 2. Using a hand whisk, stir well until all lumps are removed.
    #+begin_tip
    /The batter will be quite thin. Don't worry, that's normal!/
