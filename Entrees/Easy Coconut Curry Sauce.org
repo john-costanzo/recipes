@@ -2,24 +2,24 @@
 * Easy Coconut Curry Sauce
 ** Ingredients:
 - 2 tbsp vegetable oil
-- 4 garlic cloves , minced
-- 2 tsp fresh ginger , finely grated
-- 1/2 onion , finely chopped (brown or yellow)
+- 4 garlic cloves, minced
+- 2 tsp fresh ginger, finely grated
+- ½ onion, finely chopped (brown or yellow)
 - 400g/14oz can coconut milk (full fat)
 - 1 cup/ 250 ml chicken broth
-- 1/2 cup / 125 ml tomato passata (tomato puree) (Note 1)
-- 400 g/14 oz can brown lentils , drained
-- 250 g / 8 oz pumpkin (~3 cups) , cut into 2cm / 4/5" cubes
+- ½ cup / 125 ml tomato passata (tomato puree) (Note 1)
+- 400 g/14 oz can brown lentils, drained
+- 250 g / 8 oz pumpkin (~3 cups), cut into 2cm / 4/5" cubes
 - 80 g / 2 cups (packed) baby spinach
-- 1/2 cup cashews , unsalted (roasted or raw) (Note 2)
-- 1/2 tsp each salt + pepper
+- ½ cup cashews, unsalted (roasted or raw) (Note 2)
+- ½ tsp each salt + pepper
 *** Spices:
 - 1 tbsp garam masala (Note 3)
 - 2 tbsp curry powder (mild or spicy, your choice) (Note 4)
 - 2 tsp cumin
 - 1 tsp coriander powder
 - 1 tsp paprika (sweet, or hot for spice!)
-- 1/2 tsp turmeric
+- ½ tsp turmeric
 ** Method:
 1. Heat oil in a deep skillet or pot over medium high heat. Add onion, garlic and ginger, cook for 2 minutes until onion is a bit tinged with gold.
 2. Add Spices and stir for 1 minute - don't worry if it looks a bit dried out.
@@ -31,21 +31,25 @@
 8. Serve over rice, sprinkled with coriander and extra cashews, if using.
 
 #+begin_note
-1. Crushed canned tomato can also be used here but doesn't yield the same smooth sauce. Use 3/4 cup.
+1. Crushed canned tomato can also be used here but doesn't yield the same smooth sauce. Use ¾ cup.
 2. Roughly chopped macadamia or pistachios would be a great sub. Otherwise, leave the cashews out and sprinkle generously with store bought fried shallots or onions (Asian section of supermarket), these are a great alternative for providing texture and added interest into the curry.
-3. Garam Masala is a spice mix that is found in major supermarkets in Australia (Woolies, Coles etc) that is commonly used in Indian cooking. It smells like curry powder and is not spicy, if you buy it from standard supermarkets. If you get it from a speciality store, check the spiciness before using - you may wish to dial it back a bit.
+3. Garam Masala is a spice mix that is found in major supermarkets in Australia (Woolies, Coles etc) that is commonly used in Indian cooking. It smells like curry powder and is not spicy, if you buy it from standard supermarkets. If you get it from a specialty store, check the spiciness before using - you may wish to dial it back a bit.
 4. I use Cloves of India (sold at supermarkets, spice section), mild or spicy. Any curry powder will be fine here because it's not intended to be a full blown authentic Indian curry.
-5. The Formula: This recipe is all about the curry sauce, so feel free to use it for whatever you want to put in it. It makes about 3 1/2 cups of sauce which is enough for about 4 - 5 packed cups of "stuff".
+5. The Formula: This recipe is all about the curry sauce, so feel free to use it for whatever you want to put in it. It makes about 3 ½ cups of sauce which is enough for about 4 - 5 packed cups of "stuff".\\
 
-   Examples: 500g/1 lb chicken cut into bite size pieces (~2 1/2 cups) + 2 1/2 cups of chopped veggies of choice. Or 500g / 1 lb prawns / shrimp + 2 cups chopped sweet potato. Or 5 cups of veggies, chopped into bite size pieces. Or 1 can of beans (~2 cups) plus 3 cups of chopped veggies. Etc etc. 🙂
-   Stir throughs like spinach which wilts down to nothing is a freebie that doesn't count in the cups allowance, and similarly with a small amount of nuts.
-   Proteins (chicken, turkey, beef, lamb, fish and prawns/shrimp especially great) - brown first then remove (still raw inside ok), then proceed with recipe. Add it back in to finish cooking through / reheat. For beef and lamb, be sure to use a nice marbled cut and don't overcook, keep it juicy inside. You could also stir through shredded or chopped precooked meat.
+   Examples: 500g/1 lb chicken cut into bite size pieces (~2 ½ cups) + 2 ½ cups of chopped veggies of choice. Or 500g / 1 lb prawns / shrimp + 2 cups chopped sweet potato. Or 5 cups of veggies, chopped into bite size pieces. Or 1 can of beans (~2 cups) plus 3 cups of chopped veggies. Etc etc. 🙂
+   Stir through like spinach which wilts down to nothing is a freebie that doesn't count in the cups allowance, and similarly with a small amount of nuts.
+   Proteins (chicken, turkey, beef, lamb, fish and prawns/shrimp especially great) - brown first then remove (still raw inside ok), then proceed with recipe. Add it back in to finish cooking through / reheat. For beef and lamb, be sure to use a nice marbled cut and don't overcook, keep it juicy inside. You could also stir through shredded or chopped precooked meat.\\
 
    Vegetables, add them into the sauce based on the cook time. The sauce needs 10 minutes to reduce / flavours to develop.
    Legumes (beans) - whether canned or cooked dried beans, add them in as soon as the sauce is mixed and simmer for the full time so they soak up some flavour.
-   Dried lentils (2/3 dried = 1 can drained) - use 2/3 cup dried and simmer in 3 cups of lightly salted water for  20 minutes or until tender but still firm (not mushy). Drain and use per recipe.
+   Dried lentils (⅔ dried = 1 can drained) - use ⅔ cup dried and simmer in 3 cups of lightly salted water for  20 minutes or until tender but still firm (not mushy). Drain and use per recipe.
 #+end_note
 
 ** Credits:
 - From https://www.recipetineats.com/easy-coconut-curry/
 - date created: [2023-01-07 Sat]
+
+# Local Variables:
+# jinx-local-words: "Woolies flavour flavours ok passata"
+# End:
