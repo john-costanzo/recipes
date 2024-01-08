@@ -1,0 +1,40 @@
+#+STARTUP: showeverything
+* The Best Chocolate Cake Ever
+** Ingredients:
+- 2 cups all-purpose flour
+- ¾ cup unsweetened cocoa powder [1]
+- 2 cups sugar
+- 2 teaspoons baking soda
+- 1 teaspoon baking powder
+- 1 teaspoon salt
+- 1 teaspoon instant espresso powder [2]
+- 1 cup dairy-free buttermilk (1 tablespoon vinegar or lemon juice plus oat milk [3])
+- 2 flax eggs (2 tablespoons ground flaxseed meal [4] plus 6 tablespoons hot water)
+- ½ cup vegetable oil
+- 2 teaspoons vanilla extract
+- 1 cup boiling hot water
+#+begin_note
+[1] If you want to make a darker chocolate cake, use ½ cup cocoa plus ¼ cup black cocoa, available from kingarthurbaking. com or on Amazon.
+[2] I use King Arthur brand instant espresso powder purchased from my local supermarket. If it’s not available at your market, you can get it from the King Arthur website or substitute any instant espresso coffee like Ferrara Instant Espresso Coffee.
+[3] I like to use Califia Extra Creamy Oat Milk, which is found with the other plantbased milks in the refrigerated milk section of the supermarket. If you can’t find it, or if you would prefer another kind of nondairy milk, you can use coconut, almond or soy milk—just make sure to get the unsweetened variety from the refrigerated section and not the boxes from the regular shelves. To make buttermilk, add 1 tablespoon of vinegar, apple cider vinegar or lemon juice to a liquid measuring cup and then add nondairy milk to the cup to measure 1 cup total. Set aside for 5 minutes to curdle (though it may not look very chunky).
+[4] I use Bob’s Red Mill Ground Flaxseed. You can find this in almost any supermarket or on Amazon. To make 2 flax eggs, combine 2 tablespoons ground flax with 6 tablespoons hot water in a bowl. Stir and set aside for 5 minutes to thicken.
+#+end_note
+** Method:
+1. Preheat oven to 350°F.
+2. Prepare large Bundt pan or other fluted pan by spraying with nonstick spray or thoroughly brushing pans with vegetable oil. “Flour” the pan with cocoa—not with flour—and shake out excess. Make sure that all surfaces are greased!
+3. Sift flour and cocoa powder into a large mixing bowl; add sugar, baking soda, baking powder, salt and espresso powder. Whisk together.
+4. Prepare your dairy-free buttermilk by adding 1 tablespoon vinegar, apple cider vinegar or lemon juice to your liquid measuring cup and then adding oat milk to bring the amount to 1 cup total. Set aside for 5–10 minutes to curdle.
+5. Prepare the flax eggs by adding 2 tablespoons of ground flaxseed to a bowl and adding 6 tablespoons hot water. Stir it together and let sit for 5 minutes to thicken and become a bit gloopy.
+6. Add the buttermilk, flax eggs, oil and vanilla extract to the bowl with the dry ingredients and stir into a thick batter. Add boiling water to the bowl and whisk it into the batter with a hand whisk. Batter will be thin and a bit runny.
+7. Add batter to the prepared pan and bake for about 35–40 minutes, or until a toothpick inserted into the cake comes out clean.
+8. Let the cake cool in the pan for about 10–15 minutes before removing to a wire cooling rack to cool completely.
+9. Transfer to a plate. Sprinkle cake with powdered sugar and serve.
+10. Cake can be stored covered at room temperature for 3–4 days, in the fridge up to a week, or in the freezer up to 3 months.
+#+begin_note
+I like to serve this as a Bundt cake, but you can also use two 8- or 9-inch round pans (bake 30 minutes), a 9- by 13-inch pan (bake 35–40 minutes), or two 12-cavity cupcake pans (bake 20–25 minutes) and decorate as desired.
+#+end_note
+** Tags
+IsVegan
+** Credits:
+- From https://www.edibleasheville.com/the-best-chocolate-cake-ever/
+- date created: [2024-01-08 Mon]
