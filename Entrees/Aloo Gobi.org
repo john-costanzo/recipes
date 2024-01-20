@@ -1,0 +1,47 @@
+#+STARTUP: showeverything
+* Aloo Gobi
+Wonderfully fragrant and loaded with flavor thanks to garam masala, coriander and ground cumin as well as the mild heat of Kashmiri red chiles, this South Asian potato and cauliflower  curry can be served as a vegetarian main or side dish. Preparation of aloo gobi (its name means “potatoes cauliflower”) can vary, but the one constant is that the vegetables must be cooked until tender but not falling apart. Some recipes call for deep-frying the vegetables first, while others roast or boil them; here, they’re partially sautéed, then finished by steaming, so everything is done in one pan.
+
+Tomatoes aren’t always typical in aloo gobi, but they add extra moisture and acidity to the dish. This version skews toward the drier side, so add just enough water to help the vegetables finish steaming. For a little tang, sprinkle on some amchur (dried mango powder), or drizzle with lemon juice. Serve aloo gobi with roti, or basmati rice and naan.
+** Ingredients:
+- ¼ cup grapeseed or vegetable oil, plus more as needed
+- 2 large Yukon gold potatoes (about 1 pound), peeled and cut into 1-inch cubes
+- 1 small cauliflower (about 1½ pounds), cut into 1-inch florets
+- ½ teaspoon cumin seeds
+- 1 medium yellow onion, finely chopped
+- 1 green chile pepper, such as serrano or Thai bird’s eye, slit in the middle
+- 1 large garlic clove, grated
+- 1 (1-inch) piece ginger, peeled and grated
+- ½ teaspoon ground turmeric
+- 2 medium tomatoes, chopped
+- 1 teaspoon garam masala, plus more to taste
+- 1 teaspoon ground coriander
+- ½ teaspoon ground cumin
+- ½ teaspoon Kashmiri red chile powder (see Tip)
+- Kosher salt (such as Diamond Crystal)
+- ½ teaspoon amchur (dried mango powder), or 1 tablespoon lemon juice
+- Cilantro leaves, for serving
+** Method:
+1. In a large, deep skillet with a lid, heat the oil over medium-high.
+2. Add the potatoes, reduce heat to medium-low and cook, stirring frequently, until the potatoes are par-cooked and a little golden, 8 to 10 minutes.
+3. Using a slotted spoon, transfer the potatoes to a medium bowl.
+4. Add a little more oil to the skillet, if necessary, add the cauliflower and cook, stirring occasionally, until starting to soften on the outsides, about 5 minutes.
+5. Transfer the cauliflower to the bowl with the potatoes.
+6. Stir the cumin seeds into the pan and toast until they crackle and are fragrant, about 30 seconds.
+7. Add the onion and green chile; cook, stirring occasionally, scraping up any browned bits from the bottom of the pan, until the onion is soft and golden, about 8 minutes.
+8. Add the garlic and ginger; cook, stirring frequently, until fragrant, about 1 minute.
+9. Sprinkle on a little salt and the turmeric; stir, until fragrant, about 30 seconds.
+10. Return the potatoes and cauliflower to the pan, then stir in the tomatoes, garam masala, coriander, ground cumin and Kashmiri chile powder.
+11. Stir and cook until fragrant, about 2 minutes.
+12. Drizzle 3 tablespoons of water around the sides of the pan, stir, scraping up any browned bits.
+13. Cover, then reduce heat to medium-low and cook, stirring occasionally to make sure nothing sticks, until the potatoes are almost fork-tender, 20 to 25 minutes. (The vegetables will release liquid as they cook; drizzle on more water to help steam the potatoes, if necessary.)
+14. Season with salt.
+15. Re-cover and cook until the potatoes are fork-tender and not mushy, and the cauliflower is tender but still has a bite, about 5 minutes.
+16. Taste and season with more salt, if needed. Add more garam masala, if you like. Sprinkle with amchur and top with cilantro.
+    #+begin_tip
+    Look for Kashmiri red chile powder, a mild chile powder, at South Asian markets and online. To substitute, combine ½ teaspoon smoked or sweet paprika with a dash of cayenne.
+    #+end_tip
+** Credits:
+- From https://cooking.nytimes.com/recipes/1024646-aloo-gobi
+- date created: [2024-01-14 Sun]
+- [2024-01-14 Sun] Tasty!
