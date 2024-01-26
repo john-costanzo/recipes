@@ -1,0 +1,30 @@
+#+STARTUP: showeverything
+* Mac and Cheese
+** Ingredients:
+- 2 cups uncooked elbow macaroni (7 ounces)
+- ¼ cup butter
+- ¼ cup all-purpose flour
+- ½ teaspoon salt
+- ¼ teaspoon pepper
+- ¼ teaspoon ground mustard
+- ¼ teaspoon Worcestershire sauce
+- 2 cups milk
+- 2 cups shredded or cubed Cheddar cheese (8 ounces)
+
+** Method:
+1. Heat oven to 375°F. Cook and drain macaroni as directed on package.
+2. While macaroni is cooking, melt butter in 3-quart saucepan over low heat.
+3. Stir in flour, salt, pepper, mustard and Worcestershire sauce.
+4. Cook over medium low heat, stirring constantly, until mixture is smooth and bubbly; remove from heat.
+5. Stir in milk.
+6. Heat to boiling, stirring constantly.
+7. Boil and stir 1 minute.
+8. Stir in cheese.
+9. Cook, stirring occasionally, until cheese is melted.
+10. Gently stir macaroni into cheese sauce.
+11. Pour into ungreased 2-quart casserole.
+12. Bake uncovered 30 minutes or until bubbly.
+** Credits:
+- From Betty Crocker https://www.bettycrocker.com/recipes/family-favorite-macaroni-and-cheese/4533ea52-0194-4fce-b30f-9516a74c0628
+- date created: [2024-01-25 Thu]
+- [2024-01-25 Thu] Used half Cheddar and half Swiss cheese. Also added some smoked paprika (instead of mustard and Worcestershire). Topped with panko breadcrumbs. I used oat milk. It was not quite as creamy but tasty nonetheless.
