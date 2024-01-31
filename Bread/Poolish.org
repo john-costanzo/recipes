@@ -1,0 +1,27 @@
+#+STARTUP: showeverything
+* Poolish
+Makes 90 grams of poolish.
+
+
+** Ingredients:
+- 0.12 gram (one-third of ⅛ teaspoon) active dry yeast or 0.36 gram fresh yeast, broken into small pieces
+- 47 grams (3 tablespoons plus 1 teaspoon) cold tap water
+- 47 grams (¼ cup plus 2 tablespoons) flour used in dough recipe
+** Method:
+1. Put the yeast in a small bowl, add the water, and whisk vigorously for 30 seconds. 
+  #+begin_tip
+  The mixture should bubble on top. If it doesn't and the yeast granules float, the yeast is "dead" and should be discarded. Begin again with a fresh amount of yeast and water.
+  #+end_tip
+2. Add the flour and stir well with a rubber spatula to combine.
+   #+begin_note
+   The consistency will be quite thick, resembling a thick pancake batter.
+   #+end_note
+3. Scrape down the sides of the bowl, cover the bowl with plastic wrap, and let sit at room temperature for 18 hours.
+4. Refrigerate for 30 minutes to cool slightly before using.
+5. If you are not using the starter right away, you can store it in the refrigerator, though I suggest keeping it for no more than 8 hours.
+   #+begin_note
+   Bring to cool room temperature before using.
+   #+end_note
+** Credits:
+- From https://www.epicurious.com/recipes/food/views/poolish-51255820
+- date created: [2024-01-31 Wed]
