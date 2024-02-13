@@ -1,0 +1,31 @@
+#+STARTUP: showeverything
+* Macaroni and Cheese
+** Ingredients:
+- 1 8-ounce package elbow macaroni
+- 4 Tablespoons butter
+- ¾ cup bread crumbs
+- 1 small onion, minced
+- 1 Tablespoon flour
+- 1 teaspoon salt
+- ¼ teaspoon dry mustard
+- dash pepper
+- 1½ cup milk
+- 8 ounces American cheese
+** Method:
+1. Cook macaroni.
+2. Drain.
+3. Preheat oven to 350° F.
+4. Grease 2 quart casserole.
+5. In a small saucepan over medium heat, melt 2 Tablespoons butter, add bread crumbs and toss to coat. Set aside.
+6. In a medium saucepan over medium heat, melt remaining 2 Tablespoons butter, add onion and cook until tender, about 5 minutes.
+7. Stir in flour, salt, mustard and pepper.
+8. Slowly stir in milk and cook until smooth and slightly thickened.
+9. Stir in cheese until melted.
+10. Place macaroni in casserole and pour cheese mixture over macaroni.
+11. Sprinkle with reserved bread crumbs.
+12. Bake 20 minutes.
+** Tags
+Moms
+** Credits:
+- From Fran Costanzo's recipe box
+- date created: [2024-02-07 Wed]

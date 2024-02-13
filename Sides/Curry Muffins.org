@@ -1,0 +1,18 @@
+#+STARTUP: showeverything
+* Curry Muffins
+** Ingredients:
+- 1 cup black olives
+- ½ cup onion
+- 1½ cup cheddar cheese
+- ½ cup mayonnaise
+- ½ teaspoon curry powder
+- ½ teaspoon salt
+** Method:
+1. Preheat oven to 400° on the convection setting.
+2. Mix all ingredients in a small bowl.
+3. Bake for 8 minutes on convection.
+4. Then bake for another 12 minutes on non-convection.
+5. Serve atop pitas, crackers or English muffins.
+** Credits:
+- From Marie Stevens
+- date created: [2024-02-07 Wed]

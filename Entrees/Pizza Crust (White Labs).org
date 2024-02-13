@@ -1,0 +1,23 @@
+#+STARTUP: showeverything
+* Pizza Crust (White Labs)
+** Ingredients:
+- 350g water
+- 75g [[https://john-costanzo.github.io/recipe_browser.html?view:CostanzoRecipes_Bread_Poolish][Poolish]]
+- 20g yeast
+- 525g 00 flour
+- 90g whole wheat or spelt flour
+- 16 g salt
+** Method:
+1. Add all wet ingredients to mixer bowl.
+2. Add flour.
+3. Mix for one minute, scraping the sides of the bowl.
+4. Let rest for 30 minutes for autolyse.
+5. Mix on low with salt for six to eight minutes. (The dough should pull away from the mixing bowl.)
+6. Portion into 4 equal dough balls, around 9-10 ounces.
+7. Cover and proof at room temperature for 1-2 hours.
+8. After proofing, keep covered and cold ferment in the refrigerator overnight for developed flavor.
+9. Before baking, take dough out of the refrigerator and allow it to warm for one hour.
+** Credits:
+- From White Labs' "R&C at Home" WLP518 Pizza Dough
+- date created: [2024-02-07 Wed]
+- [2024-02-06 Tue] Made using AP flour plus White Labs WLP518 yeast and got good results. Light and airy, but it lacked some of the "chew" I was looking for. Perhaps it was over mixed? Also it might have needed a tad more salt.
