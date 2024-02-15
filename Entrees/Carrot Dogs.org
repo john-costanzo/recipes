@@ -1,0 +1,49 @@
+#+STARTUP: showeverything
+* Carrot Dogs
+Makes 8 carrot dogs
+Preparation Time: 20 minutes
+Ready In: 4 hours 20 minutes
+
+Don't doubt the deliciousness of carrot dogs until you've tasted one. Cooked whole carrots soak up tons of flavor from a smoky marinade. Though these carrot dogs need four hours to marinade, this recipe requires only about 20 minutes of active prep time.
+
+By Nancy Macklin, RDN
+
+** Ingredients:
+- 8 large carrots
+- 1 cup low-sodium vegetable broth
+- ¼ cup apple cider vinegar
+- 2 tablespoons reduced-sodium soy sauce or tamari
+- 2 tablespoons pure maple syrup
+- 2 teaspoons smoked paprika
+- 2 teaspoons dry mustard
+- ½ teaspoon ground coriander
+- ½ teaspoon garlic powder
+- ½ teaspoon onion powder
+- ½ teaspoon liquid smoke
+- Dash ground cloves
+- 8 whole wheat hot dog buns, toasted if desired
+- ½ of a red onion, finely chopped (¼ cup)
+- 3 tablespoons stone-ground mustard
+- ½ of a medium cucumber,spiralized
+** Method:
+1. Peel carrots and trim to 6 inches long.
+2. Trim wide end to make a consistent thickness.
+3. Place carrots in a large saucepan; add water to cover.
+4. Cover pan and bring to boiling; reduce heat to low.
+5. Cook carrots 8 to 10 minutes, until just tender.
+6. Drain well.
+7. Place carrots in a large resealable plastic bag set in a shallow dish.
+8. For marinade, in a bowl combine the next 11 ingredients (through cloves) and ½ cup water.
+9. Pour over carrots and seal bag.
+10. Chill 4 to 24 hours, turning occasionally.
+11. Drain and discard marinade.
+12. Grill carrots, covered, over medium-high 5 to 8 minutes or until grill marks start to appear, turning occasionally. Or place carrots in a foil-lined baking pan and bake at 450°F 8 to 10 minutes or until lightly browned on edges.
+13. Place grilled carrots in buns.
+14. Top with red onion, mustard, and cucumber.
+** Credits:
+- From Chuck Schwabe
+- date created: [2024-02-15 Thu]
+
+# Local Variables:
+# jinx-local-words: "Macklin spiralized"
+# End:
