@@ -2,7 +2,7 @@
 * Vegan Mushroom Wellington with Rosemary and Pecans
 ** Ingredients:
 *** ...for two Wellingtons
-- 1 box (2 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold-not at room temp)
+- 1 box (2 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold: not at room temperature)
 - 2 tablespoon olive oil (or butter)
 - 2 pounds mushrooms, sliced, stems OK (except Shiitake stems)
 - 1 large onion, diced
@@ -17,7 +17,7 @@
 - OPTIONS -if you want to add cheese, add ½ – 1 cup grated pecorino, Gruyere, goat cheese or cream cheese- or use a meltable vegan cheese- or make vegan ricotta!
 - “Egg” wash – use nut milk, cream or melted coconut oil to brush on the pastry. If not worried about it being vegan, whisk an egg with a tablespoon of water.
 *** ...for three Wellingtons:
-- 1½ boxes (3 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold-not at room temp)
+- 1½ boxes (3 sheets) vegan puff pastry, thawed in the fridge overnight. (Use cold not at room temperature)
 - 3 tablespoon olive oil (or butter)
 - 3 pounds mushrooms, sliced, stems OK (except Shiitake stems)
 - 1½  large onion, diced
@@ -65,11 +65,14 @@
    #+end_tip
 
 #+begin_note
-Feel free to add other veggies to the mushrooms, just as long as the filling is not watery and still has flavor (adjust salt and seasonings!). Roasted parsnips, wilted spinach, roasted sweet potatoes or butternut, sautéed kale, roasted sunchokes ….would all work well here.
+Feel free to add other veggies to the mushrooms, just as long as the filling is not watery and still has flavor (adjust salt and seasonings!). Roasted parsnips, wilted spinach, roasted sweet potatoes or butternut, sautéed kale, roasted sunchokes… all would all work well here.
 #+end_note
 ** Credits:
 - From https://www.feastingathome.com/mushroom-wellington-rosemary-pecans/#tasty-recipes-18311-jump-target
 - date created: [2023-12-22 Fri]
-- [2023-12-22 Fri] Made for Mary Ann's birthday dinner. It really takes a /long/ time to get the liquid out of the mushrooms and one bag of spinach I added. It was well-received, if a bit rich (using 4 ounces of cream cheese for three wellingtons). I did make a couple of mistakes:
-    1. I used a sharp knife to "score" the wellingtons which was a bit of a mistake since it kind of severed the crust and made some pieces fall apart. Probably better to use the lame and *very lightly* score the crust.
-    2. I made a recipe and a half (which was fine) but then baked the wellingtons on two sheet pans where one was on top of the other and quite close to the top of the oven. The top one got scorched.
+- [2023-12-22 Fri] Made for Mary Ann's birthday dinner. It really takes a /long/ time to get the liquid out of the mushrooms and one bag of spinach I added. It was well-received, if a bit rich (using 4 ounces of cream cheese for three Wellingtons). I did make a couple of mistakes:
+    1. I used a sharp knife to "score" the Wellingtons which was a bit of a mistake since it kind of severed the crust and made some pieces fall apart. Probably better to use the lame and *very lightly* score the crust.
+    2. I made a recipe and a half (which was fine) but then baked the Wellingtons on two sheet pans where one was on top of the other and quite close to the top of the oven. The top one got scorched.
+# Local Variables:
+# jinx-local-words: "meltable"
+# End:
