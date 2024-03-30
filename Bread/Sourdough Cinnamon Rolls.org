@@ -1,11 +1,11 @@
 #+STARTUP: showeverything
-* Sourdough Cinnamon Rolls Recipe
+* Sourdough Cinnamon Rolls
 ** Ingredients:
 *** Dough
 - 477g all-purpose or bread flour
-- 133g milk, whole
+- 133g milk, whole (/about ½ cup/)
 - 191g butter, unsalted
-- 191g eggs
+- 191g eggs (/about 4/)
 - 48g sugar, caster
 - 11g salt
 - 200g sourdough starter

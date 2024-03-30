@@ -1,6 +1,8 @@
 #+STARTUP: showeverything
 * Persian Carrots (Recipe 2)
 ** Ingredients
+This side dish with a difference goes very well with plainly grilled or roasted chicken or braised lamb.
+
 - salt and pepper; to taste
 - 1 Onion, sliced
 - 4 tb Sultanas or currants
@@ -9,16 +11,14 @@
 - 8 fresh dates
 - 2 tbs olive oil
 ** Method
-1. This side dish with a difference goes very well with plainly grilled or roasted chicken or braised lamb.
-2. Wash 3 large or 4 medium carrots and slice into rounds.
-3. Peel one onion and slice. 
-4. Stone 8 fresh dates (or substitute dried) and cut into slices lengthwise.
-5. Have ready 4 tablespoons of currants or sultanas.
-6. Heat 2 tablespoons olive oil in a wide saucepan.
-7. Add all the prepared ingredients and stir-fry for a minute or two, then add 100 mL water, cover and bring to a fast boil.
-8. Add salt to taste and put back the lid at an angle so that steam can escape.
-9. Cook for about 10 minutes, stirring occasionally, until the carrots are tender and the water has evaporated.
-10. If water remains, remove the lid and raise the heat to dry it off.
-11. Serve.
+1. Wash carrots and slice into rounds.
+2. Peel onion and slice.
+3. Stone dates (or substitute dried) and cut into slices lengthwise.
+4. Heat olive oil in a wide saucepan.
+5. Add all the prepared ingredients and stir-fry for a minute or two, then add water, cover and bring to a fast boil.
+6. Add salt to taste and put back the lid at an angle so that steam can escape.
+7. Cook for about 10 minutes, stirring occasionally, until the carrots are tender and the water has evaporated.
+8. If water remains, remove the lid and raise the heat to dry it off.
+9. Serve.
 ** Credits
 - second [[http://www.bigoven.com/recipe/persian-carrots/4291]]
