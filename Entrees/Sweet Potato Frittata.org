@@ -1,6 +1,7 @@
 #+STARTUP: showeverything
-* Sweet Potato Frittata Recipe
+* Sweet Potato Frittata
 ** Ingredients:
+*** Single recipe (feeds 4)
 - 1 lb sweet potatoes, thinly sliced
 - 3 teaspoons olive oil, divided
 - ¾ teaspoon sea salt, divided
@@ -12,6 +13,19 @@
 - ½ cup goat cheese, divided
 - ¼ cup milk
 - 2 teaspoons curry powder
+- Chopped almonds and goat cheese, to serve
+*** Single recipe (feeds 6)
+- 1 ½ lb sweet potatoes, thinly sliced
+- 4 ½ teaspoons olive oil, divided
+- 1 ½ teaspoon sea salt, divided
+- ¾ medium onion, minced
+- 1 ½ tablespoon minced ginger
+- 3 cloves garlic, finely minced
+- 3 cups spinach
+- 9 large eggs
+- ¾ cup goat cheese, divided
+- ⅜ cup milk
+- 3 teaspoons curry powder
 - Chopped almonds and goat cheese, to serve
 ** Method:
 1. Preheat your oven to 425°.
@@ -34,3 +48,4 @@ While the sweet potatoes are cooking, make the rest of the frittata:
 ** Credits:
 - From https://www.theendlessmeal.com/curried-sweet-potato-frittata/#wprm-recipe-container-59180
 - date created: [2024-03-30 Sat]
+- [2024-03-31 Sun] Made for Easter brunch. It was tasty, but stuck to the pan.

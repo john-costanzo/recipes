@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Persian Carrots (Recipe 2)
+* Persian Carrots
 ** Ingredients
 This side dish with a difference goes very well with plainly grilled or roasted chicken or braised lamb.
 
