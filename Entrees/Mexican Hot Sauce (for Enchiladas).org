@@ -1,0 +1,32 @@
+#+STARTUP: showeverything
+* Mexican Hot Sauce (for Enchiladas)
+** Ingredients:
+- 2 Tbs. olive oil
+- 1 cup chopped onion
+- 2 cloves crushed garlic
+- 1 tsp. salt, divided
+- 1 tsp. cumin
+- ¼ tsp. ground coriander
+- ¼ - ½ tsp. cayenne
+- ¼ tsp. black pepper
+- ½ tsp. chili powder
+- 3 cups chopped tomatoes
+- 1 cup water
+- 2 Tbs. tomato paste
+- 2 tsp. dry red wine
+** Method:
+1. Sauté onions and garlic in olive oil with ½ tsp. salt until onion is clear.
+2. Add spices.
+3. Transfer to sauce pan and add tomatoes, water, tomato paste and wine.
+4. Add remaining salt.
+5. Cover and simmer ½ hour or longer. (Several hours is best.)
+   #+begin_tip
+   Hot spices tend to get hotter as they cook. It is recommended that you add the cayenne a little at a time so the degree of hotness is to you tolerance.
+   #+end_tip
+
+   #+begin_tip
+   This sauce can be left in chunky form. Or, you can purée all or part of it.
+   #+end_tip
+** Credits:
+- From Moosewood Cookbook, page 78
+- date created: [2024-04-03 Wed]
