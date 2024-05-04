@@ -1,0 +1,45 @@
+#+STARTUP: showeverything
+* Cowboy Caviar
+** Ingredients:
+*** For the dressing
+- ½ cup olive oil
+- ¼ cup granulated sugar or to taste (see note 1)
+- ¼ cup white wine vinegar (see note 2)
+- 1 teaspoon chili powder
+- Salt
+*** For the salad
+- 1 pound Roma tomatoes seeded and diced
+- 1 (15 ounce) can black-eyed peas drained and rinsed
+- 1 (15 ounce) can black beans drained and rinsed
+- 1 (11 ounce) can sweet corn drained (see note 3)
+- 1 red onion diced
+- 1 green bell pepper diced
+- 1 red bell pepper diced
+- 1 cup fresh cilantro or fresh parsley, chopped, from 1 bunch
+** Method:
+1. To make the dressing, in a small bowl whisk together the olive oil, sugar, white wine vinegar, chili powder, and salt to taste (I like 1 teaspoon).
+2. In a large bowl, add tomatoes, black-eyed peas, black beans, corn, red onion, bell peppers, and cilantro.
+3. Drizzle with the dressing and stir to combine.
+4. Cover and chill until serving time.
+
+#+begin_note
+*Sugar*: The recipe reflects how we make it in my family. But YES, it has a lot of sugar. Please feel free to reduce it or omit it entirely. If you want to reduce it, mix the dressing with just a tablespoon of sugar to start, taste it, and go from there.
+#+end_note
+#+begin_note
+*White wine vinegar*: Or substitute apple cider vinegar, red wine vinegar, or even lime juice. It changes the flavor, but not in a bad way.
+#+end_note
+#+begin_note
+*Extra sweet "shoepeg" corn*: Regular canned sweet corn or frozen corn may be substituted for the extra sweet corn. The closest measurement for either option is ¾ cup, but feel free to use the whole 15-ounce can of corn.
+#+end_note
+#+begin_note
+*Yield*: This recipe makes about twelve 1 cup servings of Cowboy Caviar (more or less depending on the size of your bell peppers).
+#+end_note
+#+begin_note
+*Storage*: This recipe keeps about 3-4 days in the refrigerator.
+#+end_note
+#+begin_note
+*Make ahead*: You can make the dressing up to 3 days in advance. You can assemble the full recipe a day in advance too, but the bell peppers might soften a bit in the dressing.
+#+end_note
+** Credits:
+- From https://www.culinaryhill.com/wprm_print/cowboy-caviar
+- date created: [2024-05-04 Sat]
