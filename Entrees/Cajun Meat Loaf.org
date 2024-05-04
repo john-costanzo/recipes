@@ -1,19 +1,20 @@
 #+STARTUP: showeverything
 * Cajun Meat Loaf
+
 ** Ingredients:
-*** Meat Loaf
+*** Meat Loaf (100%)
 - 1 cup long grain brown rice
 - ¼ cup oil
 - ⅔ cup dried lentils
-- 1½ teasp. salt
+- 1½ teaspoon salt
 - 2 cups diced onion
 - 1 cup celery, chopped
 - 1 cup diced green pepper
 - 4 chopped jalapeno peppers
-- 1 Tblsp garlic, chopped
+- 1 tablespoon garlic, chopped
 - 1 cup pecans, chopped
 - ½ cup sesame seeds
-- ½ teasp black pepper
+- ½ teaspoon black pepper
 - 1 pinch white pepper
 - 2 cups TVP
 - 1½ cups barbecue sauce
@@ -22,42 +23,42 @@
 - 8 ounces tomato juice
 - ¼ cup soy sauce
 
-*** Barbecue Sauce
+*** Barbecue Sauce (100%)
 - 1 cup tomato sauce
-- ½ teasp liquid smoke
+- ½ teaspoon liquid smoke
 - ¼ cup sugar
 - ¼ cup cider vinegar
 - ¼ cup tomato paste
 
-*** Meatloaf (50%):
+*** Meatloaf (50%)
 - ½ cup long grain brown rice
-- 2 Tbls oil
+- 2 tablespoons oil
 - ⅓ cup dried lentils
-- ¾ teasp. salt
+- ¾ teaspoon salt
 - 1 cup diced onion
 - ½ cup celery, chopped
 - ½ cup diced green pepper
 - 2 chopped jalapeno peppers
-- ½ Tblsp garlic, chopped
+- ½ tablespoon garlic, chopped
 - ½ cup pecans, chopped
 - ¼ cup sesame seeds
-- ¼ teasp black pepper
+- ¼ teaspoon black pepper
 - 1 pinch white pepper
 - 1 cup TVP
 - ¾ cups barbecue sauce
 - 4 eggs
 - ½ pound cheddar cheese grated
 - 4 ounces tomato juice
-- 2 Tbls soy sauce
+- 2 tablespoons soy sauce
 
 *** Barbecue Sauce (50%)
-- 1 cup tomato sauce
-- ½ teasp liquid smoke
-- ¼ cup sugar
-- ¼ cup cider vinegar
-- ¼ cup tomato paste
+- ½ cup tomato sauce
+- ¼ teaspoon liquid smoke
+- ⅛ cup sugar
+- ⅛ cup cider vinegar
+- ⅛ cup tomato paste
 
-*** Method:
+** Method:
 1. Take half the oil, and saute uncooked rice over low heat until golden. Stir often.
 
 2. Add 3 (1.5 for half) cups water, and cook uncovered until rice is tender.
@@ -70,7 +71,7 @@
 
 6. Mix in the rest of the ingredients, except eggs, cheese and tomato juice. Let cool, then beat eggs with tomato juice and add to mixture.
 
-7. Add ¼ cup (or 2 Tbls for half) soy sauce. Knead. Wait 5 minutes so TVP can soak up moisture. Taste TVP to see if smooth. If crunchy, add water. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozerella.)
+7. Add ¼ cup (or 2 tablespoons for half) soy sauce. Knead. Wait 5 minutes so TVP can soak up moisture. Taste TVP to see if smooth. If crunchy, add water. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozzarella.)
 
 8. Cover with aluminum foil and bake at 275°  for 1 hour or until center is cooked.
 
