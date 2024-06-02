@@ -1,0 +1,32 @@
+#+STARTUP: showeverything
+* Vegetarian 15 Bean Soup
+** Ingredients:
+- 20 oz dried beans
+- 1 medium onion peeled and diced
+- 2 tablespoons olive oil
+- 1 teaspoon salt (or more if not using broth)
+- 15½ oz canned crushed tomatoes
+- 6 cups vegetable broth
+- 1 tablespoon cumin
+- 1 tablespoon smoked paprika
+- ½ teaspoon garlic powder
+- 2 tablespoons balsamic vinegar
+** Method:
+1. Soak beans overnight or for at least a few hours if you have time.
+   #+begin_tip
+   This is not totally necessary, but it will reduce the cooking time later.  You can skip and go to step 2 if you like.
+   #+end_tip
+   #+begin_tip
+   Throw away that flavor packet that comes with the beans.  You won't need it.
+   #+end_tip
+2. Drain the soaked beans and put them in a pot with enough water to cover them with about 3 inches of water and boil for 20 minutes.
+3. Turn off the heat and let the beans sit for ½ hour before draining off the muddy-looking water and rinsing the partially cooked beans.
+4. Peel and dice a medium-sized onion in 2 tbsp of olive oil over low heat for about 5 minutes until the onion becomes translucent.
+5. Turn up the stove to medium heat and add the drained and rinsed beans, canned tomato, broth, cumin, smoked paprika, garlic powder, and a bay leaf if desired, and stir well.
+6. Simmer the soup at a slow boil stirring occasionally for about 45 minutes if you presoaked the beans or 90 minutes if you didn't presoak the beans.
+7. Add 2 tbsp of balsamic vinegar to the pot of soup about 10 minutes before serving.
+** Tags:
+IsVegan
+** Credits:
+- From https://thehiddenveggies.com/vegetarian-15-bean-soup/#recipe
+- date created: [2024-06-01 Sat]
