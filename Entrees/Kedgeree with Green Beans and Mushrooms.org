@@ -12,12 +12,32 @@
 - 1 tbsp chopped fresh parsley
 - salt and freshly ground black pepper
 ** Method:
-1. Wash the rice several times under cold running water. Drain thoroughly. Bring a pan of water to a boil. Add the rice and cook for 10-12 minutes until tender. Drain thoroughly..
-2. Half fill a second pan with water. Add the eggs and bring to a boil. Lower the heat and simmer for 8 minutes. Drain the eggs and cool them under cold water. Remove the shells.
-3. Bring another pan of water to a boil and cook the green beans for 5 minutes. Drain and refresh under cold running water. Then drain again.
-4. Melt the butter in a large frying pan. Add the onions and mushrooms. Cook for 2-3 minutes over a moderate heat.
-5. Add the green beans and rice to the onion mixture. Stir lightly to mix. Cook for 2 minutes. Cut the hard-boiled eggs in wedges and add  them tto the pan.
-6. Stir in the cream and parsley, taking care noot to break up the eggs. Reheat the kedgeree but do not allow it to boil. Serve at once.
+1. Wash the rice several times under cold running water.
+2. Drain thoroughly.
+3. Bring a pan of water to a boil.
+4. Add the rice and cook for 10-12 minutes until tender.
+5. Drain thoroughly..
+6. Half fill a second pan with water.
+7. Add the eggs and bring to a boil.
+8. Lower the heat and simmer for 8 minutes.
+9. Drain the eggs and cool them under cold water.
+10. Remove the shells.
+11. Bring another pan of water to a boil and cook the green beans for 5 minutes.
+12. Drain and refresh under cold running water, then drain again.
+13. Melt the butter in a large frying pan.
+14. Add the onions and mushrooms.
+15. Cook for 2-3 minutes over a moderate heat.
+16. Add the green beans and rice to the onion mixture.
+17. Stir lightly to mix.
+18. Cook for 2 minutes.
+19. Cut the hard-boiled eggs in wedges and add  them to the pan.
+20. Stir in the cream and parsley, taking care not to break up the eggs.
+21. Reheat the kedgeree but do not allow it to boil.
+22. Serve at once.
 ** Credits:
 - From [[https://www.amazon.com/Fast-Vegetarian-Matthew-Drennan-2001-07-31/dp/B01K93C14U/ref=sr_1_1?dchild=1&keywords=Fast+Vegetarian+Food+drennan&qid=1595522860&sr=8-1][Fast Vegetarian Food]], by Matthew Drennan, page 92
 - date created: [2020-07-23 Thu]
+
+# Local Variables:
+# jinx-local-words: "Drennan"
+# End:
