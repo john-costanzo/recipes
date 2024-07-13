@@ -1,0 +1,27 @@
+#+STARTUP: showeverything
+* Diner-Style Breakfast Potatoes
+** Ingredients:
+- 1 pound Yukon Gold potatoes, cut into 1- to 2-inch chunks
+- 2 tablespoons olive oil
+- 1 small onion, diced
+- ½ medium bell pepper, diced
+- 2 teaspoons paprika
+- ½ teaspoon garlic powder
+- ½ teaspoon cumin
+- Salt and pepper
+
+** Method:
+1. Place the diced potatoes in a large saucepan, cover with cold water, and add a pinch of salt.
+2. Bring to a boil over high heat, then cook for 2 to 3 minutes, just until the potatoes are fork-tender.
+3. Drain the potatoes in a colander.
+4. Meanwhile heat the oil in a large heavy-bottomed skillet.
+5. Add the onions and pepper, and cook until soft, about 5 minutes.
+6. Add the drained potatoes, paprika, garlic powder, cumin, salt, and pepper and mix so the potatoes are coated.
+7. Spread the potatoes in an even layer across the bottom of the pan and cook without stirring for 5 minutes.
+8. Stir the potatoes and continue cooking for another 5 minutes.
+9. Season with additional salt and pepper, if necessary.
+10. Serve immediately.
+
+** Credits:
+- From https://www.thekitchn.com/recipe-diner-style-breakfast-potatoes-223999
+- date created: [2024-07-13 Sat]

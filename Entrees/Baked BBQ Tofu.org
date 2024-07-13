@@ -1,0 +1,29 @@
+#+STARTUP: showeverything
+* Baked BBQ Tofu
+** Ingredients:
+- ¼ cup nutritional yeast
+- 2 tablespoons cornstarch
+- 2 tablespoons water
+- 1 tablespoon soy sauce
+- 1 teaspoon granulated garlic
+- 1 teaspoon onion powder
+- 14 oz super firm tofu
+- ½ cup [[https://nosweatvegan.com/vegan-bbq-sauce/#recipe][BBQ sauce]] plus more for serving
+
+** Method:
+1. Preheat the oven to 400°F (or 200°C).
+2. Add all of the paste ingredients to a bowl and mix to combine.
+3. Break the tofu into chunks over the bowl.
+4. Gently fold the tofu chunks with the paste until the tofu is fully coated.
+5. Transfer the tofu to a lined baking dish and bake for 30 minutes.
+6. Remove the tofu from the oven.
+7. In a separate bowl, toss the tofu chunks with the BBQ sauce.
+8. Use tongs to return the tofu to the baking sheet.
+9. Bake the tofu for another 5 to 10 minutes.
+10. Serve and enjoy right away!
+** Tags:
+IsVegan
+** Credits:
+- From https://nosweatvegan.com/baked-bbq-tofu/#recipe
+- date created: [2024-07-13 Sat]
+- <2024-07-12 Fri> Had for dinner with Mark Messner, who regularly makes this at home.
