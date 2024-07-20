@@ -29,6 +29,9 @@
 *** Mix dry ingredients
 1. Whisk flour, sugar, lemon zest, baking powder and salt together in a large bowl.
 2. Grate the frozen butter using a box grater.
+   #+begin_tip
+   Grating two sticks halfway each avoids bruising your fingers!
+   #+end_tip
 3. Add it to the flour mixture and combine with a pastry cutter, two forks, or your fingers until the mixture comes together in pea-sized crumbs.
 *** Mix wet ingredients
 1. Whisk ½ cup heavy cream, the egg and vanilla extract together in a small bowl.
