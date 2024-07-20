@@ -2,10 +2,10 @@
 * Lemon Blueberry Scones
 ** Ingredients:
 *** Single Recipe
-- 1 cup (125g) all-purpose flour (spoon & leveled), plus more for hands and work surface
+- 1 cup (125g) all-purpose flour (spooned and leveled), plus more for hands and work surface
 - 3 Tablespoons (37.5g) granulated sugar
 - ½ Tablespoon fresh lemon zest (about ½ lemon)
-- 1 and ¼ teaspoons baking powder
+- 1¼ teaspoons baking powder
 - ¼ teaspoon salt
 - ¼ cup (½ stick; 57.5g) unsalted butter, frozen
 - ¼ cup (60ml) heavy cream (plus 1 Tbsp for brushing)
@@ -14,10 +14,10 @@
 - ½ heaping cup (90g) fresh or frozen blueberries (do not thaw)
 - for topping: coarse sugar
 *** Double Recipe
-- 2 cups (250g) all-purpose flour (spoon & leveled), plus more for hands and work surface
+- 2 cups (250g) all-purpose flour (spooned and leveled), plus more for hands and work surface
 - 6 Tablespoons (75g) granulated sugar
 - 1 Tablespoon fresh lemon zest (about 1 lemon)
-- 2 and ½ teaspoons baking powder
+- 2½ teaspoons baking powder
 - ½ teaspoon salt
 - ½ cup (1 stick; 115g) unsalted butter, frozen
 - ½ cup (120ml) heavy cream (plus 2 Tbsp for brushing)
@@ -27,11 +27,11 @@
 - for topping: coarse sugar
 ** Method:
 *** Mix dry ingredients
-1. Whisk flour, sugar, lemon zest, baking powder, and salt together in a large bowl.
+1. Whisk flour, sugar, lemon zest, baking powder and salt together in a large bowl.
 2. Grate the frozen butter using a box grater.
 3. Add it to the flour mixture and combine with a pastry cutter, two forks, or your fingers until the mixture comes together in pea-sized crumbs.
 *** Mix wet ingredients
-1. Whisk ½ cup heavy cream, the egg, and vanilla extract together in a small bowl.
+1. Whisk ½ cup heavy cream, the egg and vanilla extract together in a small bowl.
 2. Drizzle over the flour mixture, add the blueberries, then mix together until everything appears moistened.
 *** Form scones
 1. Pour onto the counter and, with floured hands, work dough into a ball as best you can.
@@ -45,12 +45,12 @@
 3. After refrigerating, arrange scones 2-3 inches apart on the prepared baking sheet(s).
 4. Bake for 22-25 minutes or until golden brown around the edges and lightly browned on top.
 5. Remove from the oven and cool for a few minutes before topping with lemon icing.
-*** Make the icing (/optional/)
+*** Make the icing (optional)
 1. Whisk 1 cup (120g) confectioners’ sugar and 3 Tablespoons fresh lemon juice (about 1 large lemon) together.
 2. Drizzle over warm scones.
 #+begin_tip
-#+end_tip
 Leftover iced or un-iced scones keep well at room temperature for 2 days or in the refrigerator for 5 days.
+#+end_tip
 ** Tags
 Favorite
 ** Credits:
