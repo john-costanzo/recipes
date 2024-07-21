@@ -1,0 +1,34 @@
+#+STARTUP: showeverything
+* Roasted Ratatouille
+** Ingredients:
+- 12 ounces eggplant, (about 1), chopped into 1-inch pieces, see notes above re quantities
+- 1¼ pounds tomatoes, chopped into 1-inch pieces
+- 12 ounces zucchini (about 2), chopped into 1-inch pieces
+- 2 red bell (or other) peppers, seeded and coarsely chopped
+- 1 yellow or white onion, chopped
+- 1 shallot, thinly sliced
+- 4 cloves garlic, minced
+- ¼ to ½ cups olive oil, see notes above
+- 2 to 4 tablespoons white balsamic vinegar
+- 2 teaspoons chopped fresh thyme, optional
+- 1 teaspoon kosher salt plus more to taste
+- Freshly cracked pepper to taste
+
+** Method:
+1. Preheat the oven to 400° F.
+2. In a large roasting pan or casserole, combine the tomatoes, eggplant, zucchini, peppers, onion, shallot, and garlic.
+   #+begin_note
+   I add the vegetables to the pan as I finish chopping them, and sprinkle each layer of vegetables lightly with salt.
+   #+end_note
+3. In a small bowl or measuring cup, whisk together the olive oil, vinegar, thyme, and 1 teaspoon kosher salt.
+4. Pour over the vegetables.
+5. Toss to coat.
+6. Season with pepper. (Alternatively: If you’ve seasoned each layer of vegetables generously with salt, simply pour the olive oil and vinegar over the vegetables. As noted above, I omit the thyme.)
+7. Bake for 30 minutes, then stir well.
+8. Bake for another 30 to 45 minutes (or longer, especially if you’ve increased the quantities: if my roasting pan is really loaded, I roast the vegetables for 3 hours, stirring once every hour, until the juices really begin to reduce/thicken) until the vegetables are all very tender and the released juices are beginning to thicken.
+9. Taste and adjust seasoning with more salt and pepper as desired.
+10. To serve, spoon over toast or toss with cooked pasta, grated parmesan, finely chopped basil and enough of the reserved pasta cooking liquid to make a nice sauce.
+
+** Credits:
+- From https://alexandracooks.com/2017/09/01/roasted-ratatouille-pasta/
+- date created: [2024-07-21 Sun]
