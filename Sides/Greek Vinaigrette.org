@@ -1,0 +1,15 @@
+#+STARTUP: showeverything
+* Greek Vinaigrette
+** Ingredients:
+- ½ cup olive oil
+- ½ cup red wine vinegar
+- 2 tbsp lemon juice
+- 4 cloves garlic, minced
+- 1 tbsp dry oregano
+- 1 tsp salt
+- ½ tsp black pepper
+- 1 tsp sugar
+** Method:
+1. Mix all ingredients and serve.
+** Credits:
+- date created: [2024-07-23 Tue]
