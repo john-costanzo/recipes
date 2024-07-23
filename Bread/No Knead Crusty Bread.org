@@ -2,7 +2,7 @@
 * No-knead Crusty Bread
 
 ** Ingredients:
-- 3  cups (360 grams) unbleached all-purpose flour
+-  3 cups (360 grams) unbleached all-purpose flour
 - 1¾ teaspoons salt
 -  ½ teaspoon yeast
 - 1½ cups (355 grams) water
@@ -12,8 +12,8 @@
 2. Add water and mix until a shaggy mixture forms.
 3. Cover bowl with plastic wrap and set aside for 12 - 18 hours.
    Overnight works great.
-4. Heat oven to 450 degrees.
-5. When the oven has reached 450 degrees place a cast iron pot with a lid in the oven and heat the pot for 30 minutes.
+4. Heat oven to 450° .
+5. When the oven has reached 450°, place a cast iron pot with a lid in the oven and heat the pot for 30 minutes.
 6. [optional] Meanwhile, pour dough onto a floured parchment paper and shape into a ball. Cover with plastic wrap and let set while the pot is heating.
 7. Remove hot pot from the oven and use parchment paper to drop in the dough.
 8. Cover and return to oven for 30 minutes.
@@ -21,4 +21,4 @@
 10. Remove bread from oven and cool on a rack.
 
 ** Credits:
-http://www.simplysogood.com/2013/03/artisan-no-knead-bread.html
+https://www.simplysogood.com/artisan-no-knead-bread/
