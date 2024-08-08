@@ -1,18 +1,18 @@
 #+STARTUP: showeverything
 * Oatmeal Chocolate Monsters
 ** Ingredients:
-- 1 cup butter
-- 1 cup sugar
-- 1 cup brown sugar
+- 1 cup (227g) butter
+- 1 cup (200g) sugar
+- 1 cup (220g) brown sugar
 - 2 eggs
 - 1 teaspoon vanilla
-- 2 cups flour
-- 2 ½ cups rolled oats
+- 2 cups (240g) flour
+- 2½ cups (225g) rolled oats
 - 1 teaspoon baking powder
 - 1 teaspoon baking soda
-- 12 ounces chocolate chips
-- 1 ½ cups chopped nuts (/optional but highly recommended/)
-- 4 ounces grated chocolate (/optional/)
+- 12 ounces (340g) chocolate chips
+- 1½ cups (175g) chopped nuts (/optional but highly recommended/)
+- 4 ounces (113g) grated chocolate (/optional/)
 ** Method:
 1. Preheat oven to 375°F.
 2. In a large bowl, cream together the butter and sugars.
