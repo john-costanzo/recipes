@@ -1,0 +1,47 @@
+#+STARTUP: showeverything
+* Fresh Peach Crumb Bars
+** Ingredients:
+*** For the crust:
+- 1 cup granulated sugar (222g)
+- 3 cups all-purpose flour (378g)
+- 1 teaspoon baking powder
+- ½ teaspoon salt
+- ¼ teaspoon ground cinnamon
+- 1 cup unsalted butter cold, cut into cubes (8oz or 226g)
+- 1 large egg lightly beaten
+*** For the peach layer:
+- ½ cup granulated sugar (110g)
+- 1 tablespoon cornstarch
+- ¼ teaspoon ground cinnamon
+- 5 large peaches, peeled and diced (about 4 to 5 cups)
+- 1 teaspoon fresh lemon juice
+*** For the icing: (optional)
+- 1 cup powdered sugar (115g)
+- ¼ teaspoon almond extract
+- 1 tablespoon milk (more or less for desired consistency)
+** Method:
+1. Preheat oven to 350°F if using a glass pan or dark metal pan, or 375°F for a light metal pan.
+2. Lightly grease or spray a 13x9-inch baking pan and set aside.
+*** For the crust:
+1. In a medium bowl whisk together 1 cup of sugar, 3 cups flour, baking powder, salt and cinnamon.
+2. Using a pastry cutter, blend in the butter until the mixture resembles coarse sand.
+3. Add the lightly beaten egg and mix until the dough starts to hold together, but is still crumbly.
+4. Gently press a little more than half the dough into the prepared pan.
+#+begin_note
+You could also process the sugar, flour, baking powder, salt and cinnamon in the bowl of a food processor. Add the butter and process until the mixture resembles coarse sand. Add the egg and pulse until the dough starts to hold together.
+#+end_note
+*** For the peach mixture:
+1. In a large mixing bowl whisk together the sugar, cornstarch and cinnamon.
+2. Add the diced peaches and toss to combine.
+3. Drizzle the lemon juice over the peaches and toss to coat.
+4. Pour the peach mixture over the crust and spread evenly.
+5. Using your hands, press together handfuls of the remaining crumb topping to create clumps.
+6. Scatter the clumps and remaining crumbled topping over the fruit layer leaving some peaches showing through.
+7. If using a glass pan, bake at 350°F degrees for 50-55 minutes or until lightly browned; if using a metal pan, bake at 375°F degrees for 40-45 minutes.
+8. Cool completely then chill before cutting and icing.
+*** To prepare the icing:
+1. Whisk together the powdered sugar, almond extract and milk.
+2. Drizzle on the bars just before serving.
+** Credits:
+- From https://www.savingdessert.com/wprm_print/fresh-peach-crumb-bars
+- date created: [2024-09-02 Mon]
