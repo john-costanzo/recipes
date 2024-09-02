@@ -2,11 +2,12 @@
 #+STARTUP: showeverything
 * Notes on Sourdough Starter
 - Container weights (empty):
-    + Mari's ice cream container (without the top) weighs 97g empty.
-    + Chinese food soup quart container weighs something like 36g.
+    + Mari's ice cream container (without the top) weighs 93g empty.
+    + Chinese food soup quart container weighs something like 28-36g.
     + Deep red-top squarish bucket = 107g
     + Big Green Bowl = 114g
-- 1 cup sourdough starter (unfed/discard) == 241g
+    + Stainless steel mixing bowl = 778g
+- 1 cup sourdough starter (unfed/discard) = 241g
 - To refresh the starter:
     + Combine equal parts (by weight) of starter, flour and filtered water.
     + Let sit on counter for 2 hours and return to refrigerator.
