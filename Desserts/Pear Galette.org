@@ -1,0 +1,40 @@
+#+STARTUP: showeverything
+* Pear Galette
+** Ingredients:
+- 2 tablespoons packed brown sugar
+- 1 tablespoon cornstarch
+- ½ teaspoon ground cinnamon
+- ⅛ teaspoon salt
+- 1 tablespoon lemon juice
+- 4 medium pears, peeled, cored and sliced
+- 1 pie crust dough
+- 1 tablespoon butter
+- 1 large egg
+- 1 tablespoon water
+- 2 teaspoons granulated sugar
+** Method:
+1. Set the oven to 400° F.
+2. Lay your pie crust dough on a piece of parchment paper and use a rolling pin to roll it into a 12” diameter circle.
+3. Transfer the parchment paper with the dough circle onto a rimmed baking sheet.
+4. In a large mixing bowl, add the brown sugar, cornstarch, cinnamon, and salt and stir to combine.
+5. Add the lemon juice and stir until well mixed.
+6. Add the sliced pears and stir until they are coated in the brown sugar mixture.
+7. Arrange the pears on top of the pie crust dough, leaving a 2-inch border around the outside.
+   #+begin_tip
+   I overlapped the slices in a circle around the outside and then filled in the center with a few sliced before adding another circle on top, overlapping the original circle about halfway in.
+   Then I did a third circle overlapping that and arranged the final pieces in the center.
+   You can take this concentric circle approach or just spoon the pears into the center of the dough and then spread them out evenly.
+   #+end_tip
+8. Fold the outside edge of the pie crust dough up and over the edges of the filling.
+9. Drop little bits of the butter over top of the pear filling.
+10. Crack the egg into a small dish and add the tablespoon of water.
+11. Use a fork to beat them together until combined into an egg wash.
+12. Use a pastry brush to paint the egg wash over the folded crust dough (you will not use anywhere near all of it, just discard whatever remains).
+13. Sprinkle the two teaspoons of sugar all over the egg washed crust and the pears in the center of the galette.
+14. Place the baking sheet in the heated oven and bake for 35-40 minutes until the crust is golden and the pears are hot and bubbly.
+15. Transfer the parchment with the galette onto a cooling rack and let it cool for at least 20 minutes before slicing.
+
+** Credits:
+- From https://emilybites.com/2023/11/easy-pear-galette.html
+- date created: [2024-10-26 Sat]
+- [2024-10-21 Mon] I made this for T. It was good, but the pear filling could really use a boost of ginger. Apples should also be delicious!
