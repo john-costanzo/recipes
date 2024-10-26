@@ -1,0 +1,44 @@
+#+STARTUP: showeverything
+* Extra Flaky Pie Crust (New York Times)
+** Ingredients (single crust):
+- 1¼ cups (150 grams) unbleached all-purpose flour
+- ½ tablespoon granulated sugar
+- ½ teaspoon baking powder, preferably aluminum-free
+- ½ teaspoon fine sea salt
+- ¼ cup (60 milliliters) ice water
+- ½ tablespoon cider vinegar
+- ½ cup (112.5 grams) cold unsalted butter (1 stick), cut into 1-inch cubes
+** Ingredients (two crusts):
+- 2½ cups (300 grams) unbleached all-purpose flour
+- 1 tablespoon granulated sugar
+- 1 teaspoon baking powder, preferably aluminum-free
+- 1 teaspoon fine sea salt
+- ½ cup (120 milliliters) ice water
+- 1 tablespoon cider vinegar
+- 1 cup (225 grams) cold unsalted butter (2 sticks), cut into 1-inch cubes
+
+** Method:
+1. In a medium bowl, whisk together the flour, sugar, baking powder and salt; set aside.
+2. In a measuring cup or a small bowl, combine the water and vinegar; set aside.
+3. Gently toss the butter in the flour mixture until coated, then use a pastry blender to cut the butter into the flour. (You should have pieces of butter that range from sandy patches to pea-size chunks, with some larger bits as well.)
+4. Drizzle in about half of the ice water mixture and stir lightly with a fork until the flour is evenly moistened and the dough starts to come together.
+   #+begin_tip
+   If the dough seems dry, add a little more ice water, 1 to 2 tablespoons at a time. The dough will still look a bit shaggy at this point. If you grab a small piece of dough and press it slightly with your hand, it should mostly hold together.
+   #+end_tip
+6. Dump the dough out onto an unfloured work surface and gather it together into a tight mound.
+7. Using the heel of your hand, smear the dough a little at a time, pushing it away from you and working your way down the mass of dough to create flat layers of flour and butter.
+8. Gather the dough back together with a bench scraper, layering the clumps of dough on top of one another.
+9. Repeat the process once or twice more; the dough should still have some big pieces of butter visible.
+10. Cut the dough in half.
+11. Shape each piece into a disk and flatten it.
+12. Wrap the disks in plastic and put in the refrigerator for at least 1 hour, or overnight, to rest.
+    #+begin_note
+    The dough can be stored for 3 days in the refrigerator or up to 1 month in the freezer.
+    If making the dough in advance to freeze: Roll out the dough on a piece of parchment paper, then carefully roll it up in the parchment. Write the date on the parchment and pop into the freezer to firm up, about 30 minutes. Then wrap the crust securely in plastic wrap. Defrost the dough in the refrigerator overnight or thaw it on the kitchen counter for about 30 minutes before using.
+    #+end_note
+
+** Credits:
+- From https://cooking.nytimes.com/recipes/1021241-extra-flaky-pie-crust
+- date created: [2021-08-06 Fri]
+- [2021-08-04 Wed] Made for a peach pie for T Matt, Jill, Greg and Mary Ann. Per the recipe’s comments, I used a food processor for steps 3 and 4 and probably overworked the dough since it wasn’t terribly flaky. But it was easy to work with. Next time, pulse much, much less.
+- [2024-10-21 Mon] Made these two crusts: one for a pear galette and another for a quiche. Used the food probably but was more careful not to over-process. Tasty and flaky!
