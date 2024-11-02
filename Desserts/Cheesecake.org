@@ -1,0 +1,33 @@
+#+STARTUP: showeverything
+* Cheesecake
+** Ingredients:
+*** Filling
+- 4  8oz. blocks of cream cheese (held at room temperature for at least 2 hours)
+- 4 eggs (at room temperature)
+- 1 c. sour cream
+- 1⅓ c sugar
+- ⅓ c. heavy cream
+- 1 Tablespoon vanilla
+*** Crust
+- ⅓ package of graham crackers, crushed
+- ¼ c. sugar
+- 4 Tablespoon butter, melted
+** Method:
+1. Wrap  a 9- or 10-inch springform pan with one large piece of heavy-duty aluminum foil, covering the underside of the pan and extending all the way to the top.
+2. Repeat with another sheet of foil for insurance.
+3. Spray the inside of the pan with nonstick cooking spray.
+4. In a medium bowl, combine the graham cracker crumbs, sugar and melted butter and stir until well combined.
+5. Press the crumbs into an even layer on the bottom of the prepared pan.
+6. Beat cream cheese and sugar until smooth.
+7. Add eggs one at a time until mixed.
+8. Mix in sour cream, heavy cream and vanilla.
+9. Pour into crust.
+10. Insert into hot water bath.
+11. Bake @ 300° for 2 hours.
+    #+begin_note
+    For ½ recipe, bake for 90 minutes.
+    #+end_note
+12. Chill overnight.
+** Credits:
+- From John Burke
+- date created: [2024-11-01 Fri]
