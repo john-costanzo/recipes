@@ -15,8 +15,8 @@
 - 1 tablespoon mix of sesame seeds, for topping
 ** Method:
 *** Burger Buns
-1. In a large bowl, add the flour, sugar, yeast, and salt. Whisk the ingredients together. 
-2. Create a well in the center of the flour. Slowly add the warm water and olive oil to the dry ingredients, and then mix together with a spatula until just incorporated. The dough should look shaggy. 
+1. In a large bowl, add the flour, sugar, yeast, and salt. Whisk the ingredients together.
+2. Create a well in the center of the flour. Slowly add the warm water and olive oil to the dry ingredients, and then mix together with a spatula until just incorporated. The dough should look shaggy.
 3. Flour a clean surface, and then pour/add the dough onto the surface. Flour your hands and fold the dough together. Knead the dough for about 8-10 minutes with your hands and knuckles. The dough might be sticky at first, but you can add up to ¼ cup flour while flouring and kneading to make it easier to manage. You want the end dough ball to be smooth, with slight dimples with a bit of tension formed.
 4. Lightly grease the ball of dough with some additional oil and place back into the bowl in a ball. Cover the bowl with a plastic wrap or a kitchen towel and let it sit for at least 1 hour on the counter in a warm area. If your kitchen is too cold, you can place it in your OFF oven with the pilot light on which will provide enough residual heat for it to rise. The dough should rise and double in size.
 5. Punch down the dough and fold over.
@@ -33,7 +33,7 @@
 If you don't want any sweetness, you can lower this to ½ teaspoon maple syrup/agave. You don't have to use all of the vegan egg wash, just as much as you desire for a golden brown top.
 #+end_tip
 ** Tags
-IsVegan
+IsVegan IsFavorite
 ** Credits:
 - From https://jessicainthekitchen.com/vegan-burger-buns-soft-and-fluffy/
 - date created: [2022-02-27 Sun]

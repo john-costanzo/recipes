@@ -32,7 +32,7 @@
 18. Repeat the process with the two remaining loaves. Cool the bread fully before slicing.
 19. /Storage information/: Wrap the bread loosely and store it at room temperature for up to several days; freeze for longer storage.
 
-Sample timelines:  
+Sample timelines:
 |------------+------------+---------------|
 | 7:00 a.m.  | 12:00 p.m. | Mix the dough |
 | 7:20 a.m.  | 12:20 p.m. | Bowl fold     |
@@ -43,9 +43,11 @@ Sample timelines:
 | 10:00 a.m. | 3:00 p.m.  | Divide        |
 | 12:00 noon | 5:00 p.m.  | Bake          |
 |------------+------------+---------------|
+** Tags:
+IsFavorite
 
 ** Credits:
 - From [[https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe]]
 - date created: [2022-02-01 Tue]
 - [2022-02-01 Tue] This recipe has crazy high hydration. But it gives good directions, including videos of how to do the folds, which really do strengthen the dough. The one issue is that the bake time is way too long: 15 minutes on a hot stone and then perhaps 5 more on a rack is all that is required. More than that and you get some pretty dark crust. The bread was light and crispy, with about as much flavor as you can expect from a same-day bread.
-- [2022-03-26 Sat] They really only need that first 15 minutes... 
+- [2022-03-26 Sat] They really only need that first 15 minutes...

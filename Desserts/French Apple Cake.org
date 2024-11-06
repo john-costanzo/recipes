@@ -31,6 +31,8 @@
     The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the counter top before serving.
 #+end_details
 
+** Tags:
+IsFavorite
 ** Credits:
 - From https://www.onceuponachef.com/recipes/french-apple-cake.html#tabrecipe
 - Servings: 6-8
@@ -38,4 +40,4 @@
 - Cook Time: 40 Minutes
 - Total Time: 1 Hour
 - date created: [2021-01-22 Fri]
-- [2021-01-24 Sun] Made a batch and a half in a 10” springform pan and needed to bake for an extra 5 minutes. Substituted bourbon for the rum and called it “French /Quarter/ Apple Cake”.  Brought to Greg and Mary Ann’s and shared with Matt and family. Seemed to go over well. 
+- [2021-01-24 Sun] Made a batch and a half in a 10” springform pan and needed to bake for an extra 5 minutes. Substituted bourbon for the rum and called it “French /Quarter/ Apple Cake”.  Brought to Greg and Mary Ann’s and shared with Matt and family. Seemed to go over well.
