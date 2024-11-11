@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Marsala Sauce
+** Ingredients:
+- 3 tablespoons olive oil
+- ¼ cup onion, diced
+- 1 tablespoon garlic, chopped
+- ½ pound mushrooms, sliced
+- 3 tablespoons flour
+- ½ cup Marsala wine
+- 1½ cups stock
+- Salt and pepper, to taste
+** Method:
+1. Add olive oil to heavy hot saucepan.
+2. Add onions, garlic, mushrooms, sauté until mushrooms are tender.
+3. Add flour and cook about 1 minute then deglaze pan with Marsala wine.
+4. Add stock and cook until thick and flavors are blended.
+   #+begin_tip
+   Optionally add heavy cream.
+   #+end_tip
+** Yield:
+4 servings
+** Credits:
+- From https://www.foodnetwork.com/recipes/marsala-sauce-recipe-1908545
+- date created: [2007-12-31 Mon]
