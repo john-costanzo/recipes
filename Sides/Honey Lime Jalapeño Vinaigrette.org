@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+* Honey Lime Jalapeño Vinaigrette
+** Ingredients:
+- 2 tablespoons lime juice
+- 2 tablespoons apple cider vinegar
+- 2 tablespoons honey
+- ¼ cup light flavored olive oil
+- ¼ teaspoon kosher salt
+- 2-4 small jalapeño peppers halved with stem and seeds removed
+** Method:
+1. Combine 2 jalapeño peppers, lime juice, vinegar, honey, oil, and salt in the blender.
+2. Puree until mostly smooth.
+3. Taste and add more jalapeños according to however much heat you like.
+4. Pour into a jar and refrigerate until needed.
+5. Shake well before drizzling over your favorite salad.
+#+begin_note
+Start with just 1-2 peppers and taste the dressing before adding any additional peppers. (My peppers were very mild, so I was able to use 4 peppers in the dressing without making it too spicy.)
+#+end_note
+
+#+begin_note
+Keep in mind that the heat will increase as the flavors chill together in the refrigerator. If you are making the dressing a day or two in advance, it will likely grow hotter over time.
+#+end_note
+** Credits:
+- From https://barefeetinthekitchen.com/jalapeno-vinaigrette-recipe/#wprm-recipe-container-21193
+- date created: [2024-12-06 Fri]
