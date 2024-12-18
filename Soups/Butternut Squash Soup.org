@@ -1,26 +1,38 @@
 #+STARTUP: showeverything
 * Butternut Squash Soup
-
 ** Ingredients:
-- 3 lbs butternut squash
-- 7 Tbsp butter
-- 2 leeks - thinly sliced (onions will do in a pinch!)
-- 1 qt vegetable stock
-- ¼ tsp nutmeg
-- ½ cup peas (frozen or fresh)
-- 8 cups fresh spinach (approx. ½ lbs = 10 oz. bag)
-- 1¼ cup light cream
-- salt and pepper to taste
+- 1 medium butternut squash (about 2½ pounds)
+- 2 Tbsp unsalted butter
+- 1 medium onion, chopped
+- 2½ cups vegetable stock
+- 1 tsp salt
+- freshly ground white pepper
+- ½ - ¾ cup whole milk
+- 12 whole fresh sage leaves
+- 6 Tbsp freshly grated Parmigiano-Reggiano cheese
 
 ** Method:
-1. Slice squash length-wise in half. Place in microwave-proof pan with a small amount of water and microwave on high until flesh is tender (perhaps 20 minutes, depending on microwave).
-2. Wash and drain spinach, trim stems, chop and set aside.
-3. When squash is cool enough to handle, scoop out.
-4. Melt butter in a stock pot and add leeks. Saute until soft. Add stock, squash, nutmeg, salt and pepper. Bring to a boil. 
-5. Puree soup in a food processor.
-6. Return to pot and add spinach and peas. Simmer until spinach is slightly tender.
-7. Stir in cream, heat and serve.
-
+1. Halve the squash and scoop out and discard the seeds and stringy pulp.
+2. Use a large knife to cut away and discard the tough skin.
+3. Cut the flesh into ½-inch chunks.
+4. There should be about 6 cups.
+5. Set aside.
+6. Heat the butter in a medium pot or soup kettle.
+7. Add the onion and sauté over medium heat until golden, about 6 minutes.
+8. Add the squash and cook, stirring often, for 2 minutes more.
+9. Add the stock or water, salt and white pepper to taste.
+10. Bring to a boil.
+11. Lower the heat, cover and simmer until the squash is tender, about 15 minutes.
+12. Transfer the squash mixture to a blender.
+13. And ½ cup milk and purée, working in batches.
+14. Add more milk if necessary to thin the soup.
+15. Adjust the seasonings.
+    #+begin_tip
+    The soup can be refrigerated for 3 days and reheated just before serving.
+    #+end_tip
+16. If necessary, transfer the soup to the pot and reheat.
+17. Ladle the soup into warm bowls and garnish each bowl with 2 whole sage leaves.
+18. Sprinkle 1 tablespoon cheese over each bowl and serve immediately.
 ** Credits:
-- [Served Easter weekend, April 2004 at Tracey and John's]
+- From /The Complete Italian Vegetarian Cookbook,/ by Jack Bishop; page, 56. Serves 6.
 - date created: [2007-06-27 Wed]
