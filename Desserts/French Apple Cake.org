@@ -13,23 +13,31 @@
 - Confectioners' sugar (optional), for decorating cake
 ** Method:
 1. Preheat the oven to 350°F and set an oven rack in the middle position.
-2. Grease a 9-inch springform or regular cake pan with butter or nonstick cooking spray. If using a regular cake pan, line the bottom of the pan with parchment paper and grease again.
+2. Grease a 9-inch springform or regular cake pan with butter or nonstick cooking spray.
+   #+begin_tip
+   If using a regular cake pan, line the bottom of the pan with parchment paper and grease again.
+   #+end_tip
 3. In a small bowl, whisk together the flour, baking powder and salt.
 4. Using a handheld mixer with beaters or a stand mixer with the paddle attachment, cream the butter and granulated sugar until light and fluffy, about 3 minutes.
-5. Add the eggs, one at a time, beating well and scraping down the sides of the bowl after each addition. Beat in the vanilla and rum. Don't worry if the batter looks grainy at this point; that's okay. Add the flour mixture and mix on low speed until just combined.
-6. Using a rubber spatula, fold in the chopped apples.
-7. Scrape the batter into the prepared pan and even the top.
-8. Sprinkle evenly with 1 tablespoon of granulated sugar.
-9. Bake for about 40 minutes, or until the cake is golden and a toothpick inserted into the center comes out clean.
-   #+begin_tip
-   /Consider placing springform pan on a cookie sheet in case it leaks./
-   #+end_tip
-10. Allow the cake to cool on a rack in the pan.
-11. Once cool, run a blunt knife around the edges of the cake. If using a springform pan, remove the sides. If using a regular cake pan, carefully invert the cake onto the rack, remove the parchment paper, then gently flip the cake over and place right-side-up on a platter. Using a fine sieve, dust with confectioners' sugar (if using).
-12. Cake can be served warm or room temperature, plain or with lightly sweetened whipped cream or vanilla ice cream.
-#+begin_details Freezer Friendly Instructions :title-color "green"
-    The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the counter top before serving.
-#+end_details
+5. Add the eggs, one at a time, beating well and scraping down the sides of the bowl after each addition.
+6. Beat in the vanilla and rum.
+   #+begin_note
+   Don't worry if the batter looks grainy at this point; that's okay.
+   #+end_note
+8. Add the flour mixture and mix on low speed until just combined.
+9. Using a rubber spatula, fold in the chopped apples.
+10. Scrape the batter into the prepared pan and even the top.
+11. Sprinkle evenly with 1 tablespoon of granulated sugar.
+12. Bake for about 40 minutes, or until the cake is golden and a toothpick inserted into the center comes out clean.
+    #+begin_tip
+    /Consider placing springform pan on a cookie sheet in case it leaks./
+    #+end_tip
+13. Allow the cake to cool on a rack in the pan.
+14. Once cool, run a blunt knife around the edges of the cake. If using a springform pan, remove the sides. If using a regular cake pan, carefully invert the cake onto the rack, remove the parchment paper, then gently flip the cake over and place right-side-up on a platter. Using a fine sieve, dust with confectioners' sugar (if using).
+15. Cake can be served warm or room temperature, plain or with lightly sweetened whipped cream or vanilla ice cream.
+    #+begin_details Freezer Friendly Instructions :title-color "green"
+        The cake can be frozen for up to 3 months. After it is completely cooled, cover it tightly with aluminum foil or freezer wrap. Thaw overnight on the counter top before serving.
+    #+end_details
 
 ** Tags:
 IsFavorite
