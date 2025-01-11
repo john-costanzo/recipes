@@ -1,7 +1,6 @@
 #+STARTUP: showeverything
 * Lemon Blueberry Scones
 ** Ingredients:
-*** Single Recipe
 - 1 cup (125g) all-purpose flour (spooned and leveled), plus more for hands and work surface
 - 3 Tablespoons (37.5g) granulated sugar
 - ½ Tablespoon fresh lemon zest (about ½ lemon)
@@ -12,18 +11,6 @@
 - ½ large egg
 - ¾ teaspoons pure vanilla extract
 - ½ heaping cup (90g) fresh or frozen blueberries (do not thaw)
-- for topping: coarse sugar
-*** Double Recipe
-- 2 cups (250g) all-purpose flour (spooned and leveled), plus more for hands and work surface
-- 6 Tablespoons (75g) granulated sugar
-- 1 Tablespoon fresh lemon zest (about 1 lemon)
-- 2½ teaspoons baking powder
-- ½ teaspoon salt
-- ½ cup (1 stick; 115g) unsalted butter, frozen
-- ½ cup (120ml) heavy cream (plus 2 Tbsp for brushing)
-- 1 large egg
-- 1½ teaspoons pure vanilla extract
-- 1 heaping cup (180g) fresh or frozen blueberries (do not thaw)
 - for topping: coarse sugar
 ** Method:
 *** Mix dry ingredients
