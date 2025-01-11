@@ -2,30 +2,17 @@
 #+STARTUP: showeverything
 * Pancakes and Waffles, Sourdough
 ** Ingredients:
-*** Single Recipe
-**** Overnight Sponge
+*** Overnight Sponge
 - ½ cup (120g) sourdough starter, unfed/discard
 - 1 cups (120g) King Arthur Unbleached All-Purpose Flour
 - 1 tablespoon (14g) sugar
 - 1 cup (227g) buttermilk
-**** Pancake Or Waffle Batter
+*** Pancake Or Waffle Batter
 - all of the overnight sponge
 - 1 large egg
 - ⅛ cup (25g) vegetable oil or melted butter
 - ⅜ teaspoon salt
 - ½ teaspoon baking soda
-*** Double Recipe
-**** Overnight Sponge 
-- 1 cup (240g) sourdough starter, unfed/discard
-- 2 cups (240g) King Arthur Unbleached All-Purpose Flour
-- 2 tablespoons (28g) sugar
-- 2 cups (454g) buttermilk
-**** Pancake Or Waffle Batter
-- all of the overnight sponge
-- 2 large eggs
-- ¼ cup (50g) vegetable oil or melted butter
-- ¾ teaspoon salt
-- 1 teaspoon baking soda
 ** Method:
 1. To make the overnight sponge, stir down your refrigerated starter, and remove this amount your need. Note: This is a good opportunity to feed the remainder, if necessary.
 2. In a large mixing bowl, stir together the unfed starter, flour, sugar, and buttermilk.

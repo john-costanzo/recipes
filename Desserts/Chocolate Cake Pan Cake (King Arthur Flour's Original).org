@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Chocolate Cake Pan Cake (King Arthur Flour's Original)
 ** Ingredients:
-*** Cake (sourdough-based, single recipe)
+*** Cake (sourdough-based)
 - ¾ cup (88.5g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
 - 1 cup (198g) sugar
 - ¼ cup (21g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
@@ -13,31 +13,7 @@
 - 1 tablespoon (14g) vinegar, cider or white
 - ⅓ cup (67g) vegetable oil
 - ½ cup (113.5g) cold water
-*** Cake (sourdough-based, double recipe)
-- 1½ cup (177g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
-- 2 cup (396g) sugar
-- ½ cup (42g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
-- 1 teaspoon salt
-- 1 teaspoon espresso powder, optional
-- 2 teaspoons baking soda
-- 2 cup (~848g) sourdough starter
-- 2 teaspoon vanilla extract, gluten-free if necessary
-- 2 tablespoon (28g) vinegar, cider or white
-- ⅔ cup (134g) vegetable oil
-- 1 cup (227g) cold water
-*** Cake (sourdough-based, one-and-a-half recipe)
-- 1⅛ cup (133g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
-- 1½ cup (297g) sugar
-- ⅜ cup (31.5g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
-- ¾ teaspoon salt
-- ¾ teaspoon espresso powder, optional
-- 1½ teaspoon baking soda
-- 1½ cup (~363g) sourdough starter
-- 1½ teaspoon vanilla extract, gluten-free if necessary
-- 1½ tablespoon (21g) vinegar, cider or white
-- ½ cup (100g) vegetable oil
-- ¾ cup (170g) cold water
-*** Cake (normal)
+*** Cake (original recipe)
 - 1½ cups (177g) King Arthur Unbleached All-Purpose Flour or Gluten-Free Measure for Measure Flour
 - 1 cup (198g) sugar
 - ¼ cup (21g) Dutch-process cocoa, natural cocoa, or Triple Cocoa Blend
