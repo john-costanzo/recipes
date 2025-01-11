@@ -1,0 +1,37 @@
+#+STARTUP: showeverything
+* Easy Everyday Sourdough Bread
+** Ingredients:
+- 4 cups plus 3 tablespoons (500g) King Arthur Unbleached Bread Flour
+- 1 cup plus 1 tablespoon (120g) King Arthur Golden Wheat Flour or King Arthur Organic Medium Rye Flour, or a combination*
+- 1¾ teaspoons table salt
+- ¼ cup (60g) sourdough starter, fed or unfed
+- 2 scant cups (450g) water, lukewarm
+- sesame seeds, optional
+** Method:
+1. In a large bowl, stir together the flours and salt.
+2. Add the starter to the flours. (A level muffin scoop (about ¼ cup) is just the right amount.)
+3. Add the lukewarm water; warmer water will shorten the rise a bit while cooler water will lengthen the rise time.
+4. Use a spatula, sturdy spoon, or dough whisk to mix everything together.
+5. Once the sticky dough comes together and no floury spots remain, switch to a bowl scraper and give the dough a few more brisk turns, mixing until everything is totally combined.
+   #+begin_tip
+   If you want to use a stand mixer, mix with the flat beater on medium-low speed for 45 to 60 seconds.
+   #+end_tip
+6. Cover the bowl and let the dough rest until it puffs noticeably and nearly doubles in size; overnight is your best bet.
+7. Lightly grease a 9” x 4” x 4” loaf pan. If desired, coat the inside with sesame seeds for extra flavor and crunch.
+8. Using a bowl scraper, move the dough to the center of the bowl, gently deflating it in the process.
+9. Continue to scrape the dough into the center of the bowl for an additional 20 seconds or so, until it comes together in a jiggly, semi-elastic mass, something you can easily scrape over the edge of the bowl into the prepared pan.
+10. Scrape the sticky dough into the prepared pan and smooth the top with wet fingers.
+11. Tent the pan with your favorite reusable cover and let the loaf rise until it’s within about 1" of the rim of the pan.
+12. This will take about 3 to 5 hours, depending on your room temperature.
+13. About a half hour before the dough is ready to bake, preheat the oven to 425°F with a rack in the center.
+14. Uncover the risen loaf and place the pan in the oven.
+15. Bake the bread for 45 to 55 minutes; it should have a pale brown, crisp top, and should pull away from the edges of the pan when done.
+    #+begin_note
+    Its internal temperature will read about 204°F when measured with a digital thermometer.
+    #+end_note
+17. Remove the loaf from the oven and turn it out of the pan onto a rack to cool completely before slicing.
+18. Store the bread, well wrapped, at room temperature for 4 to 5 days; freeze for longer storage.
+
+** Credits:
+- From https://www.kingarthurbaking.com/recipes/easy-everyday-sourdough-bread-recipe
+- date created: [2025-01-11 Sat]
