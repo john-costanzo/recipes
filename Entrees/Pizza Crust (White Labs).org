@@ -2,8 +2,7 @@
 * Pizza Crust (White Labs)
 ** Ingredients:
 - 350g water
-- 75g [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Bread_Poolish
-][Poolish]]
+- 75g [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Bread_Poolish][Poolish]]
 - 20g White Lab liquid yeast /or/ 7g dry yeast
 - 525g 00 flour
 - 90g whole wheat or spelt flour
