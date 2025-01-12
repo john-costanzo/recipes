@@ -13,44 +13,41 @@ I hope you'll experiment with the amount of sugar you like.
 
 Serve these muffins with butter and honey -- or not.
 
-
 ** Ingredients:
-- 1 	cup whole-wheat pastry flour
-- 1 	cup unbleached all-purpose flour
-- ¼ 	cup sugar (or less; see Note)
-- 1 	tsp. baking powder
-- ½ 	tsp. baking soda
-- ½ 	tsp. salt
-- 2 	large eggs
-- ½ 	cup low-fat buttermilk
-- ¼ 	cup canola oil
-- 1 	cup ripe bananas, mashed
-- 1 	cup frozen blueberries
-- ½ 	cup chopped and toasted nuts, such as hazelnuts (optional)
+- 1 cup whole-wheat pastry flour
+- 1 cup unbleached all-purpose flour
+- ¼ cup sugar (or less; see Note)
+- 1 tsp. baking powder
+- ½ tsp. baking soda
+- ½ tsp. salt
+- 2 large eggs
+- ½ cup low-fat buttermilk
+- ¼ cup canola oil
+- 1 cup ripe bananas, mashed
+- 1 cup frozen blueberries
+- ½ cup chopped and toasted nuts, such as hazelnuts (optional)
 
 ** Method:
-1. Preheat the oven to 350 degrees. Line a 12-muffin pan with paper
-   baking cups.
-2. Combine the flours, sugar, baking powder, baking soda, and salt in
-   a large mixing bowl.
-3. Whisk together the eggs, buttermilk, and oil in a 4-cup glass
-   measuring cup with a pour spout or a medium bowl. Stir in the
-   mashed bananas.
-4. Pour the wet ingredients into the dry ingredients and, using a
-   rubber spatula, stir just until blended. Fold in the blueberries
-   and nuts.
-5. Fill the muffin cups ¾ full (add more batter to each cup if you
-   have extra). Bake for 20 minutes, then check to see if the muffins
-   are browning. If they need more time, bake 5 minutes longer.
-6. Cool for 10 minutes before serving, or serve at room temperature.
+1. Preheat the oven to 350 degrees.
+2. Line a 12-muffin pan with paper baking cups.
+3. Combine the flours, sugar, baking powder, baking soda, and salt in a large mixing bowl.
+4. Whisk together the eggs, buttermilk, and oil in a 4-cup glass measuring cup with a pour spout or a medium bowl.
+5. Stir in the mashed bananas.
+6. Pour the wet ingredients into the dry ingredients and, using a rubber spatula, stir just until blended.
+7. Fold in the blueberries and nuts.
+8. Fill the muffin cups ¾ full (add more batter to each cup if you have extra).
+9. Bake for 20 minutes, then check to see if the muffins are browning.
+   #+begin_tip
+   If they need more time, bake 5 minutes longer.
+   #+end_tip
+10. Cool for 10 minutes before serving, or serve at room temperature.
 
 ** Yield:
 12 muffins
 
 ** Credits:
-- I've made these muffins with just two tablespoons of sugar and
-  without any sugar at all. Both options are good.
+- [2011-03-28 Sun] I've made these muffins with just two tablespoons of sugar and without any sugar at all. Both options are good.
 - This content is from the Culinate Kitchen collection:
 - http://www.culinate.com/recipes/collections/Culinate+Kitchen/Breakfast/fruit_and_nut_muffins/print
-- 28-Mar-2011
+-
 - date created: [2011-03-28 Mon]
