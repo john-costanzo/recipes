@@ -1,26 +1,33 @@
 #+STARTUP: showeverything
 * No-Knead Harvest Bread
 ** Ingredients:
-- 3 1/4 cups (390g) King Arthur Unbleached Bread Flour
+- 3 ¼ cups (390g) King Arthur Unbleached Bread Flour
 - 1 cup (113g) King Arthur Whole Wheat Flour
 - 2 teaspoons (12g) salt
-- 1/2 teaspoon instant yeast
-- 1 3/4 cups (397g) cool water
-- 3/4 cup (85g) dried cranberries
-- 1/2 cup (85g) golden raisins
+- ½ teaspoon instant yeast
+- 1 ¾ cups (397g) cool water
+- ¾ cup (85g) dried cranberries
+- ½ cup (85g) golden raisins
 - 1 cup (113g) coarsely chopped pecans or walnuts
 
 ** Method:
-1. Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Mix the flours, salt, yeast, and water in a large bowl. Stir, then use your hands to bring the sticky dough together, making sure to incorporate all of the flour.  
-2. Work in the fruits and nuts.
-3. Cover the bowl with plastic wrap and let the dough rest at room temperature overnight, or for at least 8 hours; it'll become bubbly and rise quite a bit, so use a large bowl.
-4. Turn the dough out onto a lightly floured surface, and form it into a log or round loaf to fit your 14" to 15" long lidded stoneware baker; 9" x 12" oval deep casserole dish with cover; or 9" to 10" round lidded baking crock.
-5. Place the dough in the lightly greased pan, smooth side up.
-6. Cover and let rise at room temperature for about 2 hours, until it's become puffy. It should rise noticeably, but it's not a real high-riser.
-7. Using a sharp knife or lame, slash the bread in a crosshatch pattern. Place the lid on the pan, and put the bread in the cold oven. Set the oven temperature to 450°F, and put the bread into the oven.
-8. Bake the bread for 45 to 50 minutes (start the timer when you place the bread into the cold oven). Remove the lid and continue to bake for another 5 to 15 minutes, until it's deep brown in color, and a digital thermometer inserted into the center registers about 205°F.  
-9. Remove the bread from the oven, turn it out onto a rack, and cool completely before slicing.
-10. Store the bread, well wrapped, at room temperature for several days; freeze for longer storage.
+1. Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
+2. Mix the flours, salt, yeast, and water in a large bowl.
+3. Stir, then use your hands to bring the sticky dough together, making sure to incorporate all of the flour.
+4. Work in the fruits and nuts.
+5. Cover the bowl with plastic wrap and let the dough rest at room temperature overnight, or for at least 8 hours; it'll become bubbly and rise quite a bit, so use a large bowl.
+6. Turn the dough out onto a lightly floured surface, and form it into a log or round loaf to fit your 14" to 15" long lidded stoneware baker; 9" x 12" oval deep casserole dish with cover; or 9" to 10" round lidded baking crock.
+7. Place the dough in the lightly greased pan, smooth side up.
+8. Cover and let rise at room temperature for about 2 hours, until it's become puffy.
+   #+begin_tip
+   It should rise noticeably, but it's not a real high-riser.
+   #+end_tip
+9. Using a sharp knife or lame, slash the bread in a crosshatch pattern. Place the lid on the pan, and put the bread in the cold oven.
+10. Set the oven temperature to 450°F, and put the bread into the oven.
+11. Bake the bread for 45 to 50 minutes (start the timer when you place the bread into the cold oven).
+12. Remove the lid and continue to bake for another 5 to 15 minutes, until it's deep brown in color, and a digital thermometer inserted into the center registers about 205°F.
+13. Remove the bread from the oven, turn it out onto a rack, and cool completely before slicing.
+14. Store the bread, well wrapped, at room temperature for several days; freeze for longer storage.
 ** Credits:
 - date created: [2022-12-17 Sat]
 - From https://www.kingarthurbaking.com/recipes/no-knead-harvest-bread-recipe
