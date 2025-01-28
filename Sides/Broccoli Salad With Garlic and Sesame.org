@@ -1,9 +1,5 @@
 #+STARTUP: showeverything
 * Broccoli Salad With Garlic and Sesame
-YIELD: 6 to 8 servings
-
-TIME: 10 minutes, plus marinating
-
 This salad is made from uncooked broccoli tossed with an assertive garlic, sesame, chile and cumin-seed vinaigrette slicked with good extra-virgin olive oil and red wine vinegar. The acid “cooks” the florets a little as ceviche does fish. After an hour, the broccoli softens as if blanched, turning bright emerald, and soaking up all the intense flavors of the dressing. You’ll be making this one again.
 
 ** Ingredients:
@@ -25,6 +21,10 @@ This salad is made from uncooked broccoli tossed with an assertive garlic, sesam
 6. Pour mixture over broccoli and toss well.
 7. Let sit for at least 1 hour at room temperature, and up to 48 (chill it if you want to keep it for more than 2 hours).
 8. Adjust seasonings (it may need more salt) and serve.
+** Yield:
+6 to 8 servings
+
 ** Credits:
 - From https://cooking.nytimes.com/recipes/1016146-broccoli-salad-with-garlic-and-sesame
 - date created: [2020-07-22 Wed]
+- Time: 10 minutes, plus marinating
