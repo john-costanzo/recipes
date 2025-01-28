@@ -1,16 +1,15 @@
 #+STARTUP: showeverything
 * Sandwich Bread
 ** Ingredients:
-*** 1½ Recipe
-- 1 tablespoon active dry yeast
-- 1⅞  cup (15 ounces) warm water, divided
-- 3 tablespoons sugar
-- 1½ cup (12 ounces) oat milk (or any nondairy milk)
-- 1½ tablespoon salt (use less if on a low sodium diet)
-- 3 tablespoons avocado or olive oil
-- ~9 cups (1080 g) bread flour (can substitute ⅓ (360g) with whole wheat flour)
-- 3 tablespoons flax seed meal (/optional/)
-- 3 tablespoons chia seeds (/optional/)
+- 1 ¼ tablespoon active dry yeast
+- 2 ⅓ cup (18 ¾ ounces) warm water, divided
+- 3 ¾ tablespoons sugar
+- 1 ⅞ cup (15 ounces) oat milk (or any nondairy milk)
+- 1 ⅞ tablespoon salt (use less if on a low sodium diet)
+- 3 ¾ tablespoons avocado or olive oil
+- ~11 ¼ cups (1350 g) bread flour (can substitute ⅓ (450g) with whole wheat flour)
+- 3 ¾ tablespoons flax seed meal (/optional/)
+- 3 ¾ tablespoons chia seeds (/optional/)
 ** Method:
 1. Mix the yeast and sugar with ¼ cup of water and set aside for five minutes until it froths, indicating yeast is active.
 2. To the yeast and water mixture, mix in the remaining cup of water, milk, salt and oil.
@@ -25,12 +24,12 @@
 9. Punch down the dough, form into a ball, and return it to the bowl to rise for another hour.
 10. Grease two standard (6-cup) loaf pans.
 11. Now punch the dough down again and divide it into two.
-12. Using a rolling pin, roll out each loaf into a rectangle, about 6 X 8 inches.
+12. Using a rolling pin, roll out each loaf into a rectangle, about 6 x 8 inches.
 13. Roll it up into a cylinder and tuck the seams underneath.
 14. Place each loaf into a loaf pan.
 15. Cover the dough loosely with oiled cling wrap or with a shower cap, and set it aside to rise for about 1 hour until the dough rises above the pan, forming a nice dome.
 16. Preheat the oven to 400°.
-17. Bake the loaves for 35 minutes.
+17. Bake the loaves for 35-45 minutes.
 18. Cool on a rack for about 10 minutes, then remove the loaves from the pan and continue cooling before you slice.
 ** Tags:
 IsFavorite
@@ -42,3 +41,4 @@ IsFavorite
 - [2023-03-14 Tue] Made with about ⅓ spelt and emmer flour. Really tasty and good structure. After cooling, I sliced and froze it. It held up well. I decide this could be our daily bread (it's the best thing since sliced bread?).
 - [2023-08-13 Sun] The original recipe called for 4 teaspoons of yeast; 2 teaspoons is plenty.
 - [2023-08-23 Wed] Made with a mix of spelt, white whole wheat and some wheat bran.
+- [2025-01-28 Tue] ⅓ whole wheat is delicious. This recipe is now scaled to 187.5% of the original, which makes for two good-sized loaves, suitable for slicing as sandwich bread. It took about 41 minutes to bake at this size.
