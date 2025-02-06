@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Socca (Farinata)
 ** Ingredients:
-- cup chickpea flour
+- 1 cup chickpea flour
 - 1 teaspoon salt
 - 1 teaspoon freshly ground black pepper
 - 4 to 6 tablespoons olive oil
