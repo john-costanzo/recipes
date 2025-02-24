@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Sourdough Bread (New York Times)
+* Sourdough Bread (New York Times, tutorial)
 ** Ingredients:
 - 20 grams mature starter, which you should keep refrigerated until you’re ready to use it
 - 700 grams high-quality white bread flour, plus more for feeding starter and dusting work surfaces
