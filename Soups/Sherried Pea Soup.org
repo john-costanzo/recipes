@@ -1,0 +1,30 @@
+#+STARTUP: showeverything
+* Sherried Pea Soup
+** Ingredients:
+- 2 tablespoons butter
+- 2 cups sliced leeks (white and light green parts)
+- 4 cups vegetable broth
+- 3 cups water
+- 1 cup split peas
+- 2 cups peas (fresh or frozen)
+- 3 tablespoons sherry
+- ⅛ teaspoon salt, or to taste
+- ⅛ teaspoon pepper
+- ¼ cup heavy cream
+** Method:
+1. In a 4-quart saucepan, melt the butter over medium-high heat.
+2. Add the leeks; cook, stirring, until softened, about 1 minute.
+3. Add the broth and water; bring to a boil.
+4. Add the split peas.
+5. Return to a boil; reduce heat and simmer, covered, 1½ hours.
+6. Add the peas; return to a boil.
+7. Reduce heat and simmer, covered, 30 minutes longer.
+8. Stir in the sherry, salt and pepper; simmer, uncovered 15 minutes longer.
+9. Use an immersion blender to produce a smooth soup.
+10. Stir in cream, return to heat and cook to desired temperature.
+    #+begin_note
+    *Variation*: Minted Pea Soup: stir in ¼ cup chopped fresh mint instead of the sherry.
+    #+end_note
+** Credits:
+- From 1,000 Vegetarian Recipes, page 124.
+- date created: [2025-02-26 Wed]
