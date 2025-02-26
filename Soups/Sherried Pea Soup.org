@@ -23,7 +23,7 @@
 9. Use an immersion blender to produce a smooth soup.
 10. Stir in cream, return to heat and cook to desired temperature.
     #+begin_note
-    *Variation*: Minted Pea Soup: stir in ¼ cup chopped fresh mint instead of the sherry.
+    Minted Pea Soup variation: stir in ¼ cup chopped fresh mint instead of the sherry.
     #+end_note
 ** Yield:
 - Makes 8 cups; serve 8 to 12.
