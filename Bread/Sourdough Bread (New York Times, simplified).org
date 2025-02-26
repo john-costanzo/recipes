@@ -8,12 +8,12 @@
 - Rice flour, for dusting (optional)
 ** Method:
 *** Day 1
-**** /Feed your starter (refreshing)./
+**** Feed your starter (refreshing).
 1. In the morning, mix *25g* of starter, *25g* of water and *25g* of flour.\\
 2. That evening, add *75g* of water plus *75* grams of flour.\\
 3. This yields *225g* of ripe starter the next day.
 *** Day 2
-**** /Mix together flour and water and let sit (autolyse)./
+**** Mix together flour and water and let sit (autolyse).
 1. Early on the second day, weigh 700 grams of white bread flour and 300 grams of whole-wheat or whole-grain rye or spelt flour (or a blend) in a large mixing bowl.
 2. Mix to combine.
 3. Weigh out 750 grams of lukewarm tap water (about 90 degrees) and add to the flours.
@@ -22,23 +22,23 @@
    #+begin_note
    The  Tupperware "What-a-bowl" weighs 359 grams.
    #+end_note
-**** /Combine the autolyse and starter./
+**** Combine the autolyse and starter.
 1. Add 200 grams of ripe starter to the bowl with the flour-water mixture.
 2. Pinching with your thumb, forefinger and middle finger on one hand and rotating the bowl with the other, mix until the starter is completely incorporated.
 3. Sprinkle 20 grams salt and 20 grams of water across the dough, and pinch, as before, to incorporate.
 4. Cover with a damp towel and let sit for 10 minutes.
-**** /Mix the dough./
+**** Mix the dough.
 1. Uncover the dough.
 2. Slide a wet hand down along the inside of the bowl and underneath the dough.
 3. Grasp a handful and stretch it upward until you feel resistance, then fold it back onto the dough mass.
 4. Repeat this motion continuously for 10 minutes, rotating the bowl about 90 degrees each time.
 5. As you work the dough, it will progress from very slack and sticky to smoother and more elastic.
-**** /Fold the dough./
+**** Fold the dough.
 1. Using a wet hand and the same mixing motion as the above step, but with a gentler touch to avoid knocking out any gas, perform four folds, making a full rotation of the bowl.
 2. Cover the bowl, wait 1 hour, then perform the same series of four folds.
 3. Cover and repeat every 60 minutes, until the dough feels pillowy and filled with air, which can take at least 3 hours and as many as 7.
 4. Each time you fold the dough, it should feel lighter and sit higher in the bowl.
-**** /Shape dough for the first time (pre-shaping)./
+**** Shape dough for the first time (pre-shaping).
 1. Clear and lightly flour a work surface.
 2. Gently turn out the dough, letting its weight coax it out of the bowl and loosening the sides with the bench scraper.
 3. Divide the dough in half with the bench scraper.
@@ -46,11 +46,11 @@
 5. Use a bench scraper to turn the loose ball of dough over so it rests seam-side down.
 6. Cover with a clean towel and repeat with the second half of dough.
 7. Let both pieces of dough rest, covered, on the work surface for 20 minutes.
-**** /Prepare the shaping baskets./
+**** Prepare the shaping baskets.
 1. As dough rests, line two baskets or mixing bowls with clean kitchen towels.
 2. Stir together a 50/50 mixture of white bread flour and rice flour. (Rice flour will prevent sticking.)
 3. Dust the interiors of the baskets generously with the 50/50 flour mixture. Set aside.
-**** /Shape the dough a last time (final shaping)./
+**** Shape the dough a last time (final shaping).
 1. Uncover one piece of dough and lightly dust the top with the 50/50 flour mixture.
 2. In one decisive motion, use the bench scraper to lift and turn the dough over floured-side down.
 3. Slide your fingertips beneath the dough and stretch it gently into a square shape.
@@ -59,28 +59,28 @@
 6. Let the dough sit for a minute or two on its seam to help it seal, then use a bench scraper to lift up the dough and place it seam-side up in one of the prepared baskets.
 7. Lightly dust the exposed part of the dough with more of the 50/50 flour mixture, and cover with a kitchen towel.
 8. Repeat with the second piece of dough.
-**** /Let the shaped dough rise inside the baskets (proofing)./
+**** Let the shaped dough rise inside the baskets (proofing).
 1. Rest loaves at room temperature, checking on them periodically, until the surface of the dough has settled and the entire loaves have slightly increased in volume, 1 to 1½ hours.
-**** /Chill the dough./
+**** Chill the dough.
 1. Cover the baskets with plastic wrap and transfer to the refrigerator.
 2. Chill overnight and up to two days before baking.
    #+begin_tip
    The longer the dough spends in the refrigerator, the tangier the final bread will taste.
    #+end_tip
 *** Day 3
-**** /Prepare the oven./
+**** Prepare the oven.
 1. About an hour before baking, arrange a rack in the lower third of your oven and place a large, uncovered Dutch oven inside.
 2. Heat the oven to 500 degrees.
-**** /Prepare the dough./
+**** Prepare the dough.
 1. Remove one loaf from the refrigerator and uncover.
 2. Lightly dust the exposed dough with the 50/50 flour mixture, massaging it into the surface.
 3. Place a piece of parchment paper over the basket, making sure the parchment is longer and wider than the basket by several inches.
 4. Invert the loaf onto the parchment paper.
 5. Remove the basket, then slowly peel away the towel.
 6. Dust the rounded side of the dough with more of the 50/50 flour mixture, rubbing it into the surface to coat evenly.
-**** /Make a slash in the dough./
+**** Make a slash in the dough.
 1. Use a /lame/ or a serrated knife to make a long, slightly off-center slash about ¼-inch deep, angling the blade toward the midline of the loaf.
-**** /Bake the dough./
+**** Bake the dough.
 1. Very carefully place the heated Dutch oven on the stovetop.
 2. Taking care not to touch the sides, use the parchment paper to lower the loaf into the Dutch oven.
 3. Cover and return it to the oven.
@@ -90,7 +90,7 @@
 7. Remove the Dutch oven from the oven, and use tongs to help you pull out the loaf.
 8. Transfer the Dutch oven back to the oven, and set the oven temperature back to 500 degrees.
 9. Repeat the process with the second loaf of bread.
-**** /Cut and serve!/
+**** Cut and serve!
 1. Allow the loaves to cool completely, for a few hours, before cutting into them.
 2. Whole loaves can be stored uncovered at room temperature for 1 day.
 3. Once cut, bread should be stored in paper bags at room temperature and will keep for 5 days or longer.
