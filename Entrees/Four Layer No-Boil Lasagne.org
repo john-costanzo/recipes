@@ -12,20 +12,26 @@
 2. Spray baking pan (about 13 x 9 x 3-inches deep) with non-stick cooking spray.
 3. Remove 16 lasagna sheets from box. DO NOT BOIL!
 4. In a medium bowl, beat eggs.
-5. Stir in ricotta, 2 cups of mozzarella and the Parmesan.
-   #+begin_note
-   If using a 2-inch deep pan, make three layers to avoid possible boiling over. Use the same amount of filling and 12 uncooked sheets. Spoon a quarter of the sauce on bottom; layer with 4 sheets, half ricotta mixture and another quarter of the sauce. Add 1 cup of mozzarella, layer 4 sheets, remaining ricotta mixture and a quarter of the sauce. Top with 4 sheets, remaining sauce and 1 cup of mozzarella. Bake as directed below.
-   #+end_note
-
+5. Stir in ricotta and the Parmesan.
    #+begin_tip
    When layering lasagna, slightly overlap sheets. Lasagna will expand to the edges during cooking. Spread fillings to the edges to seal in and cook the lasagna during baking.
    #+end_tip
 6. Layer in the following order:
-     a. Spread 1 cup of sauce on the bottom of the baking pan.
-     b. Layer 4 uncooked sheets, ⅓ of ricotta mixture and 1½ cups of sauce.
-     c. Layer 4 uncooked sheets, ⅓ of ricotta mixture and 1½ cups of sauce.
-     d. Layer 4 uncooked sheets, ⅓ of ricotta mixture and 1½ cups of sauce.
-     e. Layer 4 uncooked sheets, ⅓ of ricotta mixture and 1½ cups of sauce.
+     + If using a 2-inch deep pan:
+         a. Make three layers to avoid possible boiling over, using 12 uncooked sheets.
+         b. Spread 1½ cups of the sauce on the bottom of the baking pan.
+         c. Layer 4 sheets, half of ricotta mixture and another 1½ cups of the sauce.
+         d. Add 1 cup of mozzarella.
+         e. Layer 4 sheets, remaining ricotta mixture and 1½ cups of the sauce.
+         f. Layer 4 sheets, remaining sauce and 1 cup of mozzarella.
+     + If using a 3-inch deep pan:
+         a. Make four layers, using 16 uncooked sheets.
+         b. Stir 2 cups of mozzarella into the ricotta/Parmesan mixture.
+         c. Spread 1 cup of sauce on the bottom of the baking pan.
+         d. Layer 4 sheets, ¼ of ricotta mixture and 1½ cups of sauce.
+         e. Layer 4 sheets, ¼ of ricotta mixture and 1½ cups of sauce.
+         f. Layer 4 sheets, ¼ of ricotta mixture and 1½ cups of sauce.
+         g. Layer 4 sheets, ¼ of ricotta mixture and 1½ cups of sauce.
 7. Bake, covered with foil until bubbly, 50-60 minutes.
 8. Uncover and continue cooking until cheese is melted, about 5 minutes
 9. Let stand 15 minutes before cutting.
