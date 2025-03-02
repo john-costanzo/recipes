@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Longhorn Brussel Sprouts Recipe
+* Longhorn Brussels Sprouts
 ** Ingredients:
 *** For Crispy Brussels Sprouts
 - 1 lb brussels sprouts (500 grams)
