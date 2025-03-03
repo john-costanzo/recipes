@@ -8,7 +8,7 @@
 - 1 teaspoon granulated garlic
 - 1 teaspoon onion powder
 - 14 oz super firm tofu
-- ½ cup [[https://nosweatvegan.com/vegan-bbq-sauce/#recipe][BBQ sauce]] plus more for serving or [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Sides_LonghornBrusselSprouts&fontsize=large&scalingpercentage=100&searchterm=long%20horn][Longhorn Brussels Sprouts sauce]] or hot wings sauce (equal parts butter and Franks' hot sauce).
+- ½ cup [[https://nosweatvegan.com/vegan-bbq-sauce/#recipe][BBQ sauce]] plus more for serving or [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Sides_LonghornBrusselsSprouts&fontsize=large&scalingpercentage=100][Longhorn Brussels Sprouts sauce]] or hot wings sauce (equal parts butter and Franks' hot sauce).
 
 ** Method:
 1. Preheat the oven to 400°F (or 200°C).
