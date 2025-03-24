@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+* Dreena Burton’s Easy 3-Bean Salad
+** Ingredients:
+- 1 medium apple, peeled if desired, cored, and chopped (¾ cup)
+- ½ teaspoon lemon juice
+- 4 cups cooked chickpeas, kidney beans, and black beans, rinsed and drained if using canned
+- 1 cup chopped green and/or red bell pepper
+- ½ cup sliced scallions (mostly green parts)
+- ¼ cup finely chopped celery
+- 3½ tablespoons apple cider vinegar
+- 1 tablespoon pure maple syrup
+- 1 to 1½ teaspoons Dijon mustard
+- ½ teaspoon sea salt
+- Freshly ground black pepper, to taste
+- Pinch ground cloves, plus more to taste (/optional/)
+** Method:
+1. In a large bowl combine apple and lemon juice; toss to coat. (This will help preserve the color of the apple.)
+2. Add the remaining ingredients; toss to combine.
+3. If you like, season with additional salt and black pepper.
+   #+begin_tip
+   Suggestions: try adding corn, raisins and/or walnuts.
+   #+end_tip
+** Credits:
+- From https://www.forksoverknives.com/recipes/vegan-salads-sides/dreena-burton-easy-3-bean-salad/, courtesy of Jan Messner.
+- date created: [2025-03-24 Mon]
