@@ -3,26 +3,10 @@
 Prep Time: 20 minutes
 \\
 Cook Time: 60-70 minutes
-
+\\
+Original recipe makes one loaf.
 ** Ingredients:
-*** 2 Loaves
-- 3 cups (594 grams) sugar 
-- 1 cup vegetable oil
-- 4 eggs, lightly bean
-- 16 ounces canned unsweetened pumpkin
-- 1 cup raisins (optional)
-- 3½ cups (420 grams) flour
-- 2 teaspoons salt
-- 2 teaspoons baking soda
-- 1 teaspoon baking powder
-- 1 teaspoon nutmeg
-- 1 teaspoon allspice
-- 1 teaspoon cinnamon
-- ½ teaspoon cloves
-- ⅔ cup water
-
-*** 1 Loaf
-- 1½ cups (297 grams) sugar 
+- 1½ cups (297 grams) sugar
 - ½ cup vegetable oil
 - 2 eggs, lightly bean
 - 8 ounces canned unsweetened pumpkin
@@ -46,7 +30,7 @@ Cook Time: 60-70 minutes
 7) Bake for 60 to 70 minutes or until cake tester comes out clean. Let stand 10 minutes. Remove from pans and cool.
 
 #+begin_tip
-Two Loaves will also make one loaf plus three mini-loaves.   
+Two Loaves will also make one loaf plus three mini-loaves.
 #+end_tip
 ** Credits:
 - [[http://www.foodnetwork.com/food/cda/recipe_print/0,1946,FOOD_9936_4067_RECIPE-PRINT-FULL-PAGE-FORMATTER,00.html][Recipe]]
