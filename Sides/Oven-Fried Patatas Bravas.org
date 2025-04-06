@@ -1,13 +1,9 @@
 #+STARTUP: showeverything
 * Oven-Fried Patatas Bravas
-YIELD: 4 appetizer servings
-
-TIME: 30 minutes
-
-** Ingredients:
+* Ingredients:
 *** ...for the Potatoes:
-- 2 pounds yellow-fleshed or russet potatoes, peeled and cut in 1 1/2-inch chunks
-- Kosher salt
+- 2 pounds yellow-fleshed or russet potatoes, peeled and cut in 1½-inch chunks
+- kosher salt
 - ½ cup extra-virgin olive oil
 - 1 head garlic, separated into cloves but not peeled
 *** ...for the Salsa Brava
@@ -16,27 +12,53 @@ TIME: 30 minutes
 - 2 tablespoons all-purpose flour
 - 1 tablespoon tomato paste
 - 1 tablespoon pimentón dulce, or use sweet paprika
-- 1 teaspoon pimentón picante, 1/2 teaspoon chipotle chile powder or 1/4 teaspoon cayenne
-- 1 cup chicken broth or water
+- 1 teaspoon pimentón picante, ½ teaspoon chipotle chili powder or ¼ teaspoon cayenne
+- 1 cup broth or water
 - 1 tablespoon sherry vinegar
  Kosher salt
-*** ...for the Allioli
+*** ...for the Aioli
 - 2 egg yolks
 - 4 garlic cloves, pounded, finely minced or grated
 - 1½ cups extra-virgin olive oil
 - Kosher salt and black pepper
 ** Method:
-1. Heat oven to 450 degrees. Put potato chunks in a large bowl, season generously with salt and toss to coat. Leave for a few minutes to let potatoes absorb salt. Add olive oil and unpeeled garlic cloves and toss to coat well. (Don’t skimp on the oil; it can be strained and saved after cooking for future use.)
-2. Transfer potatoes (and garlic cloves) and oil to a large cast-iron skillet or heavy roasting pan. Make sure to have potatoes in a single layer without crowding. (If necessary, use two pans.) There should be a good ½-inch oil in the bottom of the pan. Add more if required.
-3. Place pan in oven and roast for 15 to 20 minutes, until potato chunks are well browned on the bottom. With a metal spatula, carefully turn chunks over. Reduce heat to 400 degrees, and continue roasting until potatoes are well browned and crisp, about another 15 to 20 minutes.
-4. While potatoes are roasting, make the two sauces:
-     a. For the *salsa brava*, put 2 tablespoons olive oil in a small saucepan over medium heat. Add garlic and let sizzle without browning, then stir in flour and let mixture sizzle. Stir in tomato paste, pimentón dulce and pimentón picante, then add broth gradually, stirring well as the sauce thickens. Bring to a gentle simmer, add vinegar and cook for 5 minutes until the sauce has a gravylike consistency, but isn't too thick. Thin with a little more broth or water, if necessary. Season with salt to taste.
-     b. For the *allioli*, put egg yolks and garlic in a mortar or small bowl and whisk together. (Alternatively, use a mini food processor or stick blender, see note.) Add oil a few drops at a time, whisking vigorously with each addition. As the sauce thickens, add olive oil a teaspoon at a time. If the aioli gets too thick, whisk in 1 tablespoon water, then continue to whisk in remaining oil. The finished sauce should have the consistency of softly whipped cream. Season to taste with salt and pepper.
-5. When potatoes are ready, use spatula to transfer to a pan lined with paper towels to blot, then to a warm serving dish. Sprinkle lightly with salt. Serve warm with the two sauces.
+1. Heat oven to 450°.
+2. Put potato chunks in a large bowl, season generously with salt and toss to coat.
+3. Leave for a few minutes to let potatoes absorb salt.
+4. Add olive oil and unpeeled garlic cloves and toss to coat well. (Don’t skimp on the oil; it can be strained and saved after cooking for future use.)
+5. Transfer potatoes (and garlic cloves) and oil to a large cast-iron skillet or heavy roasting pan.
+6. Make sure to have potatoes in a single layer without crowding. (If necessary, use two pans.)
+7. There should be a good ½-inch oil in the bottom of the pan. Add more if required.
+8. Place pan in oven and roast for 15 to 20 minutes, until potato chunks are well browned on the bottom.
+9. With a metal spatula, carefully turn chunks over.
+10. Reduce heat to 400°, and continue roasting until potatoes are well browned and crisp, about another 15 to 20 minutes.
+11. While potatoes are roasting, make the two sauces:
+      a. For the *salsa brava*:
+           1) put 2 tablespoons olive oil in a small saucepan over medium heat.
+           2) Add garlic and let sizzle without browning, then stir in flour and let mixture sizzle.
+           3) Stir in tomato paste, pimentón dulce and pimentón picante, then add broth gradually, stirring well as the sauce thickens.
+           4) Bring to a gentle simmer, add vinegar and cook for 5 minutes until the sauce has a gravy-like consistency, but isn't too thick.
+           5) Thin with a little more broth or water, if necessary.
+           6) Season with salt to taste.
+      b. For the *aioli*:
+           1) put egg yolks and garlic in a mortar or small bowl and whisk together. (Alternatively, use a mini food processor or stick blender, see note.)
+           2) Add oil a few drops at a time, whisking vigorously with each addition.
+           3) As the sauce thickens, add olive oil a teaspoon at a time.
+           4) If the aioli gets too thick, whisk in 1 tablespoon water, then continue to whisk in remaining oil.
+           5) The finished sauce should have the consistency of softly whipped cream. Season to taste with salt and pepper.
+12. When potatoes are ready, use spatula to transfer to a pan lined with paper towels to blot, then to a warm serving dish.
+13. Sprinkle lightly with salt.
+14. Serve warm with the two sauces.
 #+begin_tip
 To make in a blender or food processor, use 1 whole egg and 1 egg yolk instead of only yolks. Drizzle oil in a thin stream with motor running until the sauce thickens, which takes only a minute or so. Transfer to a small bowl, then thin with a little water and season with salt and pepper.
 #+end_tip
-
+** Yield
+4 appetizer servings
 ** Credits:
 - From [[https://cooking.nytimes.com/recipes/1021018-oven-fried-patatas-bravas-crispy-potatoes-with-two-sauces][Oven-Fried Patatas Bravas (Crispy Potatoes With Two Sauces)]], by David Tanis
 - date created: [2020-07-25 Sat]
+- TIME: 30 minutes
+
+# Local Variables:
+# jinx-local-words: "Tanis brava"
+# End:
