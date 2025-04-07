@@ -35,10 +35,10 @@
 12. Can the marmalade (our How to Make Jam guide has detailed instruction), or store in the refrigerator.
 
 #+begin_tip
-To elevate your jam, add in any of these ingredients in "Make the marmalade," step 5:
-- Orange :: Add 1 tablespoon freshly grated turmeric; or add 2 tablespoons freshly grated ginger.
-- Lemon :: Add 1 vanilla bean, split and seeds scraped; or 1 tablespoon earl grey or rooibos tea leaves.
-- Grapefruit :: Add 2 tablespoons freshly grated ginger; 2 teaspoons rose water; or 2 tablespoons dried jamaica (a.k.a. hibiscus).
+To elevate your jam, add in any of these ingredients in "Make the marmalade" step 5:
+- *Orange*: Add 1 tablespoon freshly grated turmeric; or add 2 tablespoons freshly grated ginger.
+- *Lemon*: Add 1 vanilla bean, split and seeds scraped; or 1 tablespoon earl grey or rooibos tea leaves.
+- *Grapefruit*: Add 2 tablespoons freshly grated ginger; 2 teaspoons rose water; or 2 tablespoons dried jamaica (a.k.a. hibiscus).
 #+end_tip
 ** Yield:
 About 4 cups (four 8-ounce jars)
