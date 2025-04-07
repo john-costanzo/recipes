@@ -1,6 +1,6 @@
 #+STARTUP: showeverything
 * Oven-Fried Patatas Bravas
-* Ingredients:
+** Ingredients:
 *** ...for the Potatoes:
 - 2 pounds yellow-fleshed or russet potatoes, peeled and cut in 1½-inch chunks
 - kosher salt
