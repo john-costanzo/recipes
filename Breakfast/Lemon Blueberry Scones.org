@@ -26,7 +26,7 @@
 *** Form scones
 1. Pour onto the counter and, with floured hands, work dough into a ball as best you can.
 2. Dough will be sticky. If it’s too sticky, add a little more flour. If it seems too dry, add 1-2 more Tablespoons heavy cream.
-3. Press into an 8-inch disc and, with a sharp knife or bench scraper, cut into 8 wedges (or 4 if making a Single Recipe).
+3. Press into an 8-inch disc and, with a sharp knife or bench scraper, cut into 4 servings (wedge-shaped).
 4. Brush scones with remaining heavy cream and for extra crunch, sprinkle with coarse sugar. (You can do this before or after refrigerating in the next step.)
 5. Place scones on a plate or lined baking sheet (if your fridge has space!) and refrigerate for at least 15 minutes.
 *** Bake scones
@@ -42,7 +42,9 @@
 Leftover iced or un-iced scones keep well at room temperature for 2 days or in the refrigerator for 5 days.
 #+end_tip
 ** Tags
-Favorite
+IsFavorite
+** Yield
+4 servings of one scone each
 ** Credits:
 - From https://sallysbakingaddiction.com/glazed-lemon-blueberry-scones/
 - date created: [2021-03-28 Sun]
