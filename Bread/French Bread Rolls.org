@@ -1,7 +1,5 @@
 #+STARTUP: showeverything
 * French Bread Rolls
-French Bread Rolls are the perfect yeast bread to serve on the weekend because they're warm and fluffy on the inside, crusty on the outside, and incredibly easy to make!
-
 ** Ingredients:
 - 1½ cups warm water (110°F)
 - 3 teaspoons active dry yeast
@@ -13,6 +11,7 @@ French Bread Rolls are the perfect yeast bread to serve on the weekend because t
 - sesame seeds (/optional/)
 - spray bottle with ice water
 ** Method:
+French Bread Rolls are the perfect yeast bread to serve on the weekend because they're warm and fluffy on the inside, crusty on the outside, and incredibly easy to make!
 1. To a stand mixer add the warm water, yeast and sugar and let sit for 10 minutes until cloudy.
 2. Add the oil, half the salt and 2 cups of the flour with the dough hook and let it combine on medium speed, adding the flour in ¼ cup increments until the dough starts to come together and eventually starts to pull away from the bowl.
 3. Turn up the speed and let it knead for 5 minutes.
