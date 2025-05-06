@@ -1,0 +1,48 @@
+#+STARTUP: showeverything
+* Marble Rye
+** Ingredients:
+*** Dough
+- 3 cups (360g) King Arthur Unbleached All-Purpose Flour
+- 1 cup (106g) King Arthur Organic Medium Rye Flour
+- 3/4 cup (78g) King Arthur Pumpernickel Flour (/Also known as whole rye flour./)
+- 1/4 cup (46g) potato flour
+- 1/4 cup (28g) King Arthur Baker's Special Dry Milk or nonfat dry milk
+- 1 1/2 teaspoons King Arthur Deli Rye Flavor or onion powder
+- 1 tablespoon caraway seeds
+- 2 1/4 teaspoons (14g) table salt
+- 2 tablespoons (25g) granulated sugar
+- 2 teaspoons instant yeast
+- 3 tablespoons (37g) vegetable oil
+- 1 3/4 cups (397g) water
+- 1 tablespoon black cocoa mixed with 1 tablespoon rye flour
+*** Topping
+1 large egg beaten with 1 tablespoon water
+** Method:
+1. Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
+2. In a large mixing bowl, combine all of the ingredients except the cocoa/rye flour mixture, stirring until the dough comes together.
+3. Knead until smooth, adding additional water or all-purpose flour 1 tablespoon at a time if needed. (/The dough should be soft and quite sticky./)
+4. Let the dough rise until puffy, about 1 1/2 hours.
+5. Lightly grease a long covered baker (or other 2-pound capacity loaf pan).
+6. Divide the dough in half.
+7. On a piece of greased parchment, pat one half into an 11" x 8" rectangle.
+8. Return the other half to the mixing bowl and add the cocoa/rye flour mixture to it.
+9. Knead the dough until it's uniformly colored.
+10. Pat the colored dough into an 11" x 8" rectangle and place it on top of the first rectangle of dough.
+11. Starting with the long edge, roll the dough into a spiral, pinching the seam and rolling the log to about 13" long.
+12. Place the dough in the prepared pan; add the cover if using the covered baker, or cover with greased plastic.
+13. Let rise until puffy looking, about 1 1/2 hours.
+14. After 1 hour, start preheating the oven to 400°F.
+15. Uncover the loaf, brush with the beaten egg/water, and give the top three fairly deep diagonal slashes.
+16. Cover with the lid or tent loosely with foil and bake for 15 minutes.
+17. Reduce the oven temperature to 350°F and bake for an additional 20 to 25 minutes.
+18. Uncover and bake for 5 minutes more, until golden brown and the center of the loaf reads 200°F when measured with a digital thermometer.
+19. Remove the bread from the oven and from the pan; place it on a rack to cool completely before slicing.
+#+begin_tip
+Store the bread, well wrapped, at room temperature for several days; freeze for longer storage.
+#+end_tip
+** Yield
+1 large loaf
+** Credits:
+- From https://www.kingarthurbaking.com/recipes/marble-rye-recipe
+- date created: [2025-04-29 Tue]
+- [2025-04-29 Tue] I made this, substituting garlic powder for the onion powder and using all whole rye flour instead of a mix of medium and pumpernickel. Very good flavor.
