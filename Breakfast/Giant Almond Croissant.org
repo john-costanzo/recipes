@@ -1,0 +1,48 @@
+#+STARTUP: showeverything
+* Giant Almond Croissant
+** Ingredients:
+- 1 sheet store-bought puff pastry (any size), thawed (see tip)
+- ½ cup (100 grams) granulated sugar
+- 4 tablespoons (56 grams) unsalted butter, melted
+- 1 teaspoon kosher salt (such as Diamond Crystal) or ½ teaspoon coarse kosher salt (such as Morton’s)
+- ¾ cup (108 grams) blanched almond flour (see tip)
+- 1 large egg
+- 1 tablespoon dark rum or 1 teaspoon pure vanilla extract
+- 1½ teaspoons almond extract
+- ½ cup (45 grams) sliced almonds
+- flaky salt, for topping (optional)
+- confectioners’ sugar, for serving
+** Method:
+*** Bake the puff pastry
+1. Set a rack in the center of the oven and heat to 425°.
+2. Unfold the sheet of puff pastry on a piece of parchment paper set in a rimmed baking sheet.
+3. Bake until puffed and brown, about 10 minutes.
+4. Reduce the heat to 350 ° and continue baking until dry, crisp and deeply browned, rotating the baking sheet once during baking, 20 to 30 minutes. (Once cooled, pastry can be covered and stored at room temperature for up to 3 days.)
+5. Make the filling: In a medium bowl, combine the granulated sugar, butter and kosher salt.
+6. Stir together with a wooden spoon or stiff silicone spatula until evenly combined and creamy.
+7. Add the almond flour, egg, rum and almond extract; whisk until evenly combined. (Filling can be stored in an airtight container and refrigerated for up to 3 days.)
+8. When ready to assemble, heat the oven to 350 °.
+9. Using a long, sharp serrated knife, carefully slice the puff pastry horizontally, splitting it as you would a bagel.
+10. Flip the top of the pastry over, then spread about two-thirds of the almond filling evenly across the bottom of it, taking care to spread it all the way to the edges.
+11. Flip the top piece of pastry back onto the bottom piece, then evenly spread the remaining almond filling on top.
+12. Evenly distribute the sliced almonds on top, then lightly sprinkle with flaky salt (optional).
+13. Bake until the nuts are toasted and the topping is brown, rotating the baking sheet once during baking, 20 to 25 minutes.
+14. Let cool slightly, then use the parchment to slide the pastry onto a cutting board.
+15. Dust generously with confectioners’ sugar, then slice into portions with a sharp knife.
+16. Serve warm or at room temperature.
+
+#+begin_tip
+The best way to thaw frozen puff pastry is to let it sit overnight in the refrigerator. However, if you’re in a hurry, you can thaw it on the counter until it unfolds easily but is still quite cold. If the pastry gets too warm and soft, pop it in the fridge to firm up before using.
+#+end_tip
+
+#+begin_tip
+Make sure to use blanched almond flour rather than the unblanched kind, which is made with natural almonds and includes their skins; unblanched almond flour will make the filling too stiff to spread properly.
+#+end_tip
+
+** Yield:
+12 servings
+** Credits:
+- From https://cooking.nytimes.com/recipes/1023722-giant-almond-croissant
+- date created: [2025-06-06 Fri]
+- [2025-06-06 Fri] T made for book club and received raves!
+- Suggestion: increase the filling to 150% and decrease the sugar.
