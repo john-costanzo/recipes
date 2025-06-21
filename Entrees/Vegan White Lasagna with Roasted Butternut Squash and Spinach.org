@@ -30,13 +30,13 @@
 - 1 pound no-boil lasagna noodles
 ** Method:
 1. If you are not using a high-powered blender, such as a Vitamix, soak cashews or almonds overnight or boil for 10 minutes and drain. This will soften them and ensure a silky smooth cream.
-*** For the roasted butternut squash: 
+*** For the roasted butternut squash:
 1. Preheat the oven to 400°F.
 2. Spread butternut squash on a large rimmed baking sheet and toss with oil.
 3. Season with salt and roast for 30 minutes, until fork-tender.
 4. Remove from oven and puree in a food processor until smooth.
 5. If needed, add 1 to 2 tablespoons of water.
-*** For the spinach: 
+*** For the spinach:
 1. In a large skillet, heat oil over medium heat.
 2. Add spinach and let cook until just wilted.
 *** For the alfredo sauce:
@@ -51,7 +51,7 @@ MAKE-AHEAD TIP: Ricotta can be made the day before and stored in the refrigerato
 #+end_tip
 
 *** To assemble and bake the lasagna:
-1. Preheat the oven to 375.
+1. Preheat the oven to 375°.
 2. Lightly grease a 9 x 13-inch pan.
 3. Spread a thin layer of sauce on the bottom of the prepared pan.
 4. Arrange 4 lasagna noodles across the pan; it’s okay if they overlap a little.
@@ -60,7 +60,7 @@ MAKE-AHEAD TIP: Ricotta can be made the day before and stored in the refrigerato
 7. Noodles should be evenly coated.
 8. Cover the baking pan with foil and bake for 50 minutes, or until noodles are cooked through.
 9. Remove from oven and let rest for 5 minutes before serving.
-10. Top each serving with a generous spoonful of heated sauce. 
+10. Top each serving with a generous spoonful of heated sauce.
 ** Credits:
 - From https://www.today.com/recipes/vegan-white-lasagna-roasted-butternut-squash-spinach-t63196, served by Paula White
 - date created: [2023-09-26 Tue]
