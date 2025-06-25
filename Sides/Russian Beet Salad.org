@@ -1,0 +1,24 @@
+#+STARTUP: showeverything
+* Russian Beet Salad
+** Ingredients:
+- 1 beet
+- 2 potatoes
+- 2 carrots (optional)
+- 1 onion (medium)
+- 4 pickles (small)
+- olive oil
+- vinegar or lemon juice
+- salt
+- pepper
+** Method:
+1. Cube all veggies.
+2. Boil veggies until tender, then cool them.
+3. Add oil, vinegar or lemon juice and salt and pepper.
+4. Mix together.
+5. Chill and serve.
+   #+begin_tip
+   Optional: add sauerkraut and/or canned red kidney beans.
+   #+end_tip
+** Credits:
+- From Ruslana Avaragon
+- date created: [2025-06-25 Wed]
