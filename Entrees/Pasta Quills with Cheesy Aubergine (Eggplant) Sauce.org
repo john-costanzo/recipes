@@ -1,7 +1,5 @@
 #+STARTUP: showeverything
 * Pasta Quills with Cheesy Aubergine (Eggplant) Sauce
-Serves 6
-
 ** Ingredients:
 - 1¼ lb. eggplant, cut into ½ in cubes
 - salt & pepper
@@ -20,7 +18,8 @@ Serves 6
 4. Stir in the garlic and tomatoes. Simmer until thickened, about 15 minutes. Season with salt & pepper.
 5. Cook the penne in a large pan of boiling salted water until just tender (check packet instructions for timing). Drain well and transfer to a warmed serving bowl.
 6. Add the eggplant sauce, goat cheese and basil to the pasta and toss well together. Serve immediately.
-
+** Yield
+6 servings
 ** Credits:
 - Marsha Montgomery 10 June 2003
 - date created: [2007-06-27 Wed]

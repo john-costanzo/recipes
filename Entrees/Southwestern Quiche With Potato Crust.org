@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Southwestern Quiche With Potato Crust 
+* Southwestern Quiche With Potato Crust
 
 ** Ingredients:
 - 6 large eggs
@@ -14,12 +14,23 @@
 - 2 chipotle chiles in adobo sauce, w/ 2 tsp. sauce reserved
 
 ** Method:
-1. Preheat oven to 375 degrees F. Coat the pie dish with cooking spray. Whisk together 1 egg and ¼ tsp. salt in a medium bowl. Stir in shredded hash browns. Press the potato mixture into the bottom and sides of the pie dish to form crust. Bake for 15 minutes, or until lightly browned.
-2. Sprinkle the bell pepper, corn, green onions, cilantro, and cheese over the potato crust.
-3. In a blender, mix together the remaining eggs, milk, ¾ tsp. salt, chiles and adobo sauce. Pour mixture over vegetables in pie dish. Bake 20 to 25 minutes, or until knife inserted in center comes out clean. Let stand 5 minutes before serving.
-4. Serves 6.
-5. I served the quiche topped with avocado slices and good store-bought salsa (I had Mrs. Renfro's Black Bean Salsa on hand). It was quite tasty, and everyone wanted seconds. I'll make this again, but I think next time I'll serve it with some black beans or a salad on the side, to add some fiber, and maybe add a third chipotle pepper (love the smokey flavor they add). Adapted from January 2007 Vegetarian Times recipe.
-
+1. Preheat oven to 375° F.
+2. Coat the pie dish with cooking spray.
+3. Whisk together 1 egg and ¼ tsp. salt in a medium bowl.
+4. Stir in shredded hash browns.
+5. Press the potato mixture into the bottom and sides of the pie dish to form crust.
+6. Bake for 15 minutes, or until lightly browned.
+7. Sprinkle the bell pepper, corn, green onions, cilantro, and cheese over the potato crust.
+8. In a blender, mix together the remaining eggs, milk, ¾ tsp. salt, chiles and adobo sauce.
+9. Pour mixture over vegetables in pie dish.
+10. Bake 20 to 25 minutes, or until knife inserted in center comes out clean.
+11. Let stand 5 minutes before serving.
+    #+begin_tip
+    I served the quiche topped with avocado slices and good store-bought salsa (I had Mrs. Renfro's Black Bean Salsa on hand). It was quite tasty, and everyone wanted seconds. I'll make this again, but I think next time I'll serve it with some black beans or a salad on the side, to add some fiber, and maybe add a third chipotle pepper (love the smokey flavor they add).
+    #+end_tip
+** Yield
+6 servings
 ** Credits:
 - http://www.grouprecipes.com/20674/southwestern-quiche-with-potato-crust.html 11 August 2008
+- Adapted from January 2007 Vegetarian Times recipe.
 - date created: [2008-08-11 Mon]

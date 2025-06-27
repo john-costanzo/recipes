@@ -1,7 +1,5 @@
 #+STARTUP: showeverything
 * Easy Red Pepper Hummus
-Serves 8
-
 ** Ingredients:
 - 1 (16 ounce) can garbanzo beans, drained and rinsed
 - 1 tablespoon olive oil
@@ -14,8 +12,10 @@ Serves 8
 - ¼ teaspoon garlic powder
 
 ** Method:
-1. In a food processor or blender, mix the garbanzo beans, olive oil, red bell pepper, tahini, lime juice, water, salt, black pepper, and garlic powder. Blend until smooth. 
+1. In a food processor or blender, mix the garbanzo beans, olive oil, red bell pepper, tahini, lime juice, water, salt, black pepper, and garlic powder. Blend until smooth.
 
+** Yield
+8 servings
 ** Credits:
 - Posted by: "New Hope-L'ville Vegetarians"  nhlveg@yahoo.com     nhlveg
 - Sat Dec 13, 2008 7:16 am (PST)

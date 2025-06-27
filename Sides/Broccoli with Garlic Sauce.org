@@ -1,8 +1,5 @@
 #+STARTUP: showeverything
 * Takeout Style Broccoli with Garlic Sauce
-** Yield
-Serves: 4
-
 ** Ingredients
 - 1 pound broccoli, cut into florets
 - 1 teaspoon dark soy sauce
@@ -26,6 +23,9 @@ Serves: 4
 3. Stir fry for 15 seconds, and add the Shaoxing rice wine around the perimeter of the wok. Give everything a quick stir and add in the sauce mixture. Let the sauce come to a boil, and mix the cornstarch and water together to make a slurry.
 
 4. Add the cornstarch slurry slowly while stirring the broccoli and sauce constantly. Let the sauce cook and thicken until it coats the back of a spoon. If you like a thick sauce, add more cornstarch and water. If you like your sauce thinner, add less cornstarch and water. If you'd like, stir in the chili oil at this point. Serve!
+
+** Yield
+4 servings
 
 ** Credits
 http://thewoksoflife.com/2017/03/broccoli-garlic-sauce/
