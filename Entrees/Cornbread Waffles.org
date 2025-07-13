@@ -1,0 +1,20 @@
+#+STARTUP: showeverything
+* Cornbread Waffles
+** Ingredients:
+- 1¼ cup cornmeal
+- 1½ teaspoon baking powder
+- ½ teaspoon sea salt
+- 1¼ cup canned coconut milk
+
+** Method:
+1. In a large mixing bowl, mix the cornmeal, baking powder and salt.
+2. Stir to combine well.
+3. Stir the coconut milk into the cornmeal and mix until a smooth batter forms.
+   #+begin_tip
+   Option: add 1 tablespoon maple syrup to the batter if you want a sweeter cornbread waffle.
+   #+end_tip
+5. Spoon the batter into a hot non-stick waffle iron.
+6. Cook each waffle until golden and crisp (about 2-3 minutes per waffle)
+** Credits:
+- From Patsy McCutcheon
+- date created: [2025-07-13 Sun]
