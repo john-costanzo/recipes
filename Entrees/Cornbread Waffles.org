@@ -11,7 +11,7 @@
 2. Stir to combine well.
 3. Stir the coconut milk into the cornmeal and mix until a smooth batter forms.
    #+begin_tip
-   Option: add 1 tablespoon maple syrup to the batter if you want a sweeter cornbread waffle.
+   Optionally add 1 tablespoon maple syrup to the batter if you want a sweeter cornbread waffle.
    #+end_tip
 5. Spoon the batter into a hot non-stick waffle iron.
 6. Cook each waffle until golden and crisp (about 2-3 minutes per waffle)
