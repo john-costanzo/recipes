@@ -1,0 +1,44 @@
+#+STARTUP: showeverything
+* Spicy Black Bean Burgers
+** Ingredients:
+- ½ cup rolled or quick-cooking oats
+- ½ cup nuts, any kind, toasted or raw (I used toasted walnuts)
+- 2 tablespoons mayonnaise or vegan mayonnaise (or olive oil?)
+- 1 4-ounce can roasted green chiles or 1 chipotle in adobo, drained
+- 1 ½ cups cooked black beans, homemade or from a 15-ounce can
+- 2 teaspoons hot sauce of choice, or more as desired
+- 1 teaspoon garlic powder
+- ½ teaspoon ground cumin
+- ½ teaspoon adobo seasoning or garlic salt, plus more to taste
+- 1-2 tablespoons water, as needed
+- Vegetable or olive oil, for cooking
+- Buns and condiments of choice, to serve
+** Method:
+1. Place the oats, nuts, mayonnaise, and drained chiles in the bowl of a food processor.
+2. Add about 2 tablespoons of liquid from the beans.
+3. Pulse until you have a rough paste, scraping down the sides of the bowl as needed.
+4. Let this mixture sit while you prepare the beans.
+5. Thoroughly drain the beans and spread them out in a large nonstick or well-seasoned cast iron skillet.
+6. Cook over over medium-high heat for 5-8 minutes, stirring once or twice, until they’re totally dried out and starting to split.
+7. Taste one for seasoning and adjust as needed—canned beans usually need at least a little salt.
+8. Scrape the hot beans into the food processor, add everything else except the water, and process until you have a relatively smooth paste.
+9. Take a little taste and adjust the seasonings as needed.
+     a. If it holds together when pinched, you’re set.
+     b. If it’s a dry, crumbly mess, throw in a tablespoon of water and process to combine.
+10. Generously wet your hands and form the burger mixture into 4 patties. (/Some extra surface moisture helps prevent cracking and crumbling./)
+11. Wipe out the bean skillet and heat it up over medium-low with a thin layer of vegetable or olive oil.
+12. Add as many patties as you can and let them cook until they’re dry on top and firm to the touch.
+13. This will take at least 4-5 minutes for thin patties and 6-8 for thick ones.
+    #+begin_tip
+    They’ll fall apart if you flip them too soon, so don’t touch!
+    #+end_tip
+    #+begin_tip
+    Use the downtime to toast buns, slice onions and tomatoes, and get your other condiments ready.
+    #+end_tip
+14. Flip the burgers and cook until the underside is brown, another 3-5 minutes depending on thickness.
+15. Serve on toasted buns with your favorite toppings.
+16. If you have any leftover burger mixture, form it into patties and freeze on a parchment-lined sheet pan so they’re ready for your next bean burger craving.
+** Credits:
+- From https://lifehacker.com/how-to-make-a-killer-black-bean-burger-in-30-minutes-1846792837
+- date created: [2025-07-31 Thu]
+- [2025-07-31 Thu] Made for lunch for T and me. They were tasty and fairly firm but a bit mushy in the middle. I rushed the pan fry and should probably let them fry a bit longer. Also T thought they were a tick too spicy; maybe use only 1 teaspoon of hot sauce?)
