@@ -2,15 +2,16 @@
 #+STARTUP: showeverything
 * Notes on Sourdough Starter
 - Container weights (empty):
+    + Santa Claus jar weighs 707g empty.
     + Mari's ice cream container (without the top) weighs 93g empty.
+       - Tip: don't use more than, say, 200g starter + 200g flour + 200g water in Mari's ice cream container.
     + Chinese food soup quart container weighs something like 28-36g.
-    + Deep red-top squarish bucket = 107g
     + Big Green Bowl = 114g
     + Stainless steel mixing bowl = 778g
 - 1 cup sourdough starter (unfed/discard) = 241g
 - To refresh the starter:
     + Combine equal parts (by weight) of starter, flour and filtered water.
-    + Let sit on counter for 2 hours and return to refrigerator.
-- Tip: don't use more than, say, 200g starter + 200g flour + 200g water in Mari's ice cream container.
+    + Let sit on counter for 2-4 hours and return to refrigerator.
     + You can safely mix this amount of starter in the container, but not much more.
-- Feed weekly.
+- Feed every week or two.
+- Instructions on how to [[https://youtu.be/hWXA8xFYu9A][shape a boule]].
