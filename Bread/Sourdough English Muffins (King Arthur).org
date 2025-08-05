@@ -1,18 +1,6 @@
 #+STARTUP: showeverything
 * English Muffins, Sourdough (King Arthur)
 ** Ingredients:
-*** 2 dozen
-- 1 cup (227g) sourdough starter, ripe (fed) or discard; ripe will give you a more vigorous rise
-- 2 tablespoons (25g) sugar
-- 2 cups (454g) warm water (110°F-115°F)
-- 1 tablespoon active dry yeast or instant yeast
-- 7 cups (843g) King Arthur Unbleached All-Purpose Flour
-- ½ cup (43g) Baker's Special Dry Milk or nonfat dry milk
-- ¼ cup (4 tablespoons, 57g) butter, at room temperature
-- 1 tablespoon salt
-- ¼ teaspoon sour salt (citric acid), optional; for enhanced sour flavor
-- semolina or cornmeal, for coating
-*** 1 dozen
 - ½ cup (113.5g) sourdough starter, ripe (fed) or discard; ripe will give you a more vigorous rise
 - 1 tablespoon (12.5g) sugar
 - 1 cup (227) warm water (110°F-115°F)
@@ -32,7 +20,7 @@
 
 4. Gently deflate the dough, turn it out onto a lightly floured work surface, cover it, and let it sit for a few minutes, to relax the gluten. Divide the dough in half. Working with one piece at a time, roll ½" thick, and cut in 3" rounds. Re-roll and cut any remaining scraps. Repeat with the remaining half of dough.
 
-5. Alternatively, divide the dough into 24 pieces (total). Shape each piece into a round ball, then flatten each ball into a 3" round. For a somewhat more even rise as the muffins cook, flatten each ball slightly larger than 3", and trim edges with a 3" cutter (or trim all around the edge with a pair of scissors). Muffins with cut (rather than flattened) sides will rise more evenly.
+5. Alternatively, divide the dough into 12 pieces (total). Shape each piece into a round ball, then flatten each ball into a 3" round. For a somewhat more even rise as the muffins cook, flatten each ball slightly larger than 3", and trim edges with a 3" cutter (or trim all around the edge with a pair of scissors). Muffins with cut (rather than flattened) sides will rise more evenly.
 
 6. Place the rounds, evenly spaced, onto cornmeal- or semolina-sprinkled baking sheets (12 per sheet). Sprinkle them with additional cornmeal or semolina, cover with plastic wrap, and let them rise until light and puffy, about 45 to 60 minutes.
      - If the dough has been refrigerated overnight, the rise time will be about 2 hours.
@@ -42,8 +30,10 @@
 8. Cook the muffins for about 5 minutes on each side, or until an instant-read thermometer inserted in the center of a muffin registers 190°F. The edges may feel a bit soft; that's OK.
 
 9. Remove the muffins from the griddle, and cool on a rack. Store tightly wrapped at room temperature for 4 or 5 days; freeze for longer storage.
+** Yield
+- 1 dozen muffins
 ** Credits:
 - From https://www.kingarthurflour.com/recipes/sourdough-english-muffins-recipe
 - date created: [2020-04-03 Fri]
 - [2020-04-26 Sun] Made again (a half recipe).
-- [2021-09-19 Sun] Made them once again and griddled them for ~8 minutes on a side and they reach over 190°F. Need to reduce cook time.
+- [2021-09-19 Sun] Made them once again and griddled them for ~8 minutes on a side and they reached over 190°F. Need to reduce cook time.
