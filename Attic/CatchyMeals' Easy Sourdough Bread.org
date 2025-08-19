@@ -1,0 +1,44 @@
+#+STARTUP: showeverything
+* CatchyMeals' Easy Sourdough Bread
+** Ingredients:
+- 225 grams of active sourdough starter (it should be bubbly and recently fed)
+- 630 grams of room-temperature water
+- 950 grams of bread flour (unbleached is best for flavor and structure)
+- 23 grams of fine sea salt
+** Method:
+*** Mixing and Bulk Fermentation
+1. Start by adding your water and sourdough starter to the mixer bowl.
+2. Stir briefly, then add in the flour and salt.
+3. Mix gently until a rough dough forms.
+4. Let this rest for 30 minutes—this stage is called “autolyze” and helps the flour absorb moisture.
+5. After the rest, knead with the dough hook for 30–60 seconds.
+6. Then cover the bowl with a tea towel.
+7. Every 20 minutes, repeat a short mix.
+8. Do this 4 times in total. (This replaces traditional hand stretch-and-folds.)
+   #+begin_note
+   The dough will begin to look smoother and feel more elastic with each round.
+   #+end_note
+*** Cold Ferment in the Fridge
+1. After the final mix, transfer your dough to a large covered container and place it in the refrigerator. /This stage, known as “cold bulk fermentation,” slows everything down and builds flavor naturally./
+   #+begin_note
+   The dough can stay chilled for 24 to 48 hours, so it fits your schedule. No rush. No stress. When you open the container after a day or two, you’ll see a bubbly, strong dough that’s full of life and ready to bake.
+   #+end_note
+*** Shaping and Proofing
+1. When you’re ready to bake, gently turn the cold dough onto a lightly floured surface.
+2. Divide and shape it into rounds or ovals, depending on your banneton size.
+3. Dust the baskets with flour (you can also line them with tea towels if preferred) and place your shaped dough inside.
+4. Cover with a clean towel and let it proof at room temperature for about 1 hour. /This resting time helps the dough relax and warm up before baking./
+*** Baking with Steam
+1. Preheat your oven to 475°F.
+2. If using a Dutch oven, place it inside while the oven preheats to ensure it’s hot when the dough goes in.
+3. Carefully flip your dough onto parchment paper, score it using a lame or razor, and place it into the Dutch oven or covered baking pan.
+4. Bake covered for 20 minutes.
+5. Then remove the lid and bake for an additional 20–25 minutes, until the crust is deep golden brown.
+   #+begin_tip
+   To enhance the crust, toss a handful of ice cubes into an empty oven-safe pan on the bottom shelf during baking. The resulting steam helps the loaf rise and form a crackly, beautiful exterior.
+   #+end_tip
+** Yield:
+This recipe is designed to make three medium-sized loaves or two large ones. It’s the perfect quantity for families, gifting, or freezing a loaf for later.
+** Credits:
+- From https://catchymeals.com/easy-sourdough-bread-with-no-stress/
+- date created: [2025-08-10 Sun]
