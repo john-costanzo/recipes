@@ -1,0 +1,59 @@
+#+STARTUP: showeverything
+* 20% Whole Wheat Artisan Sourdough Bread
+** Ingredients:
+- 350 g water
+- 120 g active sourdough starter
+- 400 g bread flour
+- 100 g whole wheat flour
+- 10 g sea salt
+** Method:
+*** Before you begin
+1. About 10-12 hours before you plan to make this recipe, feed your starter a 1:5:5 feeding ratio.
+   #+begin_tip
+   I suggest 13g starter, 65 water, 65g flour. That'll give you a little more than you need for this recipe. If you need your starter ready to bake with sooner, consider a 1:1:1 feeding ratio, or about 45g starter, 45g water, 45g flour, which should peak within 4-6 hours.
+   #+end_tip
+*** Mix Dough
+1. In a glass mixing bowl, combine 350 g water with 120 g active sourdough starter.
+2. Then, add 400 g bread flour, 100 g whole wheat flour, and 10 g sea salt.
+3. Mix with your hands or a Danish dough whisk until you reach a shaggy dough (3-4 minutes).
+4. Cover with plastic wrap or a bowl cover and rest for 30-60 minutes.
+   #+begin_note
+   Note: the bulk fermentation has begun.
+   #+end_note
+*** Strengthen Dough / Bulk Fermentation
+1. Wet hands to prevent sticking.
+2. Stretch and fold all four corners of the dough.
+3. Turn out dough and slap and fold until the top is smooth and the dough has strengthened (1-2 minutes).
+4. Cover and let rest for 30-60 minutes.
+5. Wet hands.
+6. Stretch and fold all four corners of the dough.
+7. Cover and let rest for 30 minutes.
+8. Do one more round of stretch and folds; then, let the dough rest (covered) until the bulk fermentation is done.
+   #+begin_note
+   Bulk fermentation is done when the dough has increased in volume, it jiggles when you shake the bowl, there are bubbles under the surface and all around the sides and bottom of the bowl, and when you tap the surface of the dough, it feels very pillowy and aerated. In my 74°F (23°C) kitchen, this took a total of 5.5 hours.
+   #+end_note
+*** Shape Dough
+1. Gently turn out dough onto a floured surface.
+2. Gently stretch into a rectangular shape.
+3. Imagine the dough being divided into three equal vertical portions.
+4. Lift the right portion over to the center of the dough.
+5. Repeat with the left portion.
+6. Starting at the top of your dough, roll it down towards you like a log, being very gentle as you roll.
+7. Pinch the seams on the ends and place into a floured banneton. Stitch the seam closed, dust with rice flour, and cover.
+   #+begin_note
+   Feeling like your dough needs more rise? You can let it rise a little longer before refrigerating. I felt this way and let the dough rest on the counter for an additional 40 minutes before refrigerating.
+   #+end_note
+*** Bake Bread
+1. The next day, preheat your oven to 450°F (230°C) convection (or 475°F/250°C conventional) with a Dutch oven inside.
+2. After it has preheated, give it 10 more minutes to ensure your Dutch oven is super hot.
+3. Turn your dough out of your banneton onto parchment paper.
+4. Score the top and place in your hot Dutch oven.
+5. Bake covered for 25 minutes.
+6. Remove the lid and bake an additional 10 minutes, or until the top is nicely browned and the internal temperature is between 205-210°F (96-99°C).
+7. Let fully cool before slicing.
+**** Tags:
+IsFav
+**** Credits:
+- From https://thatsourdoughgal.com/20-percent-whole-wheat-artisan-sourdough-bread-recipe/#recipe
+- date created: [2025-08-19 Tue]
+- [2025-08-14 Thu] A pretty simple recipe with great results: a nice, open crumb, very flavorful, even days later, when toasted. I spritzed the top with a bit of water after removing the lid, hoping to get the crust extra crispy but probably should not have.
