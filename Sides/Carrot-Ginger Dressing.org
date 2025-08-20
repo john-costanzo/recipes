@@ -1,0 +1,17 @@
+#+STARTUP: showeverything
+* Carrot-Ginger Dressing
+** Ingredients:
+- 1 small carrot, peeled and coarsely chopped
+- 1 (1-inch) piece fresh ginger, peeled and coarsely chopped
+- ¼ cup extra-virgin olive oil
+- 2 tablespoons rice vinegar
+- 1½ teaspoons soy sauce
+- 1 tablespoon granulated sugar
+- 1 teaspoon onion powder
+- salt
+
+** Method:
+1. In a food processor, purée the carrot, ginger, olive oil, rice vinegar, soy sauce, sugar, onion powder, a pinch of salt and 1 tablespoon cold water until as smooth as possible, 1 to 2 minutes.
+** Credits:
+- From https://cooking.nytimes.com/recipes/1023298-crunchy-greens-with-carrot-ginger-dressing
+- date created: [2025-08-20 Wed]
