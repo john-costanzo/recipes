@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Naan
 ** Ingredients:
-- ⅜ cup (3 ounces) lukewarm water to dissolve yeast (even though the recipe calls for ¾ cup)
+- 4 ounces lukewarm water to dissolve yeast (even though the recipe calls for ¾ cup; see notes below)
 - 1 tsp active dry yeast
 - 2 cups all-purpose flour plain flour
 - 1 tsp salt
@@ -10,7 +10,7 @@
 - 2 Tbsp oil canola
 - 2½ Tbsp plain yogurt
 - 1 tsp clarified butter (ghee), to butter the Naan
-- ¼ cup All Purpose flour for rolling
+- ¼ cup all-purpose flour for rolling
 ** Method:
 1. Dissolve yeast in lukewarm water and let it sit for 10 minutes or until the mixture becomes frothy.
 2. Add sugar, salt and baking soda to the flour and mix well.
@@ -26,7 +26,7 @@
 12. Take Naan out of the oven and brush lightly with clear butter or ghee.
 13. Wait two to three minutes before baking the next Naan to give oven a chance to regain lost heat.
 ** Tags
-Favorite
+IsFavorite
 ** Credits:
 - From https://www.manjulaskitchen.com/Naan-bread/
 - date created: [2021-12-18 Sat]
@@ -34,3 +34,4 @@ Favorite
 - [2023-01-26 Thu] Made for Squirrels' party. They were a hit although I may have rolled the bread a bit too thinly. They got a bit more crispy than I'd prefer.
 - [2023-03-12 Sun] Made for G, MA and the Grosecloses, to popular acclaim.
 - [2025-06-01 Sun] Once again, I may have rolled the bread a bit too thinly. They got a bit more crispy than I'd prefer. Next time don't roll them paper thin!
+- [2025-08-22 Fri] Once again, I rolled the naan thicker, but still too thinly. They didn't rise and got a bit more crispy than I'd prefer. Maybe they do need more water. Original recipe called for 6 ounces of water; instead I've been using 3 ounces. The recipe has now been adjusted to 4 ounces.
