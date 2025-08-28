@@ -10,7 +10,7 @@
 *** Before you begin
 1. About 10-12 hours before you plan to make this recipe, feed your starter a 1:5:5 feeding ratio.
    #+begin_tip
-   I suggest 13g starter, 65 water, 65g flour. That'll give you a little more than you need for this recipe. If you need your starter ready to bake with sooner, consider a 1:1:1 feeding ratio, or about 45g starter, 45g water, 45g flour, which should peak within 4-6 hours.
+   I suggest 13g starter, 65 g water, 65g flour. That'll give you a little more than you need for this recipe. If you need your starter ready to bake with sooner, consider a 1:1:1 feeding ratio, or about 45g starter, 45g water, 45g flour, which should peak within 4-6 hours.
    #+end_tip
 *** Mix Dough
 1. In a glass mixing bowl, combine 350 g water with 120 g active sourdough starter.
@@ -32,6 +32,7 @@
    #+begin_note
    Bulk fermentation is done when the dough has increased in volume, it jiggles when you shake the bowl, there are bubbles under the surface and all around the sides and bottom of the bowl, and when you tap the surface of the dough, it feels very pillowy and aerated. In my 74°F (23°C) kitchen, this took a total of 5.5 hours.
    #+end_note
+9. Place it in the fridge overnight for a cold proof.
 *** Shape Dough
 1. Gently turn out dough onto a floured surface.
 2. Gently stretch into a rectangular shape.
