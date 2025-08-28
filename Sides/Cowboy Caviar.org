@@ -6,7 +6,7 @@
 - ¼ cup granulated sugar or to taste (see note 1)
 - ¼ cup white wine vinegar (see note 2)
 - 1 teaspoon chili powder
-- Salt
+- salt
 *** For the salad
 - 1 pound Roma tomatoes seeded and diced
 - 1 (15 ounce) can black-eyed peas drained and rinsed
@@ -32,14 +32,13 @@
 *Extra sweet "shoepeg" corn*: Regular canned sweet corn or frozen corn may be substituted for the extra sweet corn. The closest measurement for either option is ¾ cup, but feel free to use the whole 15-ounce can of corn.
 #+end_note
 #+begin_note
-*Yield*: This recipe makes about twelve 1 cup servings of Cowboy Caviar (more or less depending on the size of your bell peppers).
-#+end_note
-#+begin_note
 *Storage*: This recipe keeps about 3-4 days in the refrigerator.
 #+end_note
-#+begin_note
+#+begin_tip
 *Make ahead*: You can make the dressing up to 3 days in advance. You can assemble the full recipe a day in advance too, but the bell peppers might soften a bit in the dressing.
-#+end_note
+#+end_tip
+** Yield
+This recipe makes about twelve cups of Cowboy Caviar (more or less depending on the size of your bell peppers).
 ** Credits:
 - From https://www.culinaryhill.com/wprm_print/cowboy-caviar
 - date created: [2024-05-04 Sat]
