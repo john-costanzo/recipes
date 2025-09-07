@@ -32,7 +32,6 @@
    #+begin_note
    Bulk fermentation is done when the dough has increased in volume, it jiggles when you shake the bowl, there are bubbles under the surface and all around the sides and bottom of the bowl, and when you tap the surface of the dough, it feels very pillowy and aerated. In my 74°F (23°C) kitchen, this took a total of 5.5 hours.
    #+end_note
-9. Place it in the fridge overnight for a cold proof.
 *** Shape Dough
 1. Gently turn out dough onto a floured surface.
 2. Gently stretch into a rectangular shape.
@@ -44,6 +43,7 @@
    #+begin_note
    Feeling like your dough needs more rise? You can let it rise a little longer before refrigerating. I felt this way and let the dough rest on the counter for an additional 40 minutes before refrigerating.
    #+end_note
+8. Place it in the fridge overnight for a cold proof.
 *** Bake Bread
 1. The next day, preheat your oven to 450°F (230°C) convection (or 475°F/250°C conventional) with a Dutch oven inside.
 2. After it has preheated, give it 10 more minutes to ensure your Dutch oven is super hot.
