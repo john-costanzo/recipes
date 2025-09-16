@@ -20,6 +20,10 @@
 - 1 teaspoon (6.75g) maple syrup or agave syrup (use only ½ teaspoon if you don't want any hint of sweetness on your buns)
 - 1 teaspoon (5g) regular mustard or dijon mustard
 ** Method:
+*** Feed the Starter
+1. Combine 17g starter, 83 g water and 83g flour.
+2. Let rest 10-12 hours.
+*** Make the dough
 1. In the bowl of your stand mixer, combine the sourdough starter, water, and yeast.
 2. Weigh your flours; or measure them by scooping them into a cup and sweeping off any excess.
 3. Combine the flours, dry milk, salt, and sugar, then add to the mixer bowl with the starter and water.
@@ -30,19 +34,20 @@
 8. Try the windowpane test: you should be able to stretch a piece of dough until you can see through it.
 9. Cover the dough and let it rest in a warm place (75°F to 80°F) for about 4 hours.
 10. To degas and even out the temperature of the dough, stretch and fold it in the bowl two or three times during the rest.
-11. You can be fairly flexible in your timing of these; one stretch and fold per hour is ideal.
-12. Turn the dough out onto a lightly floured work surface and divide it into 6 pieces of equal weight; if you have a scale, each piece should weigh about 120g.
-13. Shape the dough pieces into tight balls and place them on a lightly greased or parchment-lined baking sheet, or into the lightly greased wells of a hamburger bun pan.
-14. A baker shaping dough into rolls by folding the corners into the center and then rounding the dough into a ball.
-15. Press the balls gently to flatten them slightly; they should come close to filling the wells of the bun pan, if you're using it.
-16. A baker using the palm of their hand to gently flatten each roll.
-17. Cover the buns and let them rise until puffy, about 4 hours in a warm place.
-18. Twenty minutes before you’re ready to bake, preheat the oven to 375°F.
-19. Uncover the buns and brush them with the beaten egg yolk/water mixture.
-20. Sprinkle with toppings.
-21. Bake the buns for 20 to 25 minutes, until golden brown and a digital thermometer inserted into the center of one bun reads at least 190°.
-22. Remove the buns from the oven and allow them to cool before serving.
-23. Store buns at room temperature for several days; freeze for longer storage.
+    #+begin_note
+    You can be fairly flexible in your timing of these; one stretch and fold per hour is ideal.
+    #+end_note
+11. Turn the dough out onto a lightly floured work surface and divide it into 6 pieces of equal weight; if you have a scale, each piece should weigh about 120g.
+12. Shape the dough pieces into tight balls and place them on a lightly greased or parchment-lined baking sheet, or into the lightly greased wells of a hamburger bun pan.
+13. A baker shaping dough into rolls by folding the corners into the center and then rounding the dough into a ball.
+14. Press the balls gently to flatten them slightly; they should come close to filling the wells of the bun pan, if you're using it.
+16. Cover the buns and let them rise until puffy, about 4 hours in a warm place.
+17. Twenty minutes before you’re ready to bake, preheat the oven to 375°F.
+18. Uncover the buns and brush them with the beaten egg yolk/water mixture.
+19. Sprinkle with toppings.
+20. Bake the buns for 20 to 25 minutes, until golden brown and a digital thermometer inserted into the center of one bun reads at least 190°.
+21. Remove the buns from the oven and allow them to cool before serving.
+22. Store buns at room temperature for several days; freeze for longer storage.
 *** Tips
 #+begin_tip
 If you don’t want to wait for your starter to be completely ripe (or if you’d like a little added leavening insurance), add the teaspoon of optional yeast to your dough. Note that the rising/proofing times will take less than half the amount of time with the additional yeast, likely about 90 minutes (with just one round of stretching and folding the dough) for the first rise, and about 90 minutes for the second.
