@@ -15,7 +15,7 @@
 *** Topping
 - seeds and/or seasonings, /optional/
 - 1 large egg yolk beaten with 1 teaspoon water /or/
-**** Vegan Egg Wash
+**** Vegan "Egg" Wash
 - 3 tablespoons (44mL) unsweetened vegan milk preferably one with a high protein content
 - 1 teaspoon (6.75g) maple syrup or agave syrup (use only ½ teaspoon if you don't want any hint of sweetness on your buns)
 - 1 teaspoon (5g) regular mustard or dijon mustard
@@ -32,22 +32,23 @@
 6. Stop the mixer, scrape the bowl, and switch to the dough hook.
 7. Add the butter, then turn the mixer up a speed or two and continue to knead until the dough is smooth and elastic, about 8 to 12 minutes longer.
 8. Try the windowpane test: you should be able to stretch a piece of dough until you can see through it.
-9. Cover the dough and let it rest in a warm place (75°F to 80°F) for about 4 hours.
-10. To degas and even out the temperature of the dough, stretch and fold it in the bowl two or three times during the rest.
-    #+begin_note
-    You can be fairly flexible in your timing of these; one stretch and fold per hour is ideal.
-    #+end_note
-11. Turn the dough out onto a lightly floured work surface and divide it into 6 pieces of equal weight; if you have a scale, each piece should weigh about 120g.
-12. Shape the dough pieces into tight balls and place them on a lightly greased or parchment-lined baking sheet, or into the lightly greased wells of a hamburger bun pan.
-13. A baker shaping dough into rolls by folding the corners into the center and then rounding the dough into a ball.
-14. Press the balls gently to flatten them slightly; they should come close to filling the wells of the bun pan, if you're using it.
-16. Cover the buns and let them rise until puffy, about 4 hours in a warm place.
-17. Twenty minutes before you’re ready to bake, preheat the oven to 375°F.
-18. Uncover the buns and brush them with the beaten egg yolk/water mixture.
-19. Sprinkle with toppings.
-20. Bake the buns for 20 to 25 minutes, until golden brown and a digital thermometer inserted into the center of one bun reads at least 190°.
-21. Remove the buns from the oven and allow them to cool before serving.
-22. Store buns at room temperature for several days; freeze for longer storage.
+9. Cover the dough and let it rest in a warm place (75°F to 80°F) for about 4 hours. To degas and even out the temperature of the dough, stretch and fold it in the bowl two or three times during the rest.
+   #+begin_note
+   You can be fairly flexible in your timing of these; one stretch and fold per hour is ideal.
+   #+end_note
+*** Form the buns
+1. Turn the dough out onto a lightly floured work surface and divide it into 6 pieces of equal weight; if you have a scale, each piece should weigh about 120g.
+2. Shape the dough pieces into tight balls and place them on a lightly greased or parchment-lined baking sheet, or into the lightly greased wells of a hamburger bun pan.
+3. A baker shaping dough into rolls by folding the corners into the center and then rounding the dough into a ball.
+4. Press the balls gently to flatten them slightly; they should come close to filling the wells of the bun pan, if you're using it.
+5. Cover the buns and let them rise until puffy, about 4 hours in a warm place.
+6. Twenty minutes before you’re ready to bake, preheat the oven to 375°F.
+7. Uncover the buns and brush them with the beaten egg wash.
+8. Sprinkle with toppings.
+*** Bake the buns
+1. Bake the buns for 20 to 25 minutes, until golden brown and a digital thermometer inserted into the center of one bun reads at least 190°.
+2. Remove the buns from the oven and allow them to cool before serving.
+3. Store buns at room temperature for several days; freeze for longer storage.
 *** Tips
 #+begin_tip
 If you don’t want to wait for your starter to be completely ripe (or if you’d like a little added leavening insurance), add the teaspoon of optional yeast to your dough. Note that the rising/proofing times will take less than half the amount of time with the additional yeast, likely about 90 minutes (with just one round of stretching and folding the dough) for the first rise, and about 90 minutes for the second.
