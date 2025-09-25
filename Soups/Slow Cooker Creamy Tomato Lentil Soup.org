@@ -1,0 +1,35 @@
+#+STARTUP: showeverything
+* Slow Cooker Creamy Tomato Lentil Soup
+** Ingredients:
+- 1 pound 12 ounces tomatoes, roughly chopped, divided (see Tip)
+- 1½ cups red lentils, rinsed
+- 4 garlic cloves, smashed and chopped
+- 1 large basil sprig plus 1 cup roughly chopped basil
+- ¼ cup tomato paste
+- 2 tablespoons olive oil
+- 1 tablespoon kosher salt (such as Diamond Crystal)
+- 1½ teaspoons sugar
+- 1 teaspoon dried oregano
+- black pepper
+- juice of 1 lemon
+- ¾ cup heavy cream
+** Method:
+1. In a 6- to 8-quart slow cooker, combine 5 cups water, about 1 pound of the tomatoes (no need to be exact) along with any juices, the lentils, garlic, basil sprig, tomato paste, olive oil, salt, sugar, oregano and several generous grinds of black pepper.
+2. Cook on high for 4 hours.
+3. Remove and discard the basil sprig. (It’s OK if it falls apart.)
+4. Whisk the soup vigorously to help the tomatoes and lentils fall apart and become smooth.
+5. Stir in the remaining tomatoes and chopped basil, plus the lemon juice and the cream.
+6. Taste for seasoning and add more salt or pepper if necessary.
+   #+begin_note
+   The soup will thicken as it cools; add more water as necessary for the texture you like.
+   #+end_note
+
+   #+begin_tip
+   Feel free to use any kind of tomato that you have on hand: Almost-falling apart beefsteaks would be lovely, as would cherry tomatoes or plum tomatoes. (If you use all cherry tomatoes, just be aware that there will be more tomato skin in the soup, so choose thinner skinned varieties, like Sungold, if you can.) Outside of tomato season, use a 15-ounce can of tomatoes to start, and finish with chopped cherry or grape tomatoes, which tend to be better than other varieties out of season.
+   #+end_tip
+
+** Yield:
+4 to 6 servings
+** Credits:
+- From https://cooking.nytimes.com/recipes/1027173-slow-cooker-creamy-tomato-lentil-soup
+- date created: [2025-09-04 Thu]
