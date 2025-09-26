@@ -1,0 +1,56 @@
+#+STARTUP: showeverything
+* Apple Crisp Sourdough Loaf
+** Ingredients:
+*** Bread
+- 75 grams bubbly, active sourdough starter
+- 15 grams honey
+- 350 grams filtered water
+- 550 grams all-purpose flour
+- 9 grams salt
+*** Oat Filling
+- 1 large apple, grated
+- ¼ cup brown sugar
+- ½ cup rolled oats
+- 1 tsp cinnamon
+** Method:
+*** Feed Starter
+1. In the morning, feed your starter: 7g starter, 35 g water, 35g flour.
+2. In the afternoon when your starter has doubled, assemble your dough.
+*** Dough Assembly
+1. Start by mixing your starter, water, and honey together in a large mixing bowl until your starter has dissolved turns into a milk liquid.
+2. Add in your flour and salt and mix together until a shaggy dough forms.
+3. Cover with a damp tea towel or bowl cover and let rest for 45 minutes.
+4. After resting, pull one side of the dough up and towards the middle, rotating the bowl and repeating each time for 30 to 60 seconds until a semi – smooth dough forms.
+5. Cover and let rest for one hour.
+6. Repeat the stretch and folds 3 more times every 30 minutes – 1 hour apart.
+7. Cover your bowl with a damp tea towel and let rest on the counter to bulk ferment for 8-10 hours.
+*** The next morning
+1. The next morning, transfer your fermented dough to clean workspace.
+2. Slightly stretch your dough out into a rectangle shape.
+3. Grate your apple and pat dry with a paper towel to soak up the moisture.
+4. Into a small bowl, mix together your grated apple, brown sugar, oats and cinnamon together.
+5. Evenly sprinkle ¾ of the apple mixture all over the surface of the dough.
+6. Fold one of the longer sides of the rectangle up and towards the middle, do the same with the other side and meet it towards the center.
+7. Sprinkle the remaining apple mixture over the seam of and roll the dough up.
+8. Using the palms of your hands, push the dough up and pull the dough down on your workspace to create tension.
+9. Be careful with the step, creating too much tension will cause the surface of the dough to rip.
+10. Use your bench scraper to transfer the dough into a floured banneton seam side up.
+11. Let rest in the banneton for 10 minutes.
+    #+begin_tip
+    Add oats to the outside of the dough by damping the surface slightly and rolling it onto a plate of oats before placing it into the banneton.
+    #+end_tip
+13. After resting, stitch the center of the bread dough from the top all the way to the bottom.
+14. Cover, and place in the fridge for at least 2 hours or up to 48 hours.
+*** Baking
+1. When you're ready to bake, place your Dutch oven into your home oven and preheat it to 450 degrees for at least 20 minutes.
+2. Transfer your dough onto a piece of parchment paper.
+3. Using a bread lame, score the top of the dough into whatever design you like best.
+4. Carefully place the dough into a hot Dutch oven with the parchment paper.
+5. Recover with the lid and bake for 25 minutes.
+6. Remove the lid and bake for an additional 23 – 25 minutes, depending on how golden you like the crust.
+7. Remove from the oven and place onto a cooling rack.
+8. Let your bread fully cool before slicing and serving with a side of soft butter or apple butter.
+** Credits:
+- From https://actsofsourdough.com/apple-crisp-sourdough-loaf/#recipe
+- date created: [2025-09-26 Fri]
+- [2025-09-25 Thu] I threw in 350g of sourdough discard (to use it up). The dough did not strengthen as much as I thought it ought to and was highly hydrated. It took another 8 or so minutes longer to bake (using convection toward the end), but turned out well. The taste is very subtle: three people thought there must be raisins instead of apples in the bread.
