@@ -1,0 +1,36 @@
+#+STARTUP: showeverything
+* Quinoa Strawberry (or Apple) Salad
+** Ingredients:
+*** Dressing
+- 2 tablespoons balsamic vinegar (if apples, substitute apple cider vinegar)
+- 1 teaspoon Dijon mustard
+- 2 tablespoons olive oil
+- Salt and fresh ground pepper to taste
+- (if apples, ¼ tsp garlic powder)
+- (if apples, 1 Tbsp maple syrup)
+*** Salad
+- ½ cup dry quinoa
+- 2 cups baby spinach leaves, chiffonade
+- 2 cups arugula
+- ⅔ cup sliced strawberries (if apples, substitute peeled, diced apples)
+- 2 tablespoons sliced almonds, toasted
+- 1 handful of fresh basil leaves, chiffonade
+** Method:
+1. Place quinoa in medium saucepan along with 1¾ cups water.
+2. Bring to boil, then cover and reduce heat to simmer for 15 minutes or until cooked.
+3. Remove lid and cook until all water is evaporated.
+4. Remove from heat.
+5. Make the dressing by combining all ingredients in a bowl or jar.
+6. Place the quinoa, spinach, arugula, strawberries, toasted almonds, and basil in bowl and combine.
+7. Add and toss in dressing just prior to serving.
+   #+begin_note
+   Variations:
+   - Add feta or goat cheese.
+   - Add dried cranberries or raisins.
+   - Substitute walnuts or pecans for almonds.
+   #+end_note
+** Yield
+- 4 servings (1 cup each)
+** Credits:
+- From https://medinsteadofmeds.com/quinoa-strawberry-salad/
+- date created: [2025-10-11 Sat]
