@@ -24,7 +24,7 @@
 6. Place the quinoa, spinach, arugula, strawberries, toasted almonds, and basil in bowl and combine.
 7. Add and toss in dressing just prior to serving.
    #+begin_note
-   Variations:
+   - *Variations:*
    - Add feta or goat cheese.
    - Add dried cranberries or raisins.
    - Substitute walnuts or pecans for almonds.
