@@ -1,0 +1,49 @@
+#+STARTUP: showeverything
+* Vegan Wild Rice Soup
+** Ingredients:
+- 3 cups cooked wild rice (1 cup uncooked wild rice)
+- 2 large carrots, chopped
+- 2 stalks of celery, chopped
+- 4 green onions, chopped
+- 8 ounces mushrooms, sliced
+- 4 cups water
+- 2 teaspoons salt
+- 3 teaspoons oregano
+- 2 teaspoons Old Bay (optional but suggested)
+- 1 teaspoon pepper
+- 2 teaspoons basil
+- 3 tablespoons vegan butter
+- ¼ cup flour
+- 1 cup non-dairy milk
+- 2-3 hand fulls of greens such as kale/spinach/chard
+** Method:
+1. For this recipe, you will need 3 cups cooked wild rice.
+2. If you have not cooked your wild rice yet, you will need to cook it for 45 minutes until soft and the rice has burst open.
+   #+begin_tip
+   1 cup of uncooked wild rice in 4 cups of water will yield 3 cups of cooked wild rice necessary for this recipe.
+   #+end_tip
+   #+begin_note
+   I do not include the cooking time for the rice in the prep time for this recipe as you can make it in advance!
+   #+end_note
+3. In a large pot over high heat, sauté carrots, celery, and green onions in a little bit of oil until slightly soft.
+4. Add in the sliced mushrooms and cook until the mushrooms release their liquid and begin to become brown and reduce in size.
+5. Add all of the spices and stir until combined.
+6. Add the water and cover to simmer while you make the roux.
+7. In a small saucepan, you are going to make the roux which will make your vegan wild rice soup thick and creamy!
+8. To make the roux, melt 3-4 tablespoons of vegan butter in a saucepan.
+9. Then, add ¼ cup of flour and stir until the mixture becomes like a paste.
+10. Now, add in the non-dairy milk and stir until the mixture has thickened about 1 minute.
+    #+begin_tip
+    You will want the mixture to be thick like an Alfredo Sauce, not thin like water!
+    #+end_tip
+11. Add your 3 cups cooked wild rice to the soup and stir in the roux until combined throughout.
+12. Cover and cook the wild rice soup on high for 5-10 minutes.
+13. Throw in a few hand fulls of the greens of your choice and stir to combine.
+    #+begin_tip
+    I like to use spinach, kale, or chard for the best results. Don't use lettuce as it won't hold up well!
+    #+end_tip
+14. Serve with a piece of crusty bread or crackers!
+** Credits:
+- From https://wowitsveggie.com/vegan-wild-rice-soup/#mv-creation-157-jtr
+- date created: [2025-11-06 Thu]
+- Tracey made this and added a handful of shiitake mushrooms which really gave the soup a nice mushroomy flavor.
