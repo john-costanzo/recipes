@@ -10,16 +10,25 @@
 - ½ to 1 teaspoon each of the following spices: Turmeric, cayenne pepper, garlic powder, fajita seasoning, smoked paprika
 - 1 finely chopped jalapeno pepper, optional
 - ½ finely chopped red bell pepper, optional
-
+   #+begin_tip
+   They /are/ spicy. Consider going lighter on the cayenne if there are non-spice lovers.
+   #+end_tip
 ** Method:
-1. Preheat oven to 450F.
-2. Wash potatoes - but don't peel. Cut potato into fourths, or into bite-sized pieces.
-3. Bring large pot of water to a boil, adding the salt and baking soda. Once water is boiling, add potato chunks. Boil for about 5 to 6 minutes, until potatoes are fork tender. Remove from heat and drain.
-4. In a large bowl, combine olive oil and spices. Add cooked potatoes and toss to ensure even coating.
-5. Place potatoes on a large baking sheet. Place in oven and bake for 20 minutes. Remove from oven and use a spatula to gently move potatoes around and unstick any stuck potatoes, to ensure even roasting.
-6. Return potatoes to oven and roast for an additional 30 to 40 minutes, until potatoes are cooked to your liking.
+1. Preheat oven to 450° F.
+2. Wash potatoes... but don't peel them.
+3. Cut potato into fourths, or into bite-sized pieces.
+4. Bring large pot of water to a boil, adding the salt and baking soda.
+5. Once water is boiling, add potato chunks.
+6. Boil for about 5 to 6 minutes, until potatoes are fork tender.
+7. Remove from heat and drain.
+8. In a large bowl, combine olive oil and spices.
+9. Add cooked potatoes and toss to ensure even coating.
+10. Place potatoes on a large baking sheet.
+11. Place in oven and bake for 20 minutes.
+12. Remove from oven and use a spatula to gently move potatoes around and unstick any stuck potatoes, to ensure even roasting.
+13. Return potatoes to oven and roast for an additional 30 to 40 minutes, until potatoes are cooked to your liking.
 ** Credits:
 - https://www.cheaprecipeblog.com/wp-json/mv-create/v1/creations/5/print
 - date created: [2020-01-18 Sat]
 - [2020-01-19 Sun] Made for brunch with Mom, Lucille and John. Good, crispy. Used Penzy's Turkish spice.
-- [2021-09-26 Sun] Made for brunch with Heimburgs. These potatoes are good. But they /are/ spicy. Consider going lighter on the cayenne if there are non-spice lovers.
+- [2021-09-26 Sun] Made for brunch with Heimburgs. These potatoes are good. 
