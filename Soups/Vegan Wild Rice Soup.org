@@ -43,6 +43,16 @@
     I like to use spinach, kale, or chard for the best results. Don't use lettuce as it won't hold up well!
     #+end_tip
 14. Serve with a piece of crusty bread or crackers!
+
+    #+begin_tip
+    To make the soup in the slow cooker:
+
+    Add all ingredients [other than the greens and roux] to the slow cooker and cook on low for 4-6 hours until rice and veggies are tender.
+
+    In the last 20-30 minutes of cooking, make the roux as directed above and stir it in. Cover and allow the soup to cook for the remaining time.
+
+    Once it is cooked, stir in your leafy greens and serve.
+    #+end_tip
 ** Credits:
 - From https://wowitsveggie.com/vegan-wild-rice-soup/#mv-creation-157-jtr
 - date created: [2025-11-06 Thu]
