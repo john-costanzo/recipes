@@ -1,14 +1,6 @@
 #+STARTUP: showeverything
-* Extra Flaky Pie Crust (New York Times)
-** Ingredients (single crust):
-- 1¼ cups (150 grams) unbleached all-purpose flour
-- ½ tablespoon granulated sugar
-- ½ teaspoon baking powder, preferably aluminum-free
-- ½ teaspoon fine sea salt
-- ¼ cup (60 milliliters) ice water
-- ½ tablespoon cider vinegar
-- ½ cup (112.5 grams) cold unsalted butter (1 stick), cut into 1-inch cubes
-** Ingredients (two crusts):
+* Extra Flaky Pie Crust (New York Times) -- makes two crusts
+** Ingredients:
 - 2½ cups (300 grams) unbleached all-purpose flour
 - 1 tablespoon granulated sugar
 - 1 teaspoon baking powder, preferably aluminum-free
@@ -16,7 +8,6 @@
 - ½ cup (120 milliliters) ice water
 - 1 tablespoon cider vinegar
 - 1 cup (225 grams) cold unsalted butter (2 sticks), cut into 1-inch cubes
-
 ** Method:
 1. In a medium bowl, whisk together the flour, sugar, baking powder and salt; set aside.
 2. In a measuring cup or a small bowl, combine the water and vinegar; set aside.
