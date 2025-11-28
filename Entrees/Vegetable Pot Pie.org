@@ -1,9 +1,9 @@
 #+STARTUP: showeverything
 * Vegetable Pot Pie
-Prep Time: 1 hr 
-Total Time: 1 hr 45 mins
-Servings: 6-8
-
+** Info
+- Prep Time: 1 hr 
+- Total Time: 1 hr 45 minutes
+- Servings: 6-8
 ** Ingredients:
 - 1 cup potato, diced
 - 1 cup onion, diced
@@ -15,14 +15,13 @@ Servings: 6-8
 - 1 cup half-and-half
 - 1 teaspoon salt
 - ¼ teaspoon pepper
-- ½ teaspoon of rosemary (optional)
-- ½ teaspoon of thyme (optional)
+- ½ teaspoon of rosemary (/optional/)
+- ½ teaspoon of thyme (/optional/)
 - 1 cup peas
-- 1 cup TVP or other mock meat (optional)
-- 1 pie crust (either store bought or your own recipe)
-
+- 1 cup TVP or other mock meat (/optional/)
+- 1 pie crust (/either store bought or your own recipe/)
 ** Method:
-1. Preheat oven to 400 degrees F.
+1. Preheat oven to 400° F.
 2. Saute onion, celery, carrots and potatoes in butter for 10 minutes.
 3. Add flour to sauteed mixture, stirring well, cook one minute stirring constantly.
 4. Combine broth and half and half; gradually stir into vegetable mixture.
@@ -31,7 +30,6 @@ Servings: 6-8
 7. Pour into shallow 2 quart casserole dish and top with pie shell.
 8. Cut slits to allow steam to escape.
 9. Bake for 40-50 minutes or until pastry is golden brown and filling is bubbly and cooked through.
-
 ** Credits:
 - Recommended by Louise.
 - By Vincy Bramblett on August 07, 2001 97.40%;  708 Reviews
