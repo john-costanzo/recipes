@@ -5,8 +5,8 @@ Makes 90 grams of poolish.
 
 ** Ingredients:
 - 0.12 gram (one-third of ⅛ teaspoon) active dry yeast or 0.36 gram fresh yeast, broken into small pieces
-- 47 grams (3 tablespoons plus 1 teaspoon) cold tap water
-- 47 grams (¼ cup plus 2 tablespoons) flour used in dough recipe
+- 47 grams cold tap water (that's 3 tablespoons plus 1 teaspoon) 
+- 47 grams flour used in dough recipe (that's ¼ cup plus 2 tablespoons)
 ** Method:
 1. Put the yeast in a small bowl, add the water, and whisk vigorously for 30 seconds. 
   #+begin_tip
