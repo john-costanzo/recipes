@@ -1,0 +1,41 @@
+#+STARTUP: showeverything
+* Hearty vegan 15‑bean soup with Southwest flavors
+** Ingredients:
+- 1 lb 15‑bean soup mix, seasoning packet discarded
+- 4 cups low‑sodium vegetable broth
+- 4 cups water
+- 2 Tbsp low‑sodium soy sauce or tamari
+- 1 medium sweet onion, chopped
+- 2 carrots, chopped
+- 2 ribs celery, chopped
+- 1 bell pepper, chopped (any color)
+- 3 cloves garlic, minced
+- 1–2 Tbsp mild chili powder
+- 1 tsp ground cumin
+- ½ tsp dried thyme
+- 1 bay leaf
+- 1 can (14.5–15 oz) diced tomatoes (add after pressure cooking)
+- 2–3 handfuls baby spinach or chopped kale (optional, after cooking)
+- Juice of 1 lime
+- Salt and black pepper to taste
+** Method:
+*** Prep beans and veggies
+1. Rinse the beans thoroughly; remove any debris.
+2. Chop onion, carrots, celery, bell pepper, and mince garlic.
+*** Load the Instant Pot
+1. You can skip sautéing here if you want fewer steps (the beans still pick up plenty of flavor), or quickly sauté onion, carrots, celery, and pepper in a bit of oil first for deeper flavor.
+2. Add beans, broth, water, soy sauce, onion, carrots, celery, bell pepper, garlic, chili powder, cumin, thyme, and bay leaf to the pot.
+*** Pressure cook
+1. Lock lid, set valve to Sealing.
+2. Cook on High Pressure for 45 minutes.
+3. Let pressure release naturally, or wait at least 15 minutes then carefully quick‑release.
+*** Add tomatoes and greens.
+1. Open the pot, add diced tomatoes (with juices), spinach or kale if using, and lime juice.
+2. Stir and let sit on Warm or Sauté (Low) for a few minutes to heat through and wilt greens.
+*** Season and serve
+1. Taste and add salt and pepper as needed. Soy sauce already contributes some salt and umami, so adjust gradually.
+2. Serve with chopped cilantro, avocado, or a sprinkle of nutritional yeast if you want more savory depth.
+** Credits:
+- From https://www.perplexity.ai/search/show-recipes-for-making-a-vege-8jP1ojXpQ_Sq72prIKfwvg
+- date created: [2025-12-28 Sun]
+- <2025-12-29 Mon> Good, hearty soup. Some said it was a bit spicy so maybe don't use 2 Tbsp of chili powder?
