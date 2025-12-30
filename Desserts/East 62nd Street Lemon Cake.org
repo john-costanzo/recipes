@@ -1,7 +1,5 @@
 #+STARTUP: showeverything
 * East 62nd Street Lemon Cake
-By Craig Claiborne
-- This is Maida Heatter's recipe
 ** Ingredients
 *** For The Cake:
 - Fine dry bread crumbs or flour for dusting the pan
@@ -27,5 +25,6 @@ By Craig Claiborne
 - 10 to 12 servings
 - Time: About 2 hours
 ** Credits:
-- Recommended (heartily!) by Nancy Burnett [2018-04-08 Sun]
 - https://cooking.nytimes.com/recipes/1019169-east-62nd-street-lemon-cake
+- Recommended (heartily!) by Nancy Burnett [2018-04-08 Sun]
+- By Craig Claiborne but this is Maida Heatter's recipe
