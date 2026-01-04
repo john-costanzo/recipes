@@ -12,7 +12,7 @@
 - 3 ¾ tablespoons chia seeds (/optional/)
 ** Method:
 1. Mix the yeast and sugar with ¼ cup of water and set aside for five minutes until it froths, indicating yeast is active.
-2. To the yeast and water mixture, mix in the remaining cup of water, milk, salt and oil.
+2. To the yeast and water mixture, mix in the remaining water, milk, salt and oil.
 3. Add the flour.
 4. Mix in a stand mixer on low speed or by hand until a dough forms.
    #+begin_note
@@ -42,3 +42,6 @@ IsFavorite
 - [2023-08-13 Sun] The original recipe called for 4 teaspoons of yeast; 2 teaspoons is plenty.
 - [2023-08-23 Wed] Made with a mix of spelt, white whole wheat and some wheat bran.
 - [2025-01-28 Tue] ⅓ whole wheat is delicious. This recipe is now scaled to 187.5% of the original, which makes for two good-sized loaves, suitable for slicing as sandwich bread. It took about 41 minutes to bake at this size.
+  #+begin_note
+  While the recipe is scaled to make two good-sized loaves, this Kitchen Aid doesn't easily accommodate this; dough will stick to the stirring mechanism. (Thought you might want to know.)
+  #+end_note
