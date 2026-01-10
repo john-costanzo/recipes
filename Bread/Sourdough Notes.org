@@ -2,6 +2,7 @@
 #+STARTUP: showeverything
 * Notes on Sourdough Starter
 - Container weights (empty):
+    + Sourdough glass cylinder weighs ~280 grams empty.
     + Santa Claus jar weighs 707g empty.
     + The  Tupperware "What-a-bowl" weighs 359 grams.
     + Mari's ice cream container (without the top) weighs 93g empty.
