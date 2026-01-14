@@ -1,0 +1,43 @@
+#+STARTUP: showeverything
+* Soft, Pliable Sourdough Tortillas Recipe (Discard)
+** Ingredients:
+- 250 g sourdough discard
+- 160 g warm water
+- 75 g avocado oil (or melted butter)
+- 400 g all-purpose flour
+- 6 g sea salt
+** Method:
+1. In a large bowl, whisk together 250 g sourdough discard, 160 g warm water, and 75 g avocado oil until well combined.
+2. Slowly add in 400 g all-purpose flour and 6 g sea salt, mixing until a dough forms.
+3. It should feel soft and not sticky to the touch.
+4. Let the dough rest for 30 minutes to relax.
+5. After resting, divide the dough into twelve 75g balls.
+6. Roll each dough ball into your ideal tortilla size using a rolling pin.
+   #+begin_tip
+   Don't be afraid to use lots of flour to prevent the dough from sticking to your rolling pin and surface.
+   #+end_tip
+   #+begin_tip
+   If the dough is really resisting being rolled, cover and let rest another 10-15 minutes so the gluten relaxes.
+   #+end_tip
+   #+begin_note
+   See the Notes section for how many grams of dough you need for different tortilla sizes!
+   #+end_note
+7. Heat a cast iron skillet, comal, griddle, or Blackstone over medium heat.
+8. Cook each tortilla on your ungreased skillet for 30-60 seconds per side until golden brown spots form and the tortilla is cooked through.
+   #+begin_tip
+   Important! If your tortilla burns within 30 seconds, lower the heat slightly. If brown spots don’t start forming by 30 seconds, increase the heat slightly. Getting the heat right is the secret to flexible tortillas. If they aren't browning within 30 seconds, they will cook for too long and will become flaky and crunchy!
+   #+end_tip
+9. Once done, immediately place the cooked tortilla in a warmer or in a tea towel to keep warm and soft.
+   #+begin_note
+   - Street taco size: ~35 x 26g balls rolled into 4-5″ round
+   - Fajita size: ~29 x 32g balls rolled into 6.5″ rounds
+   - Soft taco size: ~19 x 49g balls rolled into 7.5-8.5″ rounds
+   - Burrito size: ~12-13 x 70-75g balls rolled into 9.5-10.5″ rounds
+   - Big burrito size: ~8 x 109g balls rolled into 12-13″ rounds
+   #+end_note
+   #+begin_tip
+   Don’t worry if your tortillas bubble or puff up while cooking – that’s exactly what you want. The steam escaping from the moisture makes them puff up, which means they’re cooking evenly and turning out nice and airy.
+   #+end_tip
+** Credits:
+- From https://thatsourdoughgal.com/soft-pliable-sourdough-tortillas-recipe-discard/#recipe
+- date created: [2026-01-11 Sun]

@@ -1,0 +1,34 @@
+#+STARTUP: showeverything
+* Sourdough Discard Granola
+** Ingredients:
+- 60 g liquid fat (avocado oil, coconut oil, olive oil)
+- 60 g liquid sweetener (maple syrup, honey, agave)
+- 40 g light brown sugar (or coconut sugar)
+- 100 g sourdough starter (active or discard)
+- 10 g vanilla extract
+- 200 g oats (old fashioned are best, but quick also works)
+- 50 g seeds (pepitas, sunflower seeds, hemp seeds, flax seeds)
+- 100 g nuts (pecans, almonds, walnuts, hazelnuts, pistachios)
+- 100 g dried fruit (raisins, blueberries, cranberries, apricots, dates, cherries, pineapple; chop up larger dried fruit)
+- 50 g shredded coconut (optional)
+- 5 g sea salt
+- 1 tsp cinnamon (or other preferred spices)
+** Method:
+1. Preheat oven to 325°F.
+2. In a large mixing bowl, whisk together 60 g liquid fat, 60 g liquid sweetener, 40 g light brown sugar, 100 g sourdough starter, and 10 g vanilla extract.
+3. Then, mix in 200 g oats, 100 g seeds, 100 g nuts, 100 g dried fruit, 50 g shredded coconut, 5 g sea salt, and 5 g cinnamon (or other preferred spices).
+4. Spray a half sheet pan with oil or line it with parchment paper.
+5. Spread granola mixture in an even layer on sheet pan, pressing down with a spatula or the back of a measuring cup.
+6. Compacting the mixture will encourage clumps.
+7. Bake for 30 minutes, rotating sheet pan halfway through.
+   #+begin_tip
+   If you prefer clusters, do not break apart the mixture during baking. If you prefer a loose granola mixture, toss the mixture halfway through baking.
+   #+end_tip
+9. Let cool for 10 minutes before breaking apart into clumps.
+10. Store in an airtight container (I prefer glass) at room temperature.
+11. Keeps for up to 4 weeks.
+
+** Credits:
+- From https://thatsourdoughgal.com/pantry-clean-out-sourdough-discard-granola-recipe/
+- date created: [2026-01-11 Sun]
+- <2026-01-11 Sun> Very tasty with lots of clusters. It could easily be made into granola bars.

@@ -1,0 +1,16 @@
+#+STARTUP: showeverything
+* Rice in Instant Pot
+** Ingredients:
+- 1 cup long-grain brown rice (rinsed well until water runs clear)
+- 1¼ cups water (or low-sodium broth for flavor)
+- ¼ tsp salt (/optional/)
+- ½ tsp oil or butter (prevents sticking) (/optional/)
+** Method:
+1. Rinse rice in a fine-mesh strainer under cold water for 30–60 seconds to remove excess starch.
+2. Add rinsed rice, water, salt, and oil/butter (if using) to the inner pot; stir briefly.
+3. ​Secure lid, set valve to Sealing, select Pressure Cook (High) for 22 minutes.
+4. ​Allow natural pressure release for 10 minutes, then quick release remaining pressure.
+5. ​Fluff with a fork, rest 5 minutes covered, then serve.
+** Credits:
+- From https://www.perplexity.ai/search/recipe-for-black-beans-in-an-i-SEFqKppmQHCPwUm5QUgbrA
+- date created: [2026-01-11 Sun]

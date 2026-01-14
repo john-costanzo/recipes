@@ -1,0 +1,70 @@
+#+STARTUP: showeverything
+* Dark Chocolate-Cherry Sourdough Bread
+** Ingredients:
+*** Levain
+- 42g white flour (about 11.5% protein)
+- 42g whole wheat flour
+- 84g water
+- 8g ripe sourdough starter, 100% hydration
+*** Main dough
+- 516g white bread flour (about 11.5% protein)
+- 120g high-protein flour (about 12.7% protein)
+- 78g whole wheat flour
+- 159g dark chocolate chunks (or chips)
+- 159g dried cherries
+- 24g unsweetened cocoa powder
+- 24g canola oil
+- 16g superfine sugar (caster sugar)
+- 474g water 1
+- 40g water 2
+- 14g fine sea salt
+** Method:
+*** Levain (9:00 p.m.)
+1. In a small bowl or jar, mix the Levain ingredients.
+2. Cover the jar and keep it at a warm temperature for 12 hours.
+*** Bloom cocoa powder (8:00 a.m.)
+1. Add the oil to a medium saucepan over medium heat and heat until very warm.
+2. Add the cocoa powder and whisk continuously until the powder thickens.
+3. Remove from the heat and let cool.
+*** Autolyse (8:30 a.m)
+1. In a mixing bowl, add the 516g white flour, 120g high-protein white flour, 78g whole wheat flour, and 474g water 1 and mix until no dry bits remain.
+2. Cover the bowl and let rest for 30-minutes.
+*** Mix (9:00 a.m.)
+1. Add the sugar, salt, and levain, to the top of your dough already in the mixing bowl, and use a splash of water 2 (reserved water) to moisten.
+2. Mix thoroughly and if the dough feels like it can handle it, add the remainder of the water.
+3. Next, knead the dough for a few minutes either with the slap and fold technique or do folds in the bowl.
+   #+begin_note
+   For this dough, I did this for about 5 minutes until the dough begins to smooth out and become elastic.
+   #+end_note
+4. Pour the bloomed cocoa onto the dough and mix through by pinching and folding.
+5. When mixed, transfer the dough to a container for bulk fermentation and cover.
+*** Bulk Fermentation (9:30 a.m. to 1:30 p.m.)
+#+begin_note
+This dough will need 3 sets of stretches and folds during bulk fermentation where the first set starts after 30 minutes into bulk fermentation and the subsequent sets are at 30-minute intervals.
+#+end_note
+1. During the first set of stretches and folds, add the mixed together chocolate and cherries as you perform each stretch and fold.
+2. After the third set of stretches and folds, let the dough rest, covered, for the remainder of bulk fermentation.
+*** Divide and Preshape (1:30 p.m.)
+1. Lightly flour your work surface and scrape out your dough.
+2. Using your bench knife, divide the dough in half.
+3. Lightly shape each half into a round shape.
+4. Let the dough rest for 35 minutes, uncovered.
+*** Shape (2:05 p.m.)
+1. Shape the dough into a round (boule), then place the dough in proofing baskets, seam side up.
+*** Proof (2:15 p.m. to 9:00 a.m. the next day)
+1. Cover proofing baskets with reusable plastic and seal shut.
+2. Then, place both baskets into the refrigerator and proof overnight.
+*** Bake (The next day, bake at 9:00 a.m.)
+1. Preheat your oven with a baking surface or combo cooker/Dutch oven inside to 450°F (230°C).
+   #+begin_tip
+   I recommend baking this dough on a piece of parchment as the chocolate may melt out slightly.
+   #+end_tip
+2. When the oven is preheated, remove your dough from the fridge, score it, and transfer it to the preheated baking surface or combo cooker.
+3. Bake for 20 minutes with steam.
+4. After this time, vent the steam in the oven or remove the lid (you can keep it in the oven or remove it) and continue to bake for 30 minutes longer.
+5. When done, the internal temperature should be around 204°F (95°C).
+6. Let the loaves cool for 2 hours on a wire rack before slicing.
+** Credits:
+- From https://www.theperfectloaf.com/dark-chocolate-cherry-sourdough-bread/
+- date created: [2026-01-11 Sun]
+- <2026-01-11 Sun> A tender, yummy loaf. Very tasty with an adult-level of chocolately goodness. The dried cherries are nicely balanced against the chocolate.
