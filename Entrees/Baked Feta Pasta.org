@@ -1,0 +1,34 @@
+#+STARTUP: showeverything
+* Baked Feta Pasta
+** Ingredients:
+- 1 lb pasta (I recommend bowtie or orzo)
+- ½ cup olive oil
+- 2 pints cherry tomatoes (around 20-25 oz)
+- 1 8 oz block feta Cheese
+- 4 cloves garlic finely chopped
+- 2 pinches red pepper flakes
+- 1 handful fresh basil leaves
+- kosher salt
+- fresh cracked pepper
+- balsamic glaze (if the tomatoes are too sour)
+** Method:
+1. Preheat oven to 400°.
+2. Add tomatoes, olive oil, and salt to a baking dish and toss.
+3. Place the block of feta in the middle and top with a splash more of olive oil plus a few pinches red pepper flakes.
+4. Bake for 30 minutes.
+5. Meanwhile, prepare bowtie pasta al dente according to directions then strain -- being sure to save some pasta water for later on.
+6. After the 30 minutes has past, crank the heat up to 450° and bake for another 5-10 minutes or until the feta and tomatoes have browned.
+7. Remove the baking dish from the oven and IMMEDIATELY add the garlic and basil and stir.
+   #+begin_note
+   The residual heat from the tomatoes and olive oil will take the raw edge off the garlic.
+   #+end_note
+9. Now stir in the strained al dente pasta and toss. Season with salt and pepper to taste! (And if the sauce is dry, you can add ¼ cup pasta water and stir to loosen the sauce!)
+   #+begin_tip
+   If the tomatoes are out of season and are too sour or tart, try adding in some balsamic glaze to sweeten it up.
+   #+end_tip
+#+begin_note
+If  works best if you use a small baking dish so the tomatoes are touching.
+#+end_note
+** Credits:
+- From https://grilledcheesesocial.com/2019/06/27/baked-feta-pasta-with-tomatoes/#recipe
+- date created: [2026-01-20 Tue]
