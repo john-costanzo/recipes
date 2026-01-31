@@ -1,9 +1,7 @@
 #+STARTUP: showeverything
 * Lemon Cornmeal Cake with Lemon Glaze and Crushed-Blueberry Sauce
-
 ** Ingredients:
-- 1½ cups (packed) powdered sugar, sifted
-- 2 tablespoons (or more) fresh lemon juice
+*** ...for the cake
 - 1½ cups all purpose flour
 - ⅓ cup yellow cornmeal
 - ¾ cup sugar
@@ -14,20 +12,50 @@
 - 1 tablespoon finely grated lemon peel
 - ¾ teaspoon vanilla extract
 - ½ cup (1 stick) unsalted butter, melted, cooled
-- Crushed-Blueberry Sauce
-
+*** ...for the glaze
+- 1½ cups (packed) powdered sugar, sifted
+- 2 tablespoons (or more) fresh lemon juice
+*** ...for Crushed-Blueberry Sauce
+- 3 cups fresh blueberries or frozen, thawed (13 to 14 ounces), divided
+- ⅔ cup (packed) golden brown sugar
+- 2 teaspoons fresh lemon juice
+- ½ teaspoon finely grated lemon peel
+- Pinch of salt
 ** Method:
-
-1) For glaze: Combine powdered sugar and 2 tablespoons lemon juice in small bowl. Stir with spoon until smooth and paste-like, adding more lemon juice by ½ teaspoonfuls if glaze is too thick to spread. Set aside.
-
-2) For cake: Position rack in center of oven and preheat to 350 degrees F. Butter 9-inch-diameter cake pan with 2-inch-high sides; line bottom with parchment. Combine flour, cornmeal, sugar, baking powder, and salt in large bowl; whisk to blend. Whisk buttermilk, eggs, lemon peel, and vanilla in small bowl. Pour buttermilk mixture and melted butter into flour mixture. Using rubber spatula, gently fold liquids into flour mixture until just blended (do not stir). Scrape batter into pan; spread evenly.
-3) Bake cake until tester inserted into center comes out clean and cake pulls away from sides of pan, about 30 minutes.
-4) Immediately run knife around sides of cake. Place rack atop cake in pan. Using oven mitts, hold pan and rack firmly together and invert cake onto rack. Remove pan from cake. Place another rack on bottom of cake; invert 1 more time so that cake is top side up. Stir glaze until blended. While cake is still very hot, drop glaze by tablespoonfuls onto cake; spread to within ½ inch of edge (some glaze may drip down sides of cake). Cool completely. Serve with Crushed-Blueberry Sauce.
-
+*** ...for the cake
+1. Position rack in center of oven and preheat to 350° F.
+2. Butter 9-inch-diameter cake pan with 2-inch-high sides; line bottom with parchment.
+3. In a large bowl, combine flour, cornmeal, sugar, baking powder, and salt; whisk to blend.
+4. In a small bowl, whisk buttermilk, eggs, lemon peel, and vanilla.
+5. Pour buttermilk mixture and melted butter into flour mixture.
+6. Using rubber spatula, gently fold liquids into flour mixture until just blended (do not stir).
+7. Scrape batter into pan; spread evenly.
+8. Bake cake until tester inserted into center comes out clean and cake pulls away from sides of pan, about 30 minutes.
+9. Immediately run knife around sides of cake.
+10. Place rack atop cake in pan.
+11. Using oven mitts, hold pan and rack firmly together and invert cake onto rack.
+12. Remove pan from cake.
+13. Place another rack on bottom of cake; invert 1 more time so that cake is top side up.
+14. Stir glaze until blended.
+15. While cake is still very hot, drop glaze by tablespoonfuls onto cake; spread to within ½ inch of edge (some glaze may drip down sides of cake).
+16. Cool completely.
+17. Serve with Crushed-Blueberry Sauce.
+*** ...for the glaze
+1. Combine powdered sugar and 2 tablespoons lemon juice in small bowl.
+2. Stir with spoon until smooth and paste-like, adding more lemon juice by ½ teaspoonfuls if glaze is too thick to spread.
+3. Set aside.
+*** ...for Crushed-Blueberry Sauce
+1. Combine 1½ cups blueberries and all remaining ingredients in medium saucepan.
+2. Stir over medium heat until sugar dissolves and mixture comes to simmer, about 7 minutes.
+3. Reduce heat to medium-low and simmer until berries are very soft and liquid is syrupy, stirring often, about 7 minutes.
+4. Remove from heat; add remaining blueberries.
+5. Using back of spoon, gently press fresh blueberries against side of pan until lightly crushed.
+   #+begin_tip
+   DO AHEAD: Can be made 2 days ahead.
+   #+end_tip
+6. Cover and chill.
+7. Serve chilled or rewarm before serving, if desired.
 ** Credits:
-- Bon Appetit
-- April 2009
-- by Abigail Johnson Dodge
+- Bon Appetit, April 2009, by Abigail Johnson Dodge: https://www.epicurious.com/recipes/food/views/lemon-cornmeal-cake-with-lemon-glaze-and-crushed-blueberry-sauce-352048
 - [TC made on 29-June-12. Yum! (Don't forget the baking powder!)]
-- You can view the complete recipe online at: http://www.epicurious.com/recipes/food/views/Lemon-Cornmeal-Cake-with-Lemon-Glaze-and-Crushed-Blueberry-Sauce-352048?mbid=ipapp
 - date created: [2012-07-02 Mon]
