@@ -1,0 +1,35 @@
+#+STARTUP: showeverything
+* Banana Crumb Muffins
+** Ingredients:
+*** Topping
+- ½ cup King Arthur unbleached all-purpose flour
+- ¼ cup sugar
+- 1 teaspoon cinnamon
+- 4 tablespoons (½ stick) butter or margarine, room temperature
+*** Muffins
+- 1½ cups King Arthur unbleached all-purpose flour
+- 1 teaspoon baking soda
+- 1 teaspoon baking powder
+- ½ teaspoon salt
+- 3 large, ripe bananas, mashed
+- ¾ cup sugar
+- 1 egg, slightly beaten
+- ⅓ cup butter or margarine, melted
+** Method:
+*** For the topping:
+1. In a medium bowl, mix flour, sugar and cinnamon.
+2. Add butter or margarine and mix with a fork or pastry cutter until crumbly.
+3. Put aside while preparing muffin batter.
+*** For the muffins:
+1. In large bowl, combine dry ingredients and set aside.
+2. In another bowl, combine mashed bananas, sugar, slightly beaten egg and melted butter or margarine.
+3. Mix well.
+4. Stir into dry ingredients just until moistened.
+5. Fill greased muffin cups two-thirds full. (Do not use paper muffin cups!)
+6. Using hands, arrange coarse, pea-sized crumbs over muffin batter.
+7. Bake at 375° for 18 to 20 minutes or until muffins test done with a cake tester.
+8. Cool in pan 10 minutes before removing to a wire rack.
+** Credits:
+- From https://cooking.nytimes.com/recipes/6245-king-arthur-flours-banana-crumb-muffins
+- date created: [2026-02-05 Thu]
+- <2026-02-05 Thu> Tasty, light and yummy.
