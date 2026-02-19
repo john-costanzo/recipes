@@ -14,7 +14,7 @@
    #+end_tip
 *** Mix Dough
 1. In a glass mixing bowl, combine 350 g water with 120 g active sourdough starter.
-2. Then, add 400 g bread flour, 100 g whole wheat flour, and 10 g sea salt.
+2. Then, add 375 g bread flour, 125 g whole wheat flour, and 10 g sea salt.
 3. Mix with your hands or a Danish dough whisk until you reach a shaggy dough (3-4 minutes).
 4. Cover with plastic wrap or a bowl cover and rest for 30-60 minutes.
    #+begin_note
