@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Four Layer No-Boil Lasagna
+* Three Layer No-Boil Lasagna
 ** Ingredients:
 - 1 box (9 oz) no-boil lasagna noodles, uncooked
 - 2 eggs
@@ -10,23 +10,22 @@
 - 2 bags spinach (/optional/)
 ** Method:
 1. Preheat oven to 375° F.
-2. Spray baking pan (about 13 x 9 x 3-inches deep) with non-stick cooking spray.
-3. Remove 16 lasagna sheets from box. DO NOT BOIL!
+2. Spray baking pan (about 13 x 9 x 2-inches deep) with non-stick cooking spray.
+3. Remove 14 lasagna sheets from box. DO NOT BOIL!
 4. In a medium bowl, beat eggs.
 5. Stir in ricotta and the Parmesan and 2 cups mozzarella.
    #+begin_tip
    When layering lasagna, slightly overlap sheets. Lasagna will expand to the edges during cooking. Spread fillings to the edges to seal in and cook the lasagna during baking.
    #+end_tip
 6. Layer in the following order:
-7. Make three layers to avoid possible boiling over, using 12 uncooked sheets.
-8. Spread 1½ cups of the sauce on the bottom of the baking pan.
-9. Layer 4 sheets, half of ricotta mixture and another 1½ cups of the sauce.
-10. Add 1 cup of mozzarella.
-11. Layer 4 sheets, remaining ricotta mixture, 1½ cups of the sauce and spinach.
-12. Layer 4 sheets, remaining sauce and 1 cup of mozzarella.
-13. Bake, covered with foil until bubbly, 50-60 minutes.
-14. Uncover and continue cooking until cheese is melted, about 5 minutes
-15. Let stand 15 minutes before cutting.
+     a. Make three layers using 12 uncooked sheets.
+     b. Spread 1 cup of the sauce on the bottom of the baking pan.
+     c. Layer 4+ sheets, half of ricotta mixture,  half the spinach, 1 cup of the sauce and 1 cup of mozzarella.
+     e. Layer 4+ sheets, remaining ricotta mixture, 1 cups of the sauce and half the spinach.
+     f. Layer 4+ sheets, remaining sauce and 1 cup of mozzarella.
+7. Bake, covered with foil until bubbly, 50-60 minutes.
+8. Uncover and continue cooking until cheese is melted, about 5 minutes
+9. Let stand 15 minutes before cutting.
 ** Yield:
 Makes 12 servings.
 ** Credits:
