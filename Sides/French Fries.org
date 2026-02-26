@@ -9,12 +9,21 @@
 #+begin_tip
 For extra crispy fries, soak the potatoes in cold water for 30 minutes and then drain and pat them dry.
 #+end_tip
+*** Using the oven...
 1. Arrange one oven rack at the lowest point.
 2. Place a large rimmed baking sheet there and heat oven to 500°.
 3. In a large bowl, toss together potatoes, the oil, salt, pepper and any additional seasonings (e.g., smoked paprika, garlic powder, cayenne, etc.).
 4. Carefully spread potatoes out on the preheated baking sheet and return to oven’s lower rack.
 5. Roast until slightly golden and crispy, tossing after 15 minutes.
 6. Reduce oven temperature to 425°  and bake 10 to 15 minutes more.
+*** Using the air fryer...
+1. Preheat an air fryer to 375° F (190 degrees C).
+2. Stack potatoes in a double layer in the fryer basket.
+3. Cook for 15 minutes.
+4. Slide basket out and toss fries.
+5. Continue frying until golden brown, about 10 minutes more.
+6. Toss fries with salt in a mixing bowl.
+7. Serve immediately.
 ** Credits:
-- From https://cooking.nytimes.com/recipes/1019172-baked-french-fries
+- From https://cooking.nytimes.com/recipes/1019172-baked-french-fries and https://www.allrecipes.com/recipe/278581/air-fryer-french-fries
 - date created: [2024-08-03 Sat]
