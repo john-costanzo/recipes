@@ -1,0 +1,27 @@
+#+STARTUP: showeverything
+* Chickpeas in Instant Pot
+** Ingredients:
+- 1 cup dried chickpeas (about 200–225 g), picked over and rinsed
+- Water (see amounts below)
+- 1 to 1½ teaspoons salt (/optional but recommended/)
+** Method:
+1. Soak 1 cup dried chickpeas in at least 2–3 cups water for 8–12 hours, then drain and rinse.
+2. Add soaked chickpeas to the Instant Pot with about 3–4 cups fresh water, covering by about 1 inch; add 1 teaspoon salt if using.
+3. Close lid, set valve to Sealing, select Pressure Cook on High and set:
+     - 15–23 minutes for tender, intact chickpeas (salads, stews).
+     - 25–30 minutes for softer, creamier chickpeas.
+4. ​  Let pressure release naturally 15–20 minutes, then vent any remaining steam and open.
+5. ​  Check doneness and add a few more minutes on High if you want them softer.
+     #+begin_tip
+     For extra flavor, add a halved onion, a few garlic cloves, bay leaf, or herbs to the pot; discard aromatics after cooking.
+     #+end_tip
+     #+begin_note
+     If not pre-soaked:
+     - 40–45 minutes for tender chickpeas with slight bite (good for salads, curries).
+     - 55–60 minutes for very soft chickpeas (good for hummus).
+     #+end_note
+** Yield
+- Cooking 1 cup of dried chickpeas (roughly 200–225 g) in the Instant Pot yields about 440–500 g of cooked chickpeas, drained, which is around 2.5 cups by volume.
+** Credits:
+ - date created: [2026-03-21 Sat]
+ - From  https://www.perplexity.ai/search/show-how-to-cook-chickpeas-in-0aSEvBaNSxSs7t2Stc1Xrg
