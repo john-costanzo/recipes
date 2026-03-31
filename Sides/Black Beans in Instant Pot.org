@@ -1,8 +1,8 @@
 #+STARTUP: showeverything
 * Black Beans in Instant Pot
 ** Ingredients:
-- ⅔ cup dried black beans (soaked 8-12 hours, then drained and rinsed)
-- 3 cups water
+- ⅔ cup dried black beans (about 5 ounces) (soaked 8-12 hours, then drained and rinsed)
+- 1½ - 2 cups water (enough to cover beans by 1-2 inches)
 *** Optional flavorings: 
     + ¼ onion
     + ½ teaspoon salt
@@ -13,12 +13,15 @@
     + ½ teaspoon oregano
     + ½ teaspoon chili powder or red pepper flakes
 ** Method:
-1. Cook:
-     a. For firmer beans (good for salads): cook on High Pressure for 8–9 minutes.
-     b. For softer, creamier beans: cook on High Pressure for 10–11 minutes.
-2. Natural release 15 minutes before venting.
+1. Soak:
+     a. Cover beans with water and soak overnight (8-12 hours).
+     b. Drain.
+2. Cook:
+     a. For firmer beans (good for salads): cook on high pressure for 8–9 minutes.
+     b. For softer, creamier beans (good for burgers or refritos): cook on high pressure for 10–11 minutes.
+3. Allow natural pressure release for 10-15 minutes before venting.
 ** Yield
-- About 12 ounces of cooked beans.
+- Just shy of 15 ounces of cooked beans  (drained weight after cooking, equivalent to one standard can).
 ** Credits:
-- From https://www.perplexity.ai/search/recipe-for-black-beans-in-an-i-SEFqKppmQHCPwUm5QUgbrA
+- From https://www.perplexity.ai/search/show-a-recipe-for-making-15-ou-9GkoKPteTNugYj.k10hJdg
 - date created: [2026-01-11 Sun]

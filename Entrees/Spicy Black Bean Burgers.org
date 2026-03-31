@@ -38,6 +38,8 @@
 14. Flip the burgers and cook until the underside is brown, another 3-5 minutes depending on thickness.
 15. Serve on toasted buns with your favorite toppings.
 16. If you have any leftover burger mixture, form it into patties and freeze on a parchment-lined sheet pan so they’re ready for your next bean burger craving.
+** Yield
+10 ounces of dried black beans, once soaked overnight and then [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Sides_BlackBeansinInstantPot&fontsize=medium&scalingpercentage=200][pressure cooked]] makes 1 pound 10 ounces (26 ounces) of cooked black beans. This is good for a 150% black bean burger recipe, making about 8 burgers.
 ** Credits:
 - From https://lifehacker.com/how-to-make-a-killer-black-bean-burger-in-30-minutes-1846792837
 - date created: [2025-07-31 Thu]
