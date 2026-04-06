@@ -3,8 +3,8 @@
 ** Ingredients:
 - 350 g water
 - 120 g active sourdough starter
-- 375 g bread flour
 - 125 g whole wheat flour
+- 375 g bread flour
 - 10 g sea salt
 ** Method:
 *** Before you begin
@@ -34,6 +34,9 @@
    Bulk fermentation is done when the dough has increased in volume, it jiggles when you shake the bowl, there are bubbles under the surface and all around the sides and bottom of the bowl, and when you tap the surface of the dough, it feels very pillowy and aerated. In my 74°F (23°C) kitchen, this took a total of 5.5 hours.
    #+end_note
 *** Shape Dough
+#+begin_note
+The large, clear glass Pyrex bowl weighs 1,654 grams.
+#+end_note
 1. Gently turn out dough onto a floured surface.
 2. Gently stretch into a rectangular shape.
 3. Imagine the dough being divided into three equal vertical portions.
@@ -54,7 +57,7 @@
 6. Remove the lid and bake an additional 10 minutes, or until the top is nicely browned and the internal temperature is between 205-210°F (96-99°C).
 7. Let fully cool before slicing.
 ** Tags:
-IsFav
+IsFavorite
 ** Credits:
 - From https://thatsourdoughgal.com/20-percent-whole-wheat-artisan-sourdough-bread-recipe/#recipe
 - date created: [2025-08-19 Tue]
