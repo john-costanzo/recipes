@@ -1,0 +1,48 @@
+#+STARTUP: showeverything
+* Barefoot Contessa Black Bean Soup
+** Ingredients:
+- 4 cups, cooked (or 2 (15-ounce) cans, rinsed and drained) Black beans
+- 3 tbsp olive oil
+- 1 large yellow onion, diced
+- 4 cloves garlic, minced
+- 2 carrots, peeled and diced
+- 2 celery stalks, diced
+- 1 red bell pepper, diced
+- 1 tsp ground cumin
+- 1 tsp chili powder
+- 1 tsp paprika
+- 4 cups vegetable stock
+- 2 Tbsp tomato paste
+- 1 bay leaf
+- salt and freshly ground black pepper, to taste
+- 2 tbsp fresh lime juice
+- Optional toppings:
+    + sour cream
+    + diced avocado
+    + fresh cilantro
+    + shredded cheese
+    + tortilla chips
+** Method:
+*** Sauté the Aromatics
+1. Heat olive oil in a large pot over medium heat.
+2. Add the diced onion, garlic, carrots, celery, and red bell pepper.
+3. Sauté for 5-7 minutes, or until the vegetables are softened and fragrant.
+*** Add Spices and Tomato Paste
+1. Stir in cumin, chili powder, paprika, and tomato paste.
+2. Cook for 1-2 minutes to toast the spices and deepen the flavors.
+*** Add Beans and Stock
+1. Add the black beans, chicken or vegetable stock, and bay leaf.
+2. Stir to combine.
+3. Bring the mixture to a boil, then reduce the heat and simmer uncovered for 25-30 minutes.
+*** Blend for Creaminess
+1. Remove the bay leaf.
+2. Use an immersion blender to partially blend the soup, leaving some beans and vegetables intact for texture.
+3. Alternatively, blend half the soup in a blender and return it to the pot.
+*** Season and Finish
+1. Stir in the lime juice and season with salt and pepper to taste.
+2. Simmer for another 5 minutes to meld the flavors.
+*** Serve and Garnish
+1. Ladle the soup into bowls and garnish with your favorite toppings, such as sour cream, avocado, cilantro, or tortilla chips.
+** Credits:
+- date created: [2026-04-11 Sat]
+- From https://inagartencooks.com/barefoot-contessa-black-bean-soup
