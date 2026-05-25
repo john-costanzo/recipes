@@ -1,5 +1,5 @@
 #+STARTUP: showeverything
-* Raspberry Almond Baked Oatmeal
+* Baked Oatmeal
 ** Ingredients:
 - 1½ cups rolled oats
 - 1 tsp. ground ginger
@@ -13,7 +13,7 @@
 ** Method:
 1. Preheat oven to 350° F.
 2. Lightly coat a  8×8 (or 9×9) baking dish with oil.
-3. In a large bowl, combine oats, ginger, salt, and chopped almonds.
+3. In a medium bowl, combine oats, ginger, salt, and chopped almonds.
 4. In a separate bowl, whisk together milk, honey (or maple syrup), oil and vanilla then add to oat mixture, stirring until just combined.
 5. Fold in fresh raspberries or berries of choice.
 6. Spread oat mixture into a prepared baking dish and bake for 30 to 35 minutes until oats have set.
