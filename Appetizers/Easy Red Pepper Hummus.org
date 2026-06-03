@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Easy Red Pepper Hummus
 ** Ingredients:
-- 1 (16 ounce) can garbanzo beans, drained and rinsed
+- 1 16-ounce can garbanzo beans, drained and rinsed
 - 1 tablespoon olive oil
 - 1 medium red bell pepper, cut into ½ inch pieces
 - 1 tablespoon tahini
