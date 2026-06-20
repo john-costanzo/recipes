@@ -1,26 +1,24 @@
 #+STARTUP: showeverything
 * Cheese Grits
-
 ** Ingredients:
 - ½ c. white grits
 - ¾ tsp. salt
 - 2½ c. boiling water
 - ¼ lb. cheddar cheese, grated
 - 1 egg, well beaten
-- Pinch of cayenne pepper
-- Paprika
-
+- pinch of cayenne pepper
+- 1 jalapeño (/optional/)
+- paprika
 ** Method:
 1. Gradually stir grits and salt into the boiling water.
 2. Cover and cook for about 10 minutes, until grits are done, stirring often.
-3. Add egg and all but ⅓ cup of the grated cheese.
+3. Add egg, all but ⅓ cup of the grated cheese and jalapeño, if using.
 4. Season with cayenne and stir until mixture is smooth.
 5. Cover and cook a little longer until cheese is melted.
 6. Pour into a well greased casserole and top with remaining cheese and dust with paprika.
 7. Bake in a 325° oven for 25 minutes.
-
 ** Yield
-2 servings
-
+4 servings
 ** Credits:
 - date created: [2008-05-17 Sat]
+- <2026-06-20 Sat> Yummy as always. But I've revised the yield to be four servings instead of two since it is kind of rich.
