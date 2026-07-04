@@ -3,15 +3,13 @@
 Prep Time: 20 minutes
 \\
 Cook Time: 60-70 minutes
-\\
-Original recipe makes one loaf.
 ** Ingredients:
 - 1½ cups (297 grams) sugar
 - ½ cup vegetable oil
 - 2 eggs, lightly bean
 - 8 ounces canned unsweetened pumpkin
 - ½ cup raisins (optional)
-- 1¾ cups (240 grams) flour
+- 1¾ cups (210 grams) flour
 - 1 teaspoon salt
 - 1 teaspoon baking soda
 - ½ teaspoon baking powder
@@ -22,16 +20,19 @@ Original recipe makes one loaf.
 - ⅓ cup water
 ** Method:
 1) Preheat oven to 350 degrees.
-2) Butter and flour two 9x5 loaf pans.
+2) Butter and flour a 9x5 loaf pan.
 3) Stir together sugar and oil. Stir in eggs, pumpkin and, optionally, the raisins.
 4) Combine dry ingredients in separate bowl.
 5) Blend dry ingredients and water into wet mixture, alternating.
-6) Divide batter between two loaf pans.
-7) Bake for 60 to 70 minutes or until cake tester comes out clean. Let stand 10 minutes. Remove from pans and cool.
+6) Bake for 60 to 70 minutes or until cake tester comes out clean.
+7) Let stand 10 minutes.
+8) Remove from pan and cool on a wire rack.
 
 #+begin_tip
-Two Loaves will also make one loaf plus three mini-loaves.
+One loaf makes three mini-loaves.
 #+end_tip
+** Yield
+One loaf.
 ** Credits:
 - [[http://www.foodnetwork.com/food/cda/recipe_print/0,1946,FOOD_9936_4067_RECIPE-PRINT-FULL-PAGE-FORMATTER,00.html][Recipe]]
 - Recipe Courtesy of Cathy Lowe
