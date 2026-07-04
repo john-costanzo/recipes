@@ -1,0 +1,64 @@
+#+STARTUP: showeverything
+* Sourdough English Muffins (Scotch and Scones)
+** Ingredients
+*** if using active sourdough starter:
+- 783 grams all-purpose flour
+- ½ cup (114 grams) active sourdough starter
+- 423 grams milk, or an unflavored milk substitute, warmed between 100°F to 110°F
+- 57 grams unsalted butter, at room temperature
+- 30 grams granulated sugar
+- 8 to 16 grams kosher salt, Diamond Crystal brand
+- mix-ins, optional, like cinnamon, raisins, or fresh blueberries, /optional/
+- cornmeal or semolina, for sprinkling
+*** if using inactive sourdough starter:
+- 840 grams all-purpose flour
+- 227 grams sourdough starter discard, at room temperature
+- 9 grams instant yeast
+- 480 grams milk, or an unflavored milk substitute, warmed between 100°F to 110°F
+- 57 grams unsalted butter, at room temperature
+- 30 grams granulated sugar
+- 8 to 16 grams kosher salt, Diamond Crystal brand
+- mix-ins, optional, like cinnamon, raisins, or fresh blueberries, /optional/
+- cornmeal or semolina, for sprinkling
+** Method:
+*** Make the dough
+     + In the bowl of a stand mixer fitted with a dough hook, combine flour, sourdough starter discard, milk, butter, granulated sugar, (plus yeast if using inactive starter), salt, and any optional spice mix-ins.
+     #+begin_tip
+     You can also knead the dough in a bread machine or by hand if desired.
+     #+end_tip
+*** Knead to form a smooth dough
+     + The dough should be soft and elastic, but not sticky.
+     + If necessary, add more flour or water in 1 tablespoon increments until you get the desired consistency (this is especially necessary if you're baking on a humid day).
+     + Fold in any optional larger mix-ins into the dough.
+*** If you are...
+**** ...baking the same day
+     + Place the dough in a lightly greased bowl, cover, and place in a warm area to rise for about 3 hours (if using active starter) or 1½ hours (if using inactive starter + yeast), or until it's noticeably puffy.
+**** ...retarding the dough
+     + You can also retard the dough by placing the covered bowl in the refrigerator after it has sat at room temperature for about 30 minutes to let the yeast get started:
+         1) Chill for 8 hours, or up to 2 days. This allows the sourdough to ferment slowly and develop a more pronounced sour flavor.
+         2) If you've retarded the dough in the refrigerator, allow the dough to rest for about an hour on the counter to warm to room temperature.
+- Gently deflate the dough, turn it out onto a lightly floured work surface, cover it, and let it sit for a few minutes to relax the gluten.
+*** Shape dough. Either:
+     + Divide the dough in half. Working with one half at a time, roll the dough out to ½-inch thick, and cut in rounds using a 3-inch round cookie cutter. Re-roll and cut any remaining scraps. Repeat with the remaining half of dough. /or/
+     + Divide the dough into 24 equal pieces (I weigh the dough using a kitchen scale and divided by 24, then cut pieces to that weight). Shape each piece into a round ball, then flatten each ball into a 3-inch round. For a somewhat more even rise as the muffins cook, flatten each ball slightly larger than 3 inches, and trim edges with a 3-inch round cookie cutter (or trim all around the edge with a pair of scissors). Muffins with cut (rather than flattened) sides will rise more evenly, and you can use the trimmings to get extra portions. Win!
+*** Continue
+     + Place the rounds, evenly spaced, onto half sheet baking pan sprinkled with cornmeal or semolina, 12 per sheet.
+     + Sprinkle them with additional cornmeal or semolina, cover with plastic wrap, and let them rise on the counter until light and puffy, about 90 to 120 minutes  (if using active starter) or 45 to 60 minutes (if using inactive starter + yeast).
+     + If the dough has been refrigerated overnight and you didn't let it come to room temperature first, the rise time will be about 2 hours.
+*** Cook the muffins
+     + Carefully transfer the rounds, as many that will fit without crowding, to a large electric griddle preheated to 350° F (175 °C) or an ungreased griddle or frying pan that has been preheated over medium-low heat.
+      + Spray the bottom of a quarter sheet baking pan (or similarly flat but not overly heavy object) with baking spray, then set aside, sprayed side up.
+    #+begin_tip
+    The baking pan helps keep muffins flat across the top (rather than domed) while they're cooking.
+    #+end_tip
+      + Cook the muffins for about 5 minutes on one side, then lay the quarter sheet baking pan on the puffed up muffins, sprayed side down.
+      + Continue cooking for 5 to 7 minutes (but don't /overcook/ them!), then remove the baking pan.
+      + Turn the muffins over and cook them, without the baking pan on top, for 10 to 12 minutes or until they're golden brown and the centers read 194° F (90° C) on a digital thermometer.
+      + The edges may feel a bit soft, but that's fine.
+      + Remove the muffins from the griddle, and cool on a wire rack.
+      + English muffins can be cut in half with a bread knife or fork-split (to get a rougher surface), then toasted.
+      + Serve with butter and/or jam and enjoy!
+      + Storage instructions: Store the muffins in an airtight container at room temperature for 4 or 5 days, or freeze in an airtight bag for a month.
+** Credits:
+- date created: [2026-06-24 Wed]
+- From https://www.scotchandscones.com/sourdough-english-muffins/
