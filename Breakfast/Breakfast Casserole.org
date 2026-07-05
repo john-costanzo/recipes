@@ -1,0 +1,48 @@
+#+STARTUP: showeverything
+* Breakfast Casserole
+** Ingredients:
+*** For the potatoes
+- 3 Yukon Gold potatoes, about 1 pound, chopped into ¼-inch pieces, or 1 pound frozen hash brown potatoes, see notes*
+- 1 tablespoon extra-virgin olive oil
+- ½ teaspoon sea salt
+- Freshly ground black pepper
+*** For the casserole
+- 12 large eggs
+- 1 cup milk
+- 1¼ teaspoons sea salt
+- 2 tablespoons extra-virgin olive oil, plus more for the baking dish
+- ½ medium yellow onion, chopped
+- Freshly ground black pepper
+- 2 garlic cloves, chopped
+- 1 red bell pepper, stemmed, seeded, and chopped
+- 1 green bell pepper, stemmed, seeded, and chopped
+- 1 cup fresh spinach, roughly chopped
+- 4 green onions, chopped
+- 1½ cups shredded cheddar cheese
+** Method:
+*** Roast the potatoes
+1. Preheat the oven to 425°F and line a baking sheet with parchment paper.
+2. Place the potatoes on the baking sheet.
+3. Drizzle with the olive oil and sprinkle with the salt and several grinds of pepper.
+4. Toss to coat.
+5. Spread evenly on the baking sheet and roast for 20 to 25 minutes, or until tender and browned.
+*** Make the casserole
+1. Reduce the oven temperature to 350°F and oil a 9x13-inch baking dish.
+2. In a large bowl, whisk together the eggs, milk, and ¼ teaspoon of the salt.
+3. Set aside.
+4. Heat the olive oil in a large skillet over medium heat.
+5. Add the onion, the remaining 1 teaspoon salt, and several grinds of pepper.
+6. Cook, stirring occasionally, for 5 to 8 minutes, or until soft.
+7. Add the garlic, red pepper, and green pepper and cook, stirring occasionally, for 2 minutes.
+8. Add the spinach and half the green onions and toss until the spinach is just wilted.
+9. Spread the potatoes in an even layer in the prepared baking dish.
+10. Top with 1 cup of the cheese, followed by the sautéed veggies.
+11. Pour in the egg mixture and sprinkle with the remaining ½ cup cheese and the reserved green onions.
+12. Bake for 40 to 45 minutes, or until the eggs are set.
+13. Let stand for 5 minutes before slicing and serving.
+#+begin_note
+   Using frozen hash browns: To simplify this recipe, you can use 1 pound diced frozen hash brown potatoes instead of the roasted potatoes. Let thaw before adding to the casserole. When I use hash browns, I typically need to bake the casserole a few minutes longer for it to set.
+#+end_note
+** Credits:
+- date created: [2026-07-05 Sun]
+- From https://www.loveandlemons.com/breakfast-casserole/#wprm-recipe-container-75962
