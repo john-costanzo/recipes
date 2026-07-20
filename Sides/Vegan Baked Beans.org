@@ -27,6 +27,12 @@
 #+begin_tip
 10 ounces of Great Northern beans can be soaked overnight and then pressure cooked for 3 minutes in an Insta Pot to make 30 ounces of beans.
 #+end_tip
+
+#+begin_note
+Here’s how to make vegan baked beans in the Instant Pot without getting a burn message: Add 1 pound of dried navy beans and 6 cups of water to the Instant Pot. Seal the lid, close the steam valve, and set to the bean setting for 25 minutes. Do a natural release, then drain the beans.
+
+Next, whisk the sauce ingredients in a bowl (except for the onions) and sauté the onion in the oiled pot using the sauté setting. Turn off sauté mode and stir in the sauce and beans. Cook on high pressure for 15 minutes, then do a natural release.
+#+end_note
 ** Credits:
 - From https://www.noracooks.com/vegan-baked-beans/
 - date created: [2025-08-05 Tue]
