@@ -1,0 +1,45 @@
+#+STARTUP: showeverything
+* Mediterranean Lentil and Orzo (30-minute one-pot dinner)
+** Ingredients:
+- 2 tablespoons extra virgin olive oil
+- 1 onion, chopped
+- 2 carrots, chopped
+- 2 cloves garlic, grated or minced
+- 2 bay leaves /and/or/ ½ teaspoon dried thyme or rosemary
+- 1 teaspoon dried oregano
+- ¼ teaspoon red pepper flakes
+- 2 tablespoons tomato paste
+- 3 cups / 460 g cooked lentils or 2 cans lentils 15 oz / 400 g each can — drained and rinsed
+- 1 ½ cups (230 g) cherry tomatoes
+- 4 cups (1 L) vegetable broth + 1 cup (250 ml) if needed to finish cooking the orzo
+- 1 cup (200 g) orzo pasta or ditalini
+- 5 ounces (150 g) baby spinach, about 5 cups
+- ½ teaspoon salt or more to taste
+- black pepper
+- a lemon squeeze, /optional/
+** Method:
+*** Sauté the veggies
+1. Heat 2 tablespoons extra virgin olive oil in a large pot or Dutch oven.
+2. Add 1 onion, 2 carrots, and 1 ½ cups cherry tomatoes, and saute on medium heat for 4-5 minutes, until the veggies start to soften and caramelize slightly.
+*** Build the flavor
+1. Add 2 cloves garlic, 2 bay leaves (or thyme), 1 teaspoon dried oregano, ¼ teaspoon red pepper flakes, and 2 tablespoons tomato paste.
+2. Stir well and cook for 1 minute to deepen the flavor.
+*** Simmer the lentils
+1. Add lentils (drained and rinsed), 4 cups vegetable broth, ½ teaspoon salt, and pepper.
+2. Stir, bring to a boil, then reduce to a simmer for 10 minutes to let the flavors come together.
+*** Cook the orzo
+1. Stir in 1 cup orzo pasta and simmer until the pasta is al dente, about 8-10 minutes, stirring often so it doesn't stick.
+2. Add more broth or hot water as needed to keep it saucy and creamy.
+*** Add the greens and finish
+1. When the orzo is nearly done, stir in 5 ounces baby spinach and cook for 1 more minute, just until wilted.
+2. Turn off the heat while the orzo is still slightly firm—it will continue cooking in the residual heat.
+3. Taste and adjust for salt, then serve with a squeeze of lemon juice for freshness.
+** Yield
+4 servings
+** Credits:
+- date created: [2026-07-20 Mon]
+- From https://theplantbasedschool.com/wprm_print/mediterranean-lentil-and-orzo-30-minute-one-pot-dinner, author Nico Pallotta via Mark Messner
+- 10 minutes prep; 20 minutes cook
+# Local Variables:
+# jinx-local-words: "Nico Pallotta ditalini"
+# End:
