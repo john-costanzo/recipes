@@ -2,7 +2,7 @@
 * Vegan Baked Beans
 ** Ingredients:
 - 2 tablespoons olive oil
-- 1 small yellow onion, chopped small
+- 1 small yellow onion, chopped
 - ⅛ cup brown sugar
 - ⅛ cup blackstrap molasses
 - ⅛ cup pure maple syrup
@@ -14,7 +14,7 @@
 - 1 tablespoon yellow mustard
 - 1-2 teaspoons Sriracha hot sauce or liquid smoke, to taste
 - ½ cup water
-- two 15-ounce cans small navy beans, drained and rinsed
+- two 15-ounce cans small navy or Great Northern beans, drained and rinsed
 ** Method:
 1. Preheat the oven to 350° F.
 2. In a large pot, warm the olive oil over medium heat.
@@ -24,7 +24,11 @@
 6. Transfer to a 2-quart casserole dish (or use a dutch oven or other oven-safe pot) and cover with foil or an oven-safe lid.
 7. Bake for 1 hour, then remove the foil/lid and cook for 30 more minutes.
 8. Keep warm until ready to serve.
+#+begin_tip
+10 ounces of Great Northern beans can be soaked overnight and then pressure cooked for 3 minutes in an Insta Pot to make 30 ounces of beans.
+#+end_tip
 ** Credits:
 - From https://www.noracooks.com/vegan-baked-beans/
 - date created: [2025-08-05 Tue]
 - [2025-08-03 Sun] I made a batch using dried Great Northern beans. I let the beans soak overnight and then simmered them for about two hours... which was probably too long (beans were a bit mushy). I had cut the sugars back to about two-thirds, but it was still a bit on the sweet side; this recipe now reflects 50% of sugars and 200% of vinegar. Also, instead of the hot sauce, I added 2 teaspoons of liquid smoke.
+- [2026-07-18 Sat] This is probably /still/ too much sugar!
