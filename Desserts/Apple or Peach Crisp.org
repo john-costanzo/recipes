@@ -1,0 +1,22 @@
+#+STARTUP: showeverything
+* Apple or Peach Crisp
+** Ingredients:
+- 4 cups sliced tart apples or peaches (about 4 medium)
+- ⅔ cup packed brown sugar
+- ½ cup oats
+- ½ cup flour
+- ¾ teaspoon ground cinnamon
+- ¾ teaspoon ground nutmeg
+- ⅓ cup butter, softened
+** Method:
+1. Heat oven to 375°.
+2. Arrange fruit in a greased square pan.
+3. Mix remaining ingredients.
+4. Sprinkle over fruit.
+5. Bake until tipping is golden brown and fruit is tender.
+#+begin_tip
+Serve warm and, if desired, with cream or ice cream.
+#+end_tip
+** Credits:
+- date created: [2026-08-13 Thu]
+- From Betty Crocker's cookbook, page 260. Also https://www.bettycrocker.com/recipes/apple-crisp/3715a45c-3c00-430c-bbe2-9865f9013238
