@@ -1,7 +1,7 @@
 #+STARTUP: showeverything
 * Grain Bowls
 ** Ingredients:
-+ 1 cup grains:
++ 1 cup grains, one or more of:
     - farro
     - quinoa
     - couscous
@@ -10,7 +10,7 @@
     - wheat berries
     - rice
     - freekeh
-+ 1 cup vegetables
++ 1 cup vegetables, one or more of:
     - black beans
     - steamed chard or spinach
     - roasted beets
@@ -23,12 +23,12 @@
     - red onions or scallions
     - edamame
     - 6 beets marinated in 3 tablespoon soy sauce, 1 tablespoon sesame oil, 1 small minced garlic clove, ½ teaspoon grated ginger, 1 teaspoon minced green onion and ⅛ teaspoon kosher salt
-+ ½ cup protein
++ ½ cup protein, one or more of:
     - cheese
     - tofu
     - tempeh
     - poached egg
-+ ¼ cup sauce (one or more of these)
++ ¼ cup sauce, one or more of:
     - [[https://cookieandkate.com/easy-romesco-sauce-recipe/][Romesco]]
     - mix ½ cup of mayonnaise with 1 tablespoon of hot sauce and ½ tablespoon of soy sauce
     - pesto
@@ -39,7 +39,7 @@
     - vinaigrette made of red wine vinegar and honey
     - hummus
     - ginger root marinated in vinegar
-+ ¼ cup "toppers"
++ ¼ cup "toppers", one or more of:
     - mandolined cucumber
     - pickled radishes
     - avocado slices
