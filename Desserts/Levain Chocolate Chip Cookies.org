@@ -1,0 +1,42 @@
+#+STARTUP: showeverything
+* Levain Chocolate Chip Cookies
+This recipe requires refrigerating the portioned cookie dough for at least 8 hours before baking. Conventional-size semisweet chocolate chips such as Nestlé Toll House Morsels provide the best distribution of chocolate without making the interior too gooey; Ghirardelli 60% Cacao Bittersweet Chocolate Chips are too large. Nuts are important for the cookies’ texture so do not omit them, but you can substitute pecans. To enjoy the moist interior that characterizes a Levain-style cookie, eat these within a few hours of baking.
+** Ingredients:
+- ⅔ cup packed (4⅔ ounces/132 grams) dark brown sugar
+- ½ cup (3½ ounces/99 grams) granulated sugar
+- 9 tablespoons unsalted butter
+- 2¼ cups (11¼ ounces/319 grams) all-purpose flour
+- 1½ teaspoons baking powder
+- ½ teaspoon baking soda
+- 1 teaspoon table salt
+- 2 cups walnuts, toasted
+- 2 large eggs
+- 1 tablespoon vanilla extract
+- 2 cups (12 ounces/340 grams) semisweet chocolate chips
+** Method:
+1. Combine brown sugar and granulated sugar in large bowl.
+2. Heat butter in 10-inch skillet over medium-high heat until melted, about 2 minutes.
+3. Continue to cook, swirling skillet and stirring constantly with silicone spatula, until butter is dark golden brown and has nutty aroma, 1 to 3 minutes longer.
+4. Pour over sugar mixture and whisk until combined.
+5. Set aside to cool slightly, about 5 minutes.
+6. While butter mixture is cooling, whisk flour, baking powder, baking soda, and salt in medium bowl until combined.
+7. Pile walnut halves on cutting board and crush with heel of your hand to create pieces from ¼ to ½ inch.
+8. Set aside.
+9. Line rimmed baking sheet with parchment paper.
+10. Add eggs and vanilla to butter mixture and whisk until smooth.
+11. Using silicone spatula, stir in flour mixture until fully combined.
+12. Stir in chocolate chips and walnuts until evenly distributed.
+13. Divide dough into 8 equal portions (about ¾ cup/5¾ ounces) and form into rough spheres.
+14. Arrange on prepared baking sheet, leaving at least 2 inches between portions.
+15. Refrigerate, uncovered, for at least 8 hours.
+   #+begin_tip
+         Portions can be refrigerated for up to 6 days; after 12 hours, transfer to zipper-lock bag. Alternatively, freeze dough balls for up to 1 month; defrost in refrigerator overnight before baking.
+   #+end_tip
+17. Adjust oven rack to middle position and heat oven to 350°.
+18. Line second rimmed baking sheet with parchment paper.
+19. Arrange 4 cookies on each sheet, leaving about 3 inches between portions.
+20. Bake cookies, 1 sheet at a time, until cookies are deep golden brown and edges are set, about 22 minutes, rotating sheet halfway through baking.
+21. Transfer sheet to wire rack; cool cookies on sheet for 1 hour before serving.
+** Credits:
+- date created: [2026-08-28 Fri]
+- From Cooks Illustrated September/October 2026
