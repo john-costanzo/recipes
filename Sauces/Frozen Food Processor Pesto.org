@@ -29,6 +29,6 @@
           Never, never, never heat or reheat pesto sauce. It will become bitter, so no leftovers!!!
    #+end_warning
 ** Credits:
-- From New York Times
+- From New York Times https://cooking.nytimes.com/recipes/2653-basil-pesto
 - date created: [2021-07-08 Thu]
 - Oil was adjusted; other NYT recipes call for between ⅓ and ½ cup of olive oil.
