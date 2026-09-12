@@ -2,30 +2,33 @@
 * Frozen Food Processor Pesto
 ** Ingredients:
 - 2 cups firmly packed basil leaves
-- ⅓ cup olive oil
+- ¼ cup extra-virgin olive oil
 - 2 tablespoons pine nuts
 - 2 cloves peeled garlic
-- ⅔ cup parmesan cheese
+- ½ cup Parmesan cheese
 ** Method:
-1. Blend all ingredients in a food processor until smoot, stopping to scrape sides from time to time.
-2. Ladle mixture into ice cube trays.
-3. Top off with a little olive oil.
-4. Cover with plastic wrap and freeze.
-5. When solid, empty trays into plastic bags and store in freezer.
-6. When ready to prepare pasta, gently thaw the desired amount of pesto (4 cubes per ½ pound of pasta).
-7. When at rom temperature, add 1 tablespoons parmesan cheese to each cube.
-8. Place in serving dish.
-9. Boil water for pasta.
-10. Add a couple of teaspoons of the pasta’s boiling water and stir until smooth.
-11. Toss pasta in the sauce and serve immediately.
+1. Blend basil, pine nuts and garlic in a food processor until finely minced,
+2. With motor running, slowly dribble in the oil and process until the mixture is smooth.
+3. Add the cheese and process very briefly, just long enough to combine.
+*** Storing
+1. Ladle mixture into ice cube trays.
+2. Top off with a little olive oil.
+3. Cover with plastic wrap and freeze.
+4. When solid, empty trays into plastic bags and store in freezer.
+5. When ready to prepare pasta, gently thaw the desired amount of pesto (4 cubes per ½ pound of pasta).
+6. When at room temperature, add 1 tablespoons Parmesan cheese to each cube.
+*** Using
+1. Boil water for pasta.
+2. Add a couple of teaspoons of the pasta’s boiling water and stir until smooth.
+3. Toss pasta in the sauce and serve immediately.
+   #+begin_note
+         Yield: 12 tablespoons (cubes) or enough for 1- 1½ pounds of pasta.
+   #+end_note
 
-    #+begin_note
-    Yield: 12 tablespoons (cubes) or enough for 1- 1½ pounds of pasta.
-    #+end_note
-
-    #+begin_warning
-    Never, never, never heat or reheat pesto sauce. It will become bitter, so no leftovers!!!
-    #+end_warning
+   #+begin_warning
+          Never, never, never heat or reheat pesto sauce. It will become bitter, so no leftovers!!!
+   #+end_warning
 ** Credits:
 - From New York Times
 - date created: [2021-07-08 Thu]
+- Oil was adjusted; other NYT recipes call for between ⅓ and ½ cup of olive oil.
