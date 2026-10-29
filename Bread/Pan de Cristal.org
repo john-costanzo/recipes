@@ -51,11 +51,11 @@ Sample timelines:
 | 8:00 a.m.  | 1:00 p.m.  | Coil fold #1  |
 | 8:20 a.m.  | 1:20 p.m.  | Coil fold #2  |
 | 8:40 a.m.  | 1:40 p.m.  | Coil fold #3  |
-| 10:00 a.m. | 3:00 p.m.  | Coil fold #4  |
-| 12:00 noon | 5:00 p.m.  | Divide        |
-| 12:05 p.m. | 5:05 p.m.  | Bake #1       |
-| 12:20 p.m. | 5:20 p.m.  | Bake #2       |
-| 12:35 p.m. | 5:35 p.m.  | Finished!     |
+| 9:00 a.m.  | 2:00 p.m.  | Coil fold #4  |
+| 11:00 a.m. | 4:00 p.m.  | Divide        |
+| 11:05 a.m. | 4:05 p.m.  | Bake #1       |
+| 11:20 a.m. | 4:20 p.m.  | Bake #2       |
+| 11:35 a.m. | 4:35 p.m.  | Finished!     |
 |------------+------------+---------------|
 ** Tags:
 IsFavorite
