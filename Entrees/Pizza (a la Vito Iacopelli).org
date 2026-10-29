@@ -1,0 +1,57 @@
+#+STARTUP: showeverything
+* Pizza (a la Vito Iacopelli)
+** Ingredients:
+*** Poolish
+- 300 ml room temperature water
+- 300 g flour (00 or all purpose)
+- 5 g dry yeast
+- 5 g honey
+*** Pizza Dough
+- 700 ml of water
+- 40 g sea salt
+- 1,250 g of flour
+** Method:
+*** Poolish
+1. Start 25 hours before making pizza.
+2. Combine water, yeast and honey in plastic container.
+3. Add flour and mix until smooth with spoon.
+4. Cover and leave for one hour at room temperature and then place in the refrigerator overnight.
+*** Pizza
+**** Make dough balls
+1. Add water to larger bowl.
+2. Then add the starter dough.
+3. Mix with spoon.
+4. Add half of the flour and mix.
+5. Add salt and combine.
+6. Add remaining flour.
+7. Mix together and knead until smooth. (The dough will be sticky.)
+8. Cover dough and let rest for 15 minutes.
+9. Next, cover hands in olive oil.
+10. Lift dough turning it under until it forms a big ball until smooth.
+11. Add olive oil to large bowl.
+12. Place ball in bowl and let sit for 1 hour.
+13. Cover hands in olive oil.
+14. Work dough into oval ball, then cut into three equal sections.
+15. Turn each section into a ball (225 g) by wrapping edges under each other until you have a perfect ball.
+16. Flour a proofing box and place pizza dough balls about 3 fingers apart.
+17. Add little bit of oil on top of we each dough ball in case it rises and touches the lids.
+18. Rest for two hours at room temperature.
+**** Cook pizza
+1. After one hour, put stone in oven and turn on to oven's maximum temperature.
+2. Once dough has sat gently coat each side of ball in flour.
+  #+begin_note
+  Keep top side up at all times.
+  #+end_note
+3. Gently press ball working from middle to outside forming a circle.
+4. Turn over and repeat forming a circle, pressing and pulling the dough to about 8 to 10 inches.
+5. Add sauce and place pizza in oven.
+6. Cook until golden, then remove pizza from oven.
+7. Add cheese, other toppings and more olive oil.
+8. Return to the oven and cook until the cheese has melted.
+** Credits:
+- date created: [2026-10-29 Thu]
+- From https://www.youtube.com/watch?v=G-jPoROGHGE
+
+# Local Variables:
+# jinx-local-words: "Iacopelli"
+# End:
