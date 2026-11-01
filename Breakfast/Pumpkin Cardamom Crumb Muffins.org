@@ -1,0 +1,42 @@
+#+STARTUP: showeverything
+* Pumpkin Cardamom Crumb Muffins
+** Ingredients:
+*** for the crumb topping
+- ¾ cup (96 grams) all-purpose flour 
+- ½ cup (110 grams) packed dark brown sugar 
+- 1 teaspoon ground cardamom
+- 1 teaspoon ground cinnamon 
+- salt
+- ½ cup (113 grams) unsalted butter, melted (1 stick)
+*** for the muffins
+1 ¼ cups (251 grams) granulated sugar
+½ cup (125 milliliters) vegetable oil
+1 teaspoon vanilla extract
+2 large eggs
+1 (15-ounce (425-gram)) can pumpkin purée
+2 cups (256 grams) all-purpose flour 
+3 tablespoons [[https://john-costanzo.github.io/recipe_browser.html?view=CostanzoRecipes_Breakfast_PumpkinSpice][pumpkin spice]]
+1 teaspoon baking soda
+1 teaspoon salt
+½ teaspoon ground cardamom
+** Method:
+1. Heat the oven to 375°.
+2. Grease or line a 12-cup muffin tin.
+*** Make the crumb topping: 
+1. Whisk together the flour, brown sugar, cardamom, cinnamon and a pinch of salt.
+2. Add the melted butter and mix with a fork until large, solid chunks form.
+3. Set aside.
+*** Prepare the muffins: 
+1. In a large bowl, whisk together the granulated sugar, vegetable oil and vanilla extract.
+2. Add eggs and pumpkin puree and whisk to combine.
+3. In a separate bowl, whisk together all-purpose flour, pumpkin spice, baking soda, salt and cardamom.
+4. Add the dry ingredients to the wet ingredients and stir to combine.
+5. Evenly divide the batter among the muffin cups.
+6. Evenly top the batter with crumb topping, gently pressing the crumbs into the batter.
+7. Bake for 25 minutes, until muffins are springy to the touch and a toothpick inserted in the center comes out clean.
+8. Set the pan on a wire rack to cool.
+9. Serve warm or at room temperature.
+10. Store in an airtight container at room temperature for up to 4 days.
+** Credits:
+- date created: [2026-11-01 Sun]
+- From https://cooking.nytimes.com/recipes/1026115-pumpkin-cardamom-crumb-muffins
