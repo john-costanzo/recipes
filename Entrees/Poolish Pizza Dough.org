@@ -2,35 +2,41 @@
 * Poolish Pizza Dough
 ** Ingredients:
 *** For the Poolish
-- 745g flour
-- 745g water
-- 1.5g instant yeast
+- 186g flour
+- 186g water
+- 0.375 (⅛ teaspoon) instant yeast
 *** For the Final Dough
-- The Poolish
-- 1490g flour
-- 750g water
-- 63g salt
-- 2.5g instant yeast
-- 4g Diastatic Malt (optional)
-- 60g Olive Oil
+- the Poolish
+- 0.625g (scant ¼ teaspoon) instant yeast
+- 47g water
+- 373g flour
+- 1g (⅓ teaspoon) Diastatic Malt (optional)
+- 16g salt
+- 15g olive oil
 ** Method:
-1. Make the poolish:
+*** Make the poolish:
      a. Combine flour, water, and yeast.
      b. Mix until smooth and loose (almost like pancake batter).
      c. Cover and let ferment at room temperature for 12–16 hours.
-2. Mix the dough:
+*** Mix the dough:
      a. Add the poolish to your mixer with the remaining yeast and water.
      b. Begin mixing on low and slowly add the remaining flour.
      c. Once a shaggy dough forms:
-          - Add diastatic malt powder
+          - Add diastatic malt powder, if using.
           - Continue mixing until the dough begins to come together
           - Once the dough clears the bowl, add salt
           - Mix on medium-low speed
           - Add oil last and mix until fully incorporated 
-3. Strengthen the dough by performing 1–2 sets of stretch and folds to build structure without overmixing. Wait ~15-20 minutes between sets.
-4. Divide into dough balls and place in the fridge for an overnight cold ferment (up to 24 hours). This will develop a deeper flavor and improve handling.
-5. Stretch and bake:
-     a. Remove dough from fridge ~2hrs before you want to use it.
+*** Strengthen the dough
+1. Perform 1–2 sets of stretch and folds to build structure without overmixing.
+2. Wait ~15-20 minutes between sets.
+*** Divide dough
+1. Divide into 475g dough balls and place in the fridge for an overnight cold ferment (up to 24 hours).
+  #+begin_note
+  This will develop a deeper flavor and improve handling.
+  #+end_note
+*** Stretch and Bake dough
+     a. Remove dough from fridge ~2 hours before you want to use it.
      b. Stretch and top as you please.
      c. Place a baking steel or pizza stone in the top third of your oven.
      d. Set oven to 550ºF.
@@ -39,7 +45,7 @@
 ** Credits:
 - date created: [2026-06-10 Wed]
 - From https://www.youtube.com/watch?v=YmSUfw2wKRY
-This makes about 3860g of dough.
+This makes about 3,860g of dough.
 
 Baker's Percentages:
 - 67% hydration
@@ -50,3 +56,4 @@ Baker's Percentages:
 - 0.18% diastatic malt, optional
 
 This is a 67% hydration poolish dough with one-third of the flour prefermented in the poolish. You can utilize these bakers percentages to adapt this recipe to make as much or as little dough as you'd like.
+- The original recipe makes /a lot/ of pizza dough (enough for 8 pies!). The recipe is now scaled to one-quarter; it should make two 475g dough balls.
