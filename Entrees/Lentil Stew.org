@@ -1,9 +1,10 @@
 #+STARTUP: showeverything
 * Lentil Stew
 ** Ingredients:
-- ~2 tablespoons oil
+- 2 tablespoons oil
 - 1 medium onion, sliced
 - 1 large carrot, sliced (about ¾ cup)
+- 1 large stalk celery, sliced (about ¾ cup)
 - 1 clove garlic, finely chopped
 - 4 cups water
 - 12 ounces dried lentils (about 2 cups)
