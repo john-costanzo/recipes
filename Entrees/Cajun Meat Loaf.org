@@ -1,6 +1,5 @@
 #+STARTUP: showeverything
 * Cajun Meat Loaf
-
 ** Ingredients:
 *** Meat Loaf
 - 1 cup long grain brown rice
@@ -10,7 +9,7 @@
 - 2 cups diced onion
 - 1 cup celery, chopped
 - 1 cup diced green pepper
-- 4 jalapeno peppers, chopped
+- 4 jalapeño peppers, chopped
 - 1 tablespoon garlic, chopped
 - 1 cup pecans, chopped
 - ½ cup sesame seeds
@@ -22,33 +21,32 @@
 - 1 pound cheddar cheese grated
 - 8 ounces tomato juice or sauce
 - ¼ cup soy sauce
-
 *** Barbecue Sauce
 - 1 cup tomato sauce
 - ½ teaspoon liquid smoke
 - ¼ cup sugar
 - ¼ cup cider vinegar
 - ¼ cup tomato paste
-
 ** Method:
-1. Take half the oil, and saute uncooked rice over low heat until golden. Stir often.
-
-2. Add 3 cups water, and cook uncovered until rice is tender.
-
-3. In another saute pan, place lentils, 4 cups water and  ½ teaspoon salt. Cook until tender, about 30 minutes and drain. (Do not overcook; lentils should be chewy.)
-
-4. In a large saute pan, take the rest of the oil and saute half the onions until brown.
-
-5. Add the rest of onions, celery and peppers and cook until tender, or about 5 minutes.
-
-6. Mix in the rest of the ingredients, except eggs, cheese and tomato juice. Let cool, then beat eggs with tomato juice and add to mixture.
-
-7. Add ¼ cup soy sauce. Knead. Wait 5 minutes so TVP can soak up moisture. Taste TVP to see if smooth. If crunchy, add water. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozzarella.)
-
-8. Cover with aluminum foil and bake at 275°  for 1 hour or until center is cooked.
-
-9. The meat loaf may be served with ketchup, or with the spicy chili sauce, below.
+1. Take half the oil, and saute uncooked rice over low heat until golden.
+2. Stir often.
+3. Add 3 cups water, and cook uncovered until rice is tender.
+4. In another saute pan, place lentils, 4 cups water and  ½ teaspoon salt.
+5. Cook until tender, about 30 minutes and drain. (Do not overcook; lentils should be chewy.)
+6. In a large sauté pan, take the rest of the oil and saute half the onions until brown.
+7. Add the rest of onions, celery and peppers and cook until tender, or about 5 minutes.
+8. Mix in the rest of the ingredients, except eggs, cheese and tomato juice.
+9. Let cool, then beat eggs with tomato juice and add to mixture.
+10. Add ¼ cup soy sauce and knead.
+11. Wait 5 minutes so TVP can soak up moisture. 
+   #+begin_tip
+   Taste TVP to see if smooth. If crunchy, add water.
+   #+end_tip
+12. Add cheese and place in baking dish. (Optionally, cover loaf with paper thin cheese: e.g., mozzarella.)
+13. Cover with aluminum foil and bake at 275°  for 1 hour or until center is cooked.
+#+begin_note
+The meat loaf may be served with ketchup, or with the barbecue sauce.
+#+end_note
 ** Credits:
-- Park and Orchard Recipe
-- from The Record: 6 November 1988
+- Park and Orchard Recipe from /The Record/: 6 November 1988
 - date created: [2007-06-27 Wed]
