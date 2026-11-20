@@ -2,14 +2,14 @@
 * Hearty vegan 15‑bean soup with Southwest flavors
 ** Ingredients:
 - 1 lb 15‑bean soup mix, seasoning packet discarded
-- 4 cups low‑sodium vegetable broth
-- 4 cups water
-- 2 Tbsp low‑sodium soy sauce or tamari
 - 1 medium sweet onion, chopped
 - 2 carrots, chopped
 - 2 ribs celery, chopped
 - 1 bell pepper, chopped (any color)
 - 3 cloves garlic, minced
+- 4 cups low‑sodium vegetable broth
+- 4 cups water
+- 2 Tbsp low‑sodium soy sauce or tamari
 - 1–2 Tbsp mild chili powder
 - 1 tsp ground cumin
 - ½ tsp dried thyme
@@ -24,7 +24,7 @@
 2. Chop onion, carrots, celery, bell pepper, and mince garlic.
 *** Load the Instant Pot
 1. You can skip sautéing here if you want fewer steps (the beans still pick up plenty of flavor), or quickly sauté onion, carrots, celery, and pepper in a bit of oil first for deeper flavor.
-2. Add beans, broth, water, soy sauce, onion, carrots, celery, bell pepper, garlic, chili powder, cumin, thyme, and bay leaf to the pot.
+2. Add beans, onion, carrots, celery, bell pepper, garlic,  broth, water, soy sauce, chili powder, cumin, thyme, and bay leaf to the pot.
 *** Pressure cook
 1. Lock lid, set valve to Sealing.
 2. Cook on High Pressure for 45 minutes.
